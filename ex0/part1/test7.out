@@ -1,0 +1,20 @@
+Enter size of input:
+Enter numbers:
+The number 1 is a power of 2: 1 = 2^0
+The number 2 is a power of 2: 2 = 2^1
+The number 4 is a power of 2: 4 = 2^2
+The number 8 is a power of 2: 8 = 2^3
+The number 16 is a power of 2: 16 = 2^4
+The number 32 is a power of 2: 32 = 2^5
+The number 64 is a power of 2: 64 = 2^6
+The number 128 is a power of 2: 128 = 2^7
+The number 256 is a power of 2: 256 = 2^8
+The number 512 is a power of 2: 512 = 2^9
+The number 1024 is a power of 2: 1024 = 2^10
+The number 2048 is a power of 2: 2048 = 2^11
+The number 4096 is a power of 2: 4096 = 2^12
+The number 8192 is a power of 2: 8192 = 2^13
+The number 16384 is a power of 2: 16384 = 2^14
+The number 32768 is a power of 2: 32768 = 2^15
+The number 65536 is a power of 2: 65536 = 2^16
+Total exponent sum is 136

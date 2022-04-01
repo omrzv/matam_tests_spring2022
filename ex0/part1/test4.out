@@ -1,0 +1,8 @@
+Enter size of input:
+Enter numbers:
+The number 2 is a power of 2: 2 = 2^1
+The number 8192 is a power of 2: 8192 = 2^13
+The number 1 is a power of 2: 1 = 2^0
+The number 8 is a power of 2: 8 = 2^3
+The number 2 is a power of 2: 2 = 2^1
+Total exponent sum is 18
