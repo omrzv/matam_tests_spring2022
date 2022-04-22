@@ -1,5 +1,5 @@
 CC=gcc
-OBJS=RLEList.o AsciiArt.o main.o
+OBJS=RLEList.o AsciiArtTool.o main.o
 EXEC=AsciiArtTool
 DEBUG_FLAG=# can add g
 COMP_FLAG=-std=c99 -Wall -Werror -pedantic-errors
@@ -14,11 +14,11 @@ $(EXEC) : $(OBJS)
 	$(CC) $(DEBUG_FLAG) $(OBJS) -o $@
 
 RLEList.o : RLEList.c RLEList.h
-	$(CC) -c $(COMP_FLAG) $(DEBUG_FLAG) -I./tool $*.c
-AsciiArt.o : AsciiArt.c AsciiArt.h RLEList.h
-	$(CC) -c $(COMP_FLAG) $(DEBUG_FLAG) -I./tool $*.c
-main.o: main.c AsciiArt.h RLEList.h
-	$(CC) -c $(COMP_FLAG) $(DEBUG_FLAG) -I./tool $*.c
+	$(CC) -c $(COMP_FLAG) $(DEBUG_FLAG) $*.c
+AsciiArtTool.o : AsciiArtTool.c AsciiArtTool.h RLEList.h
+	$(CC) -c $(COMP_FLAG) $(DEBUG_FLAG) $*.c
+main.o: main.c AsciiArtTool.h RLEList.h
+	$(CC) -c $(COMP_FLAG) $(DEBUG_FLAG) $*.c
 
 .PHONY: clean
 clean:
