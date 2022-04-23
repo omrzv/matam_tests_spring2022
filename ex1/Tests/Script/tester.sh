@@ -81,7 +81,8 @@ do
 	fi
 	if [ "${i##*.}" = "in" ]
 	then
-		valgrind --log-file=$i.valgrind_log --leak-check=full ./$1 < $i 1>/dev/null 2>/dev/null
+		valgrind --log-file=$i.valgrind_log --leak-check=full ./$1 -i $i ${i%.*}v.out 1>/dev/null 2>/dev/null
+		rm ${i%.*}v.out
 	else
 		./$i "valgrind --log-file=$(pwd)/$i.valgrind_log --leak-check=full $(realpath $1)" 1>/dev/null 2>/dev/null
 	fi
@@ -126,6 +127,6 @@ do
 	fi
 	run_posttest $i
 done
-gcov RLEList.c AsciiArt.c main.c
+gcov RLEList.c AsciiArtTool.c main.c
 rm $1 $1_cov
 exit $RET
