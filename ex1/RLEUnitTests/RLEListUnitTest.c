@@ -220,10 +220,11 @@ bool RLEListCreateTest()
     bool result = true;
 
     RLEList list = RLEListCreate();
+    RLEList list2 = RLEListCreate();
+
     ASSERT_TEST(list != NULL, destory);
     ASSERT_TEST(RLEListSize(list) == 0, destory);
 
-    RLEList list2 = RLEListCreate();
     ASSERT_TEST(list2 != NULL, destory);
     ASSERT_TEST(RLEListSize(list2) == 0, destory);
 
@@ -231,6 +232,7 @@ bool RLEListCreateTest()
 
     destory:
     RLEListDestroy(list);
+    RLEListDestroy(list2);
     return result;
 }
 
@@ -416,7 +418,7 @@ bool RLEListGetTest()
     bool result = true;
     RLEList list = RLEListCreate();
     RLEListResult getResult;
-    char testString[16383];
+    char testString[16384];
 
     ASSERT_TEST(RLEListGet(NULL, 0, &getResult) == 0, destroy);
     ASSERT_TEST(getResult == RLE_LIST_NULL_ARGUMENT, destroy);
@@ -428,13 +430,14 @@ bool RLEListGetTest()
     }
 
     int i = 0;
-    for (int stringLen = 1; stringLen <= 16383; stringLen = 2 * stringLen + 1)
+    for (int stringLen = 1; stringLen < 16384; stringLen = 2 * stringLen + 1)
     {
         // Setup the string
         for (int j = 0; j < stringLen; j++)
         {
             testString[j] = '0' + weirdHaserHelper(i++);
         }
+        testString[stringLen] = '\0';
 
         // Setup the list
         RLEListDestroy(list);
@@ -488,6 +491,28 @@ bool RLEListExportToStringTest()
     RLEListDestroy(list);
     MAKE_LIST_WITH_ASSERT(list, "ABBabb------------\n\na", destroy);
     char* expectedResult = "A1\nB2\na1\nb2\n-12\n\n2\na1\n";
+    actuallResult = RLEListExportToString(list, &exportResult);
+    
+    ASSERT_TEST(exportResult == RLE_LIST_SUCCESS, destroy);
+    comparer = actuallResult;
+    while (*expectedResult)
+    {
+        ASSERT_TEST(*comparer != '\0', destroy);
+        ASSERT_TEST(*(expectedResult++) == *(comparer++), destroy);
+    }
+    ASSERT_TEST(*comparer == '\0', destroy);
+
+    ASSERT_TEST(RLEListRemove(list, 0) == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListRemove(list, 2) == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListRemove(list, 4) == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListRemove(list, 6) == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListRemove(list, 13) == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListRemove(list, 15) == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListAppend(list, 'a') == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListAppend(list, '\n') == RLE_LIST_SUCCESS, destroy);
+    ASSERT_TEST(RLEListRemove(list, 15) == RLE_LIST_SUCCESS, destroy);
+    expectedResult = "B2\nb2\n-9\n\n3\n";
+    free(actuallResult);
     actuallResult = RLEListExportToString(list, &exportResult);
     
     ASSERT_TEST(exportResult == RLE_LIST_SUCCESS, destroy);
@@ -628,7 +653,6 @@ bool RLEListMapTest()
     
     RLEListDestroy(list);
     MAKE_LIST_WITH_ASSERT(list, text, destroy);
-    printf("%d", RLEListMap(list, map3));
     ASSERT_TEST(RLEListMap(list, map3) == RLE_LIST_SUCCESS, destroy);
     ASSERT_TEST_FULL_LIST(list, text, destroy);
 
