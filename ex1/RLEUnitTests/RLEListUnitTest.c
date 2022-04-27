@@ -579,7 +579,7 @@ bool RLEListExportToStringTest()
     ASSERT_TEST(exportResult == RLE_LIST_NULL_ARGUMENT, destroy);
     actuallResult = RLEListExportToString(list, NULL);
     ASSERT_TEST(*actuallResult == '\0', destroy);
-
+    free(actuallResult); // ;)
     RLEListDestroy(list);
     MAKE_LIST_WITH_ASSERT(list, "ABBabb------------\n\na", destroy);
     char* expectedResult = "A1\nB2\na1\nb2\n-12\n\n2\na1\n";
