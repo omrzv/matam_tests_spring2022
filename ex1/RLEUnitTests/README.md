@@ -5,6 +5,7 @@ They are testing most behaviors, with the exeption of memory allocation fail, an
 to run the tests set up the makefileRLEUnitTests in the same folder as RLEList.h and RLEList.c, and set the RLEUnitTests folder in the same folder, and run the command:
 
 make -f makefileRLEUnitTests && RLEUnitTests/RLEUnitTester.exe
+
 make -f makefileRLEUnitTests && valgrind --leak-check=full RLEUnitTests/RLEUnitTester.exe
 
 you can also run only a single test, for example:
