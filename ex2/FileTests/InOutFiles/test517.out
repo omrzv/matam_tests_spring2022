@@ -1,0 +1,323 @@
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Ford
+Level: 1
+Force: 5
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 1
+------------------------
+Player Details:
+Name: Ford
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: Ford
+Level: 1
+Force: 25
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 17
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 2
+Force: 25
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 271
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 3
+Force: 25
+HP: 100
+Coins: 299
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 4
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 4
+Force: 25
+HP: 100
+Coins: 303
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Ford
+Level: 4
+Force: 25
+HP: 100
+Coins: 303
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 239620
+------------------------
+Player Details:
+Name: Ford
+Level: 4
+Force: 25
+HP: 100
+Coins: 303
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 69
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 5
+Force: 25
+HP: 100
+Coins: 372
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Ford
+Level: 5
+Force: 25
+HP: 100
+Coins: 380
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Ford
+Level: 5
+Force: 25
+HP: 100
+Coins: 382
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Ford
+Level: 5
+Force: 25
+HP: 100
+Coins: 382
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Ford
+Level: 5
+Force: 25
+HP: 100
+Coins: 393
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 5
+------------------------
+Player Details:
+Name: Ford
+Level: 5
+Force: 45
+HP: 100
+Coins: 388
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 7
+------------------------
+Player Details:
+Name: Ford
+Level: 5
+Force: 51
+HP: 100
+Coins: 381
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 9
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 6
+Force: 51
+HP: 100
+Coins: 390
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 16
+------------------------
+Player Details:
+Name: Ford
+Level: 6
+Force: 55
+HP: 100
+Coins: 374
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 7
+Force: 55
+HP: 100
+Coins: 394
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: Ford
+Level: 7
+Force: 55
+HP: 100
+Coins: 386
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 8
+Force: 55
+HP: 100
+Coins: 392
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Ford
+Level: 8
+Force: 55
+HP: 100
+Coins: 408
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 1
+------------------------
+Player Details:
+Name: Ford
+Level: 8
+Force: 55
+HP: 100
+Coins: 407
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: Ford
+Level: 8
+Force: 75
+HP: 100
+Coins: 403
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 17
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 9
+Force: 75
+HP: 100
+Coins: 420
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 271
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ford
+Level: 10
+Force: 75
+HP: 100
+Coins: 691
+------------------------
+The player has won! :D

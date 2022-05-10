@@ -1,0 +1,454 @@
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 2
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 3
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 5
+HP: 97
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 73
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 5
+HP: 97
+Coins: 75
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 20
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 10
+HP: 97
+Coins: 55
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 10
+HP: 97
+Coins: 61
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 10
+HP: 97
+Coins: 81
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 10
+HP: 97
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 17
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 10
+HP: 96
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 10
+HP: 94
+Coins: 81
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 2
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 2
+Force: 15
+HP: 94
+Coins: 79
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 3
+Force: 15
+HP: 94
+Coins: 79
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 3
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 3
+Force: 27
+HP: 94
+Coins: 76
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 4
+Force: 27
+HP: 94
+Coins: 81
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 4
+Force: 27
+HP: 94
+Coins: 83
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 73
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 4
+Force: 27
+HP: 94
+Coins: 156
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 20
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 4
+Force: 32
+HP: 94
+Coins: 136
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 4
+Force: 32
+HP: 94
+Coins: 142
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 4
+Force: 32
+HP: 94
+Coins: 162
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 4
+Force: 32
+HP: 94
+Coins: 162
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 17
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 5
+Force: 32
+HP: 94
+Coins: 179
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 6
+Force: 32
+HP: 94
+Coins: 184
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 2
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 6
+Force: 37
+HP: 94
+Coins: 182
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 7
+Force: 37
+HP: 94
+Coins: 182
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 3
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 7
+Force: 49
+HP: 94
+Coins: 179
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 8
+Force: 49
+HP: 94
+Coins: 184
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 8
+Force: 49
+HP: 94
+Coins: 186
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 73
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 8
+Force: 49
+HP: 94
+Coins: 259
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 20
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 8
+Force: 54
+HP: 94
+Coins: 239
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 8
+Force: 54
+HP: 94
+Coins: 245
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 8
+Force: 54
+HP: 94
+Coins: 265
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 8
+Force: 54
+HP: 94
+Coins: 265
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 17
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 9
+Force: 54
+HP: 94
+Coins: 282
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ice_Age
+Level: 10
+Force: 54
+HP: 94
+Coins: 287
+------------------------
+The player has won! :D

@@ -1,0 +1,461 @@
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 378880
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 94
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 5
+HP: 92
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 5
+HP: 92
+Coins: 25
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 3122860
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 5
+HP: 92
+Coins: 25
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 16
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 1
+Force: 16
+HP: 92
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 14
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 2
+Force: 16
+HP: 92
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 75
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 2
+Force: 16
+HP: 92
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 16
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 3
+Force: 16
+HP: 92
+Coins: 39
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 74
+Cost: 17
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 3
+Force: 16
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 196
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 3
+Force: 16
+HP: 100
+Coins: 218
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 6
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 4
+Force: 16
+HP: 100
+Coins: 224
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 4
+Force: 16
+HP: 100
+Coins: 224
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 378880
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 4
+Force: 16
+HP: 100
+Coins: 224
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 94
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 5
+Force: 16
+HP: 100
+Coins: 318
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 5
+Force: 16
+HP: 100
+Coins: 318
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 5
+Force: 16
+HP: 100
+Coins: 330
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 5
+Force: 16
+HP: 100
+Coins: 343
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 3122860
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 5
+Force: 16
+HP: 100
+Coins: 343
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 16
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 5
+Force: 27
+HP: 100
+Coins: 327
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 14
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 6
+Force: 27
+HP: 100
+Coins: 341
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 75
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 6
+Force: 27
+HP: 100
+Coins: 266
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 16
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 7
+Force: 27
+HP: 100
+Coins: 282
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 74
+Cost: 17
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 7
+Force: 27
+HP: 100
+Coins: 265
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 196
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 7
+Force: 27
+HP: 100
+Coins: 461
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 6
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 8
+Force: 27
+HP: 100
+Coins: 467
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 8
+Force: 27
+HP: 100
+Coins: 467
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 378880
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 8
+Force: 27
+HP: 100
+Coins: 467
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 94
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 9
+Force: 27
+HP: 100
+Coins: 561
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 9
+Force: 27
+HP: 100
+Coins: 561
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 9
+Force: 27
+HP: 100
+Coins: 573
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 9
+Force: 27
+HP: 100
+Coins: 586
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 3122860
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 9
+Force: 27
+HP: 100
+Coins: 586
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 16
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 9
+Force: 38
+HP: 100
+Coins: 570
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 14
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_le_Carr
+Level: 10
+Force: 38
+HP: 100
+Coins: 584
+------------------------
+The player has won! :D

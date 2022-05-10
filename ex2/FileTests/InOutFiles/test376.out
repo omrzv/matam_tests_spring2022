@@ -1,0 +1,511 @@
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 5
+------------------------
+Player Details:
+Name: for_four
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 8
+Damage taken (on loss): 2
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: for_four
+Level: 1
+Force: 5
+HP: 98
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 347
+------------------------
+Player Details:
+Name: for_four
+Level: 1
+Force: 5
+HP: 98
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: for_four
+Level: 1
+Force: 5
+HP: 98
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: for_four
+Level: 1
+Force: 5
+HP: 98
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 11
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 2
+Force: 5
+HP: 98
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: for_four
+Level: 2
+Force: 5
+HP: 98
+Coins: 42
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: for_four
+Level: 2
+Force: 5
+HP: 98
+Coins: 61
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: for_four
+Level: 2
+Force: 5
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 3
+Force: 5
+HP: 100
+Coins: 62
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: for_four
+Level: 3
+Force: 5
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 4
+Force: 5
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 16
+------------------------
+Player Details:
+Name: for_four
+Level: 4
+Force: 17
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 13
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 5
+Force: 17
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: for_four
+Level: 5
+Force: 17
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 0
+------------------------
+Player Details:
+Name: for_four
+Level: 5
+Force: 17
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: for_four
+Level: 5
+Force: 17
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 9
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 6
+Force: 17
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 14
+------------------------
+Player Details:
+Name: for_four
+Level: 6
+Force: 17
+HP: 100
+Coins: 76
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 1163
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 17
+HP: 100
+Coins: 1239
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 12
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 17
+HP: 100
+Coins: 1227
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 41
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 17
+HP: 100
+Coins: 1268
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 17
+HP: 100
+Coins: 1265
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 12
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 32
+HP: 100
+Coins: 1253
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 9
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 34
+HP: 100
+Coins: 1244
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 23
+Cost: 3
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 34
+HP: 100
+Coins: 1241
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 11
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 44
+HP: 100
+Coins: 1230
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 44
+HP: 100
+Coins: 1248
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 44
+HP: 100
+Coins: 1248
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 44
+HP: 100
+Coins: 1257
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: for_four
+Level: 7
+Force: 54
+HP: 100
+Coins: 1257
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 8
+Force: 54
+HP: 100
+Coins: 1257
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 18
+------------------------
+Player Details:
+Name: for_four
+Level: 8
+Force: 54
+HP: 100
+Coins: 1239
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 5
+------------------------
+Player Details:
+Name: for_four
+Level: 8
+Force: 54
+HP: 100
+Coins: 1234
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: for_four
+Level: 8
+Force: 54
+HP: 100
+Coins: 1234
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 9
+Force: 54
+HP: 100
+Coins: 1246
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 2
+------------------------
+Player Details:
+Name: for_four
+Level: 9
+Force: 54
+HP: 100
+Coins: 1244
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 17
+------------------------
+Player Details:
+Name: for_four
+Level: 9
+Force: 54
+HP: 100
+Coins: 1227
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: for_four
+Level: 9
+Force: 54
+HP: 100
+Coins: 1227
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: for_four
+Level: 9
+Force: 54
+HP: 100
+Coins: 1235
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 7
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: for_four
+Level: 10
+Force: 54
+HP: 100
+Coins: 1242
+------------------------
+The player has won! :D

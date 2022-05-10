@@ -1,0 +1,383 @@
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 17
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 265
+Cost: 8
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 270
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 270
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 270
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 8
+------------------------
+Player Details:
+Name: morphine
+Level: 1
+Force: 272
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 11
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 2
+Force: 272
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 20
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 3
+Force: 272
+HP: 100
+Coins: 52
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 7
+------------------------
+Player Details:
+Name: morphine
+Level: 3
+Force: 274
+HP: 100
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: morphine
+Level: 3
+Force: 274
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 12
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 4
+Force: 274
+HP: 100
+Coins: 76
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 7
+------------------------
+Player Details:
+Name: morphine
+Level: 4
+Force: 274
+HP: 100
+Coins: 69
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 5
+Force: 274
+HP: 100
+Coins: 74
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 274
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 274
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 17
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 274
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 274
+HP: 100
+Coins: 74
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 265
+Cost: 8
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 539
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 539
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 539
+HP: 100
+Coins: 83
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 8
+------------------------
+Player Details:
+Name: morphine
+Level: 6
+Force: 541
+HP: 100
+Coins: 75
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 11
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 7
+Force: 541
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 20
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 8
+Force: 541
+HP: 100
+Coins: 106
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 7
+------------------------
+Player Details:
+Name: morphine
+Level: 8
+Force: 543
+HP: 100
+Coins: 99
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: morphine
+Level: 8
+Force: 543
+HP: 100
+Coins: 118
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 12
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 9
+Force: 543
+HP: 100
+Coins: 130
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 7
+------------------------
+Player Details:
+Name: morphine
+Level: 9
+Force: 543
+HP: 100
+Coins: 123
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: morphine
+Level: 10
+Force: 543
+HP: 100
+Coins: 128
+------------------------
+The player has won! :D

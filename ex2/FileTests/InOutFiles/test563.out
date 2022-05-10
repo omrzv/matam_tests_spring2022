@@ -1,0 +1,466 @@
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 376
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 11
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: the_Pope
+Level: 1
+Force: 5
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 11
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 2
+Force: 5
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 11
+------------------------
+Player Details:
+Name: the_Pope
+Level: 2
+Force: 5
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Pope
+Level: 2
+Force: 5
+HP: 90
+Coins: 42
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 7
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 3
+Force: 5
+HP: 90
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Pope
+Level: 3
+Force: 5
+HP: 85
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: -47
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 5
+HP: 85
+Coins: 62
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 376
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 5
+HP: 85
+Coins: 62
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 5
+HP: 86
+Coins: 43
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 5
+HP: 86
+Coins: 58
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 15
+HP: 86
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 15
+HP: 86
+Coins: 45
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 11
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 15
+HP: 86
+Coins: 34
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 15
+HP: 86
+Coins: 53
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: the_Pope
+Level: 4
+Force: 15
+HP: 86
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 11
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 5
+Force: 15
+HP: 86
+Coins: 77
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 11
+------------------------
+Player Details:
+Name: the_Pope
+Level: 5
+Force: 15
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 6
+Force: 15
+HP: 100
+Coins: 72
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 7
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 7
+Force: 15
+HP: 100
+Coins: 79
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 8
+Force: 15
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Battle
+Force: -47
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 15
+HP: 100
+Coins: 99
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 376
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 15
+HP: 100
+Coins: 99
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 15
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 15
+HP: 100
+Coins: 95
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 25
+HP: 100
+Coins: 76
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 25
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 11
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 25
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 25
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: the_Pope
+Level: 9
+Force: 25
+HP: 100
+Coins: 103
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 11
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Pope
+Level: 10
+Force: 25
+HP: 100
+Coins: 114
+------------------------
+The player has won! :D

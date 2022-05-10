@@ -1,0 +1,394 @@
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Regression
+Level: 1
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 1
+------------------------
+Player Details:
+Name: Regression
+Level: 1
+Force: 21
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: Regression
+Level: 1
+Force: 21
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 12
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 9
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 16
+------------------------
+Player Details:
+Name: Regression
+Level: 2
+Force: 21
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 3
+Force: 21
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 18
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 4
+Force: 21
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 606
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 5
+Force: 21
+HP: 100
+Coins: 632
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Regression
+Level: 5
+Force: 21
+HP: 100
+Coins: 632
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 143836
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 6
+Force: 21
+HP: 100
+Coins: 144468
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 11
+------------------------
+Player Details:
+Name: Regression
+Level: 6
+Force: 21
+HP: 100
+Coins: 144457
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Regression
+Level: 6
+Force: 21
+HP: 100
+Coins: 144465
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 1
+------------------------
+Player Details:
+Name: Regression
+Level: 6
+Force: 37
+HP: 100
+Coins: 144464
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: Regression
+Level: 6
+Force: 37
+HP: 100
+Coins: 144454
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 37
+HP: 100
+Coins: 144454
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 12
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 56
+HP: 100
+Coins: 144442
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 56
+HP: 100
+Coins: 144448
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 9
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 56
+HP: 100
+Coins: 144439
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 56
+HP: 100
+Coins: 144439
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 56
+HP: 100
+Coins: 144427
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 56
+HP: 100
+Coins: 144426
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 16
+------------------------
+Player Details:
+Name: Regression
+Level: 7
+Force: 56
+HP: 100
+Coins: 144410
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 8
+Force: 56
+HP: 100
+Coins: 144415
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 18
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 9
+Force: 56
+HP: 100
+Coins: 144433
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 606
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Regression
+Level: 10
+Force: 56
+HP: 100
+Coins: 145039
+------------------------
+The player has won! :D

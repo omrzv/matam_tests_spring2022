@@ -1,0 +1,488 @@
+Card drawn:
+Type: Battle
+Force: 127
+Profit (on win): 16
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Antarctica
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 1
+Force: 5
+HP: 95
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Antarctica
+Level: 1
+Force: 5
+HP: 95
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 2
+Force: 5
+HP: 95
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: Antarctica
+Level: 2
+Force: 5
+HP: 97
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Antarctica
+Level: 2
+Force: 5
+HP: 97
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Antarctica
+Level: 2
+Force: 5
+HP: 78
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Antarctica
+Level: 2
+Force: 5
+HP: 79
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Antarctica
+Level: 2
+Force: 5
+HP: 91
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 19
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 3
+Force: 5
+HP: 91
+Coins: 38
+------------------------
+Card drawn:
+Type: Battle
+Force: 127
+Profit (on win): 16
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Antarctica
+Level: 3
+Force: 5
+HP: 86
+Coins: 38
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 3
+Force: 11
+HP: 86
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 3
+Force: 11
+HP: 86
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Antarctica
+Level: 3
+Force: 11
+HP: 86
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 4
+Force: 11
+HP: 86
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: Antarctica
+Level: 4
+Force: 11
+HP: 88
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Antarctica
+Level: 4
+Force: 11
+HP: 88
+Coins: 51
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 5
+Force: 11
+HP: 88
+Coins: 58
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Antarctica
+Level: 5
+Force: 11
+HP: 89
+Coins: 56
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Antarctica
+Level: 5
+Force: 11
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 19
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 6
+Force: 11
+HP: 100
+Coins: 75
+------------------------
+Card drawn:
+Type: Battle
+Force: 127
+Profit (on win): 16
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Antarctica
+Level: 6
+Force: 11
+HP: 95
+Coins: 75
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 6
+Force: 17
+HP: 95
+Coins: 67
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 6
+Force: 17
+HP: 95
+Coins: 75
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Antarctica
+Level: 6
+Force: 17
+HP: 95
+Coins: 91
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 7
+Force: 17
+HP: 95
+Coins: 94
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: Antarctica
+Level: 7
+Force: 17
+HP: 97
+Coins: 82
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Antarctica
+Level: 7
+Force: 17
+HP: 97
+Coins: 88
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 8
+Force: 17
+HP: 97
+Coins: 95
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Antarctica
+Level: 8
+Force: 17
+HP: 98
+Coins: 93
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Antarctica
+Level: 8
+Force: 17
+HP: 100
+Coins: 93
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 19
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 9
+Force: 17
+HP: 100
+Coins: 112
+------------------------
+Card drawn:
+Type: Battle
+Force: 127
+Profit (on win): 16
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Antarctica
+Level: 9
+Force: 17
+HP: 95
+Coins: 112
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 9
+Force: 23
+HP: 95
+Coins: 104
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Antarctica
+Level: 9
+Force: 23
+HP: 95
+Coins: 112
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Antarctica
+Level: 9
+Force: 23
+HP: 95
+Coins: 128
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Antarctica
+Level: 10
+Force: 23
+HP: 95
+Coins: 131
+------------------------
+The player has won! :D

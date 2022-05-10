@@ -1,0 +1,470 @@
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 9
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 902
+Cost: 17
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 12
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 5
+HP: 99
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 25
+HP: 99
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 25
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 25
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 1
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 2
+Force: 25
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 3
+Force: 25
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 6
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 4
+Force: 25
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 3
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 4
+Force: 25
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 20
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 4
+Force: 25
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 4
+Force: 25
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 9
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 4
+Force: 31
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 902
+Cost: 17
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 4
+Force: 31
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 5
+Force: 31
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 5
+Force: 31
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 12
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 5
+Force: 31
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 6
+Force: 31
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 6
+Force: 51
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 6
+Force: 51
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 6
+Force: 51
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 1
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 6
+Force: 51
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 7
+Force: 51
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 6
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 8
+Force: 51
+HP: 100
+Coins: 45
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 3
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 8
+Force: 51
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 20
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 8
+Force: 51
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 8
+Force: 51
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 9
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 8
+Force: 57
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 902
+Cost: 17
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 8
+Force: 57
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 9
+Force: 57
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 9
+Force: 57
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 12
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 9
+Force: 57
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Norma_Rae
+Level: 10
+Force: 57
+HP: 100
+Coins: 16
+------------------------
+The player has won! :D

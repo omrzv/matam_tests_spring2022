@@ -1,0 +1,454 @@
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 15
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 5
+HP: 90
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 5
+HP: 90
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 5
+HP: 90
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 5
+HP: 75
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 18
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 19
+HP: 75
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 19
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 19
+HP: 95
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 4
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 23
+HP: 95
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Limpid
+Level: 2
+Force: 23
+HP: 95
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 3
+Force: 23
+HP: 95
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 15
+------------------------
+Player Details:
+Name: Limpid
+Level: 3
+Force: 23
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 4
+Force: 23
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Limpid
+Level: 4
+Force: 23
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Limpid
+Level: 4
+Force: 23
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 5
+Force: 23
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 18
+------------------------
+Player Details:
+Name: Limpid
+Level: 5
+Force: 37
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: Limpid
+Level: 5
+Force: 37
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Limpid
+Level: 5
+Force: 37
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 4
+------------------------
+Player Details:
+Name: Limpid
+Level: 5
+Force: 41
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Limpid
+Level: 5
+Force: 41
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 6
+Force: 41
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 15
+------------------------
+Player Details:
+Name: Limpid
+Level: 6
+Force: 41
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 7
+Force: 41
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Limpid
+Level: 7
+Force: 41
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Limpid
+Level: 7
+Force: 41
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 8
+Force: 41
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 18
+------------------------
+Player Details:
+Name: Limpid
+Level: 8
+Force: 55
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: Limpid
+Level: 8
+Force: 55
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Limpid
+Level: 8
+Force: 55
+HP: 100
+Coins: 45
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 4
+------------------------
+Player Details:
+Name: Limpid
+Level: 8
+Force: 59
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Limpid
+Level: 8
+Force: 59
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 9
+Force: 59
+HP: 100
+Coins: 75
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 15
+------------------------
+Player Details:
+Name: Limpid
+Level: 9
+Force: 59
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Limpid
+Level: 10
+Force: 59
+HP: 100
+Coins: 60
+------------------------
+The player has won! :D

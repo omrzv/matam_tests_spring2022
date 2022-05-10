@@ -1,0 +1,399 @@
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 12
+------------------------
+Player Details:
+Name: Woodward
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 7
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Woodward
+Level: 1
+Force: 5
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 2
+Force: 5
+HP: 80
+Coins: 19
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Woodward
+Level: 2
+Force: 8
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 41
+Cost: 6
+------------------------
+Player Details:
+Name: Woodward
+Level: 2
+Force: 8
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Woodward
+Level: 2
+Force: 8
+HP: 80
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Woodward
+Level: 2
+Force: 14
+HP: 80
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 12
+------------------------
+Player Details:
+Name: Woodward
+Level: 2
+Force: 14
+HP: 83
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 7
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 3
+Force: 14
+HP: 83
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 4
+Force: 14
+HP: 83
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Woodward
+Level: 4
+Force: 17
+HP: 83
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 41
+Cost: 6
+------------------------
+Player Details:
+Name: Woodward
+Level: 4
+Force: 58
+HP: 83
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Woodward
+Level: 4
+Force: 58
+HP: 83
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Woodward
+Level: 4
+Force: 64
+HP: 83
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 12
+------------------------
+Player Details:
+Name: Woodward
+Level: 4
+Force: 64
+HP: 86
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 7
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 5
+Force: 64
+HP: 86
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 6
+Force: 64
+HP: 86
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Woodward
+Level: 6
+Force: 67
+HP: 86
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 41
+Cost: 6
+------------------------
+Player Details:
+Name: Woodward
+Level: 6
+Force: 108
+HP: 86
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Woodward
+Level: 6
+Force: 108
+HP: 86
+Coins: 35
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Woodward
+Level: 6
+Force: 114
+HP: 86
+Coins: 32
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 12
+------------------------
+Player Details:
+Name: Woodward
+Level: 6
+Force: 114
+HP: 89
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 7
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 7
+Force: 114
+HP: 89
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 8
+Force: 114
+HP: 89
+Coins: 46
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Woodward
+Level: 8
+Force: 117
+HP: 89
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 41
+Cost: 6
+------------------------
+Player Details:
+Name: Woodward
+Level: 8
+Force: 158
+HP: 89
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Woodward
+Level: 8
+Force: 158
+HP: 89
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Woodward
+Level: 8
+Force: 164
+HP: 89
+Coins: 39
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 12
+------------------------
+Player Details:
+Name: Woodward
+Level: 8
+Force: 164
+HP: 92
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 7
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 9
+Force: 164
+HP: 92
+Coins: 34
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Woodward
+Level: 10
+Force: 164
+HP: 92
+Coins: 53
+------------------------
+The player has won! :D

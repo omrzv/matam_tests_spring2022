@@ -1,0 +1,543 @@
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 13
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 1
+Force: 5
+HP: 94
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 1
+Force: 5
+HP: 94
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 2
+Force: 5
+HP: 94
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 2
+Force: 5
+HP: 94
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 2
+Force: 5
+HP: 94
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 13
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 2
+Force: 19
+HP: 94
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 2
+Force: 32
+HP: 94
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 2
+Force: 32
+HP: 94
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 2
+Force: 32
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 3
+Force: 32
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 3
+Force: 32
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 4
+Force: 32
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 4
+Force: 32
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 4
+Force: 32
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 13
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 4
+Force: 46
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 4
+Force: 59
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 4
+Force: 59
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 4
+Force: 59
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 5
+Force: 59
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 5
+Force: 59
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 6
+Force: 59
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 6
+Force: 63
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 6
+Force: 63
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 13
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 6
+Force: 77
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 6
+Force: 90
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 6
+Force: 90
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 6
+Force: 90
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 7
+Force: 90
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 7
+Force: 90
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 8
+Force: 90
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 8
+Force: 94
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 8
+Force: 94
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 13
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 8
+Force: 108
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 8
+Force: 121
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 8
+Force: 121
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 8
+Force: 121
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 9
+Force: 121
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 9
+Force: 121
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Foggy_Bottom
+Level: 10
+Force: 121
+HP: 100
+Coins: 2
+------------------------
+The player has won! :D

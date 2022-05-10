@@ -1,0 +1,401 @@
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: mesa
+Level: 1
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: mesa
+Level: 1
+Force: 5
+HP: 97
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 19
+------------------------
+Player Details:
+Name: mesa
+Level: 1
+Force: 5
+HP: 97
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 35
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: mesa
+Level: 1
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 43
+------------------------
+Player Details:
+Name: mesa
+Level: 1
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: mesa
+Level: 1
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 2
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 10
+------------------------
+Player Details:
+Name: mesa
+Level: 2
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 26
+------------------------
+Player Details:
+Name: mesa
+Level: 2
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mesa
+Level: 2
+Force: 5
+HP: 80
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: mesa
+Level: 2
+Force: 19
+HP: 80
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 375
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 3
+Force: 19
+HP: 80
+Coins: 394
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: mesa
+Level: 3
+Force: 19
+HP: 80
+Coins: 400
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 4
+Force: 19
+HP: 80
+Coins: 400
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 19
+------------------------
+Player Details:
+Name: mesa
+Level: 4
+Force: 19
+HP: 80
+Coins: 381
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 35
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 5
+Force: 19
+HP: 80
+Coins: 416
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 43
+------------------------
+Player Details:
+Name: mesa
+Level: 5
+Force: 38
+HP: 80
+Coins: 373
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: mesa
+Level: 5
+Force: 42
+HP: 80
+Coins: 353
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 6
+Force: 42
+HP: 80
+Coins: 353
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 10
+------------------------
+Player Details:
+Name: mesa
+Level: 6
+Force: 42
+HP: 94
+Coins: 343
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 26
+------------------------
+Player Details:
+Name: mesa
+Level: 6
+Force: 42
+HP: 94
+Coins: 317
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mesa
+Level: 6
+Force: 42
+HP: 94
+Coins: 337
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: mesa
+Level: 6
+Force: 56
+HP: 94
+Coins: 330
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 375
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 7
+Force: 56
+HP: 94
+Coins: 705
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: mesa
+Level: 7
+Force: 56
+HP: 94
+Coins: 711
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 8
+Force: 56
+HP: 94
+Coins: 711
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 19
+------------------------
+Player Details:
+Name: mesa
+Level: 8
+Force: 56
+HP: 94
+Coins: 692
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 35
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 9
+Force: 56
+HP: 94
+Coins: 727
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 43
+------------------------
+Player Details:
+Name: mesa
+Level: 9
+Force: 75
+HP: 94
+Coins: 684
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: mesa
+Level: 9
+Force: 79
+HP: 94
+Coins: 664
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mesa
+Level: 10
+Force: 79
+HP: 94
+Coins: 664
+------------------------
+The player has won! :D

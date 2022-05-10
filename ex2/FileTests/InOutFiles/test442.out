@@ -1,0 +1,362 @@
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 16
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 31
+Profit (on win): 2
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 8
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 2
+Force: 5
+HP: 88
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 2
+Force: 5
+HP: 88
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 2
+Force: 5
+HP: 88
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 2
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 3
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 2
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 3
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 3
+Force: 5
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 3
+Force: 5
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 12
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 3
+Force: 19
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 3
+Force: 19
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 3
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 3
+Force: 32
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 9
+Damage taken (on loss): 15149
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 4
+Force: 32
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 9
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 5
+Force: 32
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 4
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 6
+Force: 32
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 6
+Force: 32
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 16
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 6
+Force: 32
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 7
+Force: 32
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 31
+Profit (on win): 2
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 8
+Force: 32
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 8
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 8
+Force: 40
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 19
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 9
+Force: 40
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 9
+Force: 40
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 9
+Force: 40
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 9
+Force: 40
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: An_American_in_Paris
+Level: 10
+Force: 40
+HP: 100
+Coins: 39
+------------------------
+The player has won! :D

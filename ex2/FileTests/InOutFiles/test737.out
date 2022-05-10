@@ -1,0 +1,663 @@
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 2
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 1
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 270
+Profit (on win): 12
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 1
+Force: 5
+HP: 90
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 1
+Force: 5
+HP: 90
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 5486267
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 1
+Force: 5
+HP: 85
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 6
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 1
+Force: 5
+HP: 98
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 2
+Force: 5
+HP: 98
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 5
+HP: 98
+Coins: 35
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 0
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 5
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 12
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 5
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 19
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 19
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 5
+HP: 89
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 5
+HP: 89
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 5
+HP: 89
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 20
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 3
+Force: 14
+HP: 89
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 14
+HP: 89
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 11
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 89
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 2
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 16
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 3
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 4
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3758
+Cost: 18
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 2
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 270
+Profit (on win): 12
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 90
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 90
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 5486267
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 85
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 6
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 4
+Force: 33
+HP: 98
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 5
+Force: 33
+HP: 98
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 6
+Force: 33
+HP: 98
+Coins: 35
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 0
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 6
+Force: 33
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 12
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 6
+Force: 33
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 19
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 6
+Force: 33
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 19
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 7
+Force: 33
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 7
+Force: 33
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 7
+Force: 33
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 20
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 7
+Force: 42
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 42
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 11
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 61
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 2
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 61
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 16
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 78
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 3
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 4
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3758
+Cost: 18
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 2
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 270
+Profit (on win): 12
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 90
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 90
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 5486267
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 85
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 6
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 8
+Force: 93
+HP: 98
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 9
+Force: 93
+HP: 98
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dorothy_Parker
+Level: 10
+Force: 93
+HP: 98
+Coins: 35
+------------------------
+The player has won! :D

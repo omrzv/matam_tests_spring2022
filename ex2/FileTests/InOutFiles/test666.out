@@ -1,0 +1,302 @@
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 13
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 1
+Force: 5
+HP: 99
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 17
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 2
+Force: 5
+HP: 99
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 0
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 2
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 2
+Force: 5
+HP: 93
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 11
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 2
+Force: 13
+HP: 93
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 16
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 3
+Force: 13
+HP: 93
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 159
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 4
+Force: 13
+HP: 93
+Coins: 181
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 4
+Force: 13
+HP: 93
+Coins: 184
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 11
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 4
+Force: 13
+HP: 97
+Coins: 173
+------------------------
+Card drawn:
+Type: Battle
+Force: 87
+Profit (on win): 15
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 4
+Force: 13
+HP: 96
+Coins: 173
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 31
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 4
+Force: 13
+HP: 80
+Coins: 173
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 6
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 4
+Force: 13
+HP: 80
+Coins: 167
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 10
+Damage taken (on loss): 405
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 5
+Force: 13
+HP: 80
+Coins: 177
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1616
+Cost: 14
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 5
+Force: 1629
+HP: 80
+Coins: 163
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 5
+Force: 1629
+HP: 80
+Coins: 163
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 13
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 6
+Force: 1629
+HP: 80
+Coins: 176
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 17
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 7
+Force: 1629
+HP: 80
+Coins: 193
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 0
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 7
+Force: 1629
+HP: 97
+Coins: 193
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 8
+Force: 1629
+HP: 97
+Coins: 195
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 11
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 8
+Force: 1637
+HP: 97
+Coins: 184
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 16
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 9
+Force: 1637
+HP: 97
+Coins: 200
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 159
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "The_Long_And_Winding_Road_Rage"
+Level: 10
+Force: 1637
+HP: 97
+Coins: 359
+------------------------
+The player has won! :D

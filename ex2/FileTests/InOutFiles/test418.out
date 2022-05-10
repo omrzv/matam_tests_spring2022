@@ -1,0 +1,598 @@
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Adenoids
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 16
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Adenoids
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 12
+------------------------
+Player Details:
+Name: Adenoids
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Adenoids
+Level: 1
+Force: 5
+HP: 81
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Adenoids
+Level: 1
+Force: 5
+HP: 81
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 390
+------------------------
+Player Details:
+Name: Adenoids
+Level: 1
+Force: 5
+HP: 81
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Adenoids
+Level: 1
+Force: 5
+HP: 81
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 200
+Damage taken (on loss): 138179
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 2
+Force: 5
+HP: 81
+Coins: 221
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Adenoids
+Level: 2
+Force: 5
+HP: 81
+Coins: 230
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 2391
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 5
+HP: 81
+Coins: 2621
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 0
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 10
+HP: 81
+Coins: 2621
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 16
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 10
+HP: 93
+Coins: 2605
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 17
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 22
+HP: 93
+Coins: 2588
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 22
+HP: 93
+Coins: 2585
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 13
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 22
+HP: 93
+Coins: 2572
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 14
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 32
+HP: 93
+Coins: 2558
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 32
+HP: 93
+Coins: 2560
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 32
+HP: 100
+Coins: 2549
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Adenoids
+Level: 3
+Force: 32
+HP: 100
+Coins: 2548
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 4
+Force: 32
+HP: 100
+Coins: 2564
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Adenoids
+Level: 4
+Force: 32
+HP: 100
+Coins: 2565
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Adenoids
+Level: 4
+Force: 32
+HP: 100
+Coins: 2565
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Adenoids
+Level: 4
+Force: 32
+HP: 100
+Coins: 2579
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Adenoids
+Level: 4
+Force: 35
+HP: 100
+Coins: 2562
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 16
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 5
+Force: 35
+HP: 100
+Coins: 2578
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 12
+------------------------
+Player Details:
+Name: Adenoids
+Level: 5
+Force: 55
+HP: 100
+Coins: 2566
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 6
+Force: 55
+HP: 100
+Coins: 2571
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Adenoids
+Level: 6
+Force: 55
+HP: 100
+Coins: 2591
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 390
+------------------------
+Player Details:
+Name: Adenoids
+Level: 6
+Force: 59
+HP: 100
+Coins: 2201
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Adenoids
+Level: 6
+Force: 59
+HP: 100
+Coins: 2202
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 200
+Damage taken (on loss): 138179
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 7
+Force: 59
+HP: 100
+Coins: 2402
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Adenoids
+Level: 7
+Force: 59
+HP: 100
+Coins: 2411
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 2391
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 59
+HP: 100
+Coins: 4802
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 0
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 64
+HP: 100
+Coins: 4802
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 16
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 64
+HP: 100
+Coins: 4786
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 17
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 76
+HP: 100
+Coins: 4769
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 76
+HP: 100
+Coins: 4766
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 13
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 76
+HP: 100
+Coins: 4753
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 14
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 86
+HP: 100
+Coins: 4739
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 86
+HP: 100
+Coins: 4741
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 86
+HP: 100
+Coins: 4730
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Adenoids
+Level: 8
+Force: 86
+HP: 100
+Coins: 4729
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 9
+Force: 86
+HP: 100
+Coins: 4745
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Adenoids
+Level: 9
+Force: 86
+HP: 100
+Coins: 4746
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Adenoids
+Level: 9
+Force: 86
+HP: 100
+Coins: 4746
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Adenoids
+Level: 9
+Force: 86
+HP: 100
+Coins: 4760
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Adenoids
+Level: 9
+Force: 89
+HP: 100
+Coins: 4743
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 16
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Adenoids
+Level: 10
+Force: 89
+HP: 100
+Coins: 4759
+------------------------
+The player has won! :D

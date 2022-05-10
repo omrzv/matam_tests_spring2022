@@ -1,0 +1,558 @@
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 15
+------------------------
+Player Details:
+Name: Switzerland
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Switzerland
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 16
+------------------------
+Player Details:
+Name: Switzerland
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 13
+------------------------
+Player Details:
+Name: Switzerland
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 8
+------------------------
+Player Details:
+Name: Switzerland
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 4
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Switzerland
+Level: 1
+Force: 5
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Switzerland
+Level: 1
+Force: 7
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 5
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 2
+Force: 7
+HP: 82
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 35
+------------------------
+Player Details:
+Name: Switzerland
+Level: 2
+Force: 7
+HP: 82
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 293
+------------------------
+Player Details:
+Name: Switzerland
+Level: 2
+Force: 7
+HP: 82
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 6
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Switzerland
+Level: 2
+Force: 7
+HP: 79
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 7
+HP: 79
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 7
+HP: 79
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 8
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 79
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 136
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 79
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 7
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 79
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 75
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 75
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 15
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 85
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 85
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 16
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 85
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 13
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 9
+HP: 85
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 8
+------------------------
+Player Details:
+Name: Switzerland
+Level: 3
+Force: 26
+HP: 85
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 4
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 4
+Force: 26
+HP: 85
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Switzerland
+Level: 4
+Force: 28
+HP: 85
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 5
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 5
+Force: 28
+HP: 85
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 35
+------------------------
+Player Details:
+Name: Switzerland
+Level: 5
+Force: 28
+HP: 85
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 293
+------------------------
+Player Details:
+Name: Switzerland
+Level: 5
+Force: 28
+HP: 85
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 6
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 6
+Force: 28
+HP: 85
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 7
+Force: 28
+HP: 85
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Switzerland
+Level: 7
+Force: 28
+HP: 85
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 8
+------------------------
+Player Details:
+Name: Switzerland
+Level: 7
+Force: 30
+HP: 85
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 136
+------------------------
+Player Details:
+Name: Switzerland
+Level: 7
+Force: 30
+HP: 85
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 7
+------------------------
+Player Details:
+Name: Switzerland
+Level: 7
+Force: 30
+HP: 85
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 8
+Force: 30
+HP: 85
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Switzerland
+Level: 8
+Force: 30
+HP: 85
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 15
+------------------------
+Player Details:
+Name: Switzerland
+Level: 8
+Force: 30
+HP: 95
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Switzerland
+Level: 8
+Force: 30
+HP: 95
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 16
+------------------------
+Player Details:
+Name: Switzerland
+Level: 8
+Force: 30
+HP: 95
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 13
+------------------------
+Player Details:
+Name: Switzerland
+Level: 8
+Force: 30
+HP: 95
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 8
+------------------------
+Player Details:
+Name: Switzerland
+Level: 8
+Force: 47
+HP: 95
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 4
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 9
+Force: 47
+HP: 95
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Switzerland
+Level: 9
+Force: 49
+HP: 95
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 5
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Switzerland
+Level: 10
+Force: 49
+HP: 95
+Coins: 11
+------------------------
+The player has won! :D

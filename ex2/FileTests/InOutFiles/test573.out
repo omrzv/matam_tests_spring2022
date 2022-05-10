@@ -1,0 +1,327 @@
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 9
+Damage taken (on loss): 2
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: French
+Level: 1
+Force: 5
+HP: 98
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 5
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 2
+Force: 5
+HP: 98
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 7
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 3
+Force: 5
+HP: 98
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 19
+------------------------
+Player Details:
+Name: French
+Level: 3
+Force: 5
+HP: 98
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 0
+------------------------
+Player Details:
+Name: French
+Level: 3
+Force: 16
+HP: 98
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7129
+Cost: 18
+------------------------
+Player Details:
+Name: French
+Level: 3
+Force: 16
+HP: 98
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: French
+Level: 3
+Force: 16
+HP: 98
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 4
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 4
+Force: 16
+HP: 98
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 5
+Force: 16
+HP: 98
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: French
+Level: 5
+Force: 16
+HP: 98
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: -1
+------------------------
+Player Details:
+Name: French
+Level: 5
+Force: 16
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 9
+------------------------
+Player Details:
+Name: French
+Level: 5
+Force: 26
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 40842
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 6
+Force: 26
+HP: 100
+Coins: 40857
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 13
+------------------------
+Player Details:
+Name: French
+Level: 6
+Force: 26
+HP: 100
+Coins: 40844
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 0
+------------------------
+Player Details:
+Name: French
+Level: 6
+Force: 26
+HP: 100
+Coins: 40844
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 0
+------------------------
+Player Details:
+Name: French
+Level: 6
+Force: 26
+HP: 100
+Coins: 40844
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: French
+Level: 6
+Force: 26
+HP: 100
+Coins: 40862
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 12
+------------------------
+Player Details:
+Name: French
+Level: 6
+Force: 41
+HP: 100
+Coins: 40850
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 0
+Damage taken (on loss): 155
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 7
+Force: 41
+HP: 100
+Coins: 40850
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 156
+------------------------
+Player Details:
+Name: French
+Level: 7
+Force: 41
+HP: 100
+Coins: 40694
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 8
+Force: 41
+HP: 100
+Coins: 40699
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: French
+Level: 8
+Force: 41
+HP: 100
+Coins: 40702
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: French
+Level: 8
+Force: 41
+HP: 100
+Coins: 40706
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 9
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 9
+Force: 41
+HP: 100
+Coins: 40715
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 5
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: French
+Level: 10
+Force: 41
+HP: 100
+Coins: 40720
+------------------------
+The player has won! :D

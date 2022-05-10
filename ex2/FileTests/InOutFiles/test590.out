@@ -1,0 +1,394 @@
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 2
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 2
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 2
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 14
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 2
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 2
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 68
+Cost: 0
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 2
+Force: 73
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 2
+Force: 73
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 2
+Force: 88
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 20
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 3
+Force: 88
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: 34
+Profit (on win): 4
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 4
+Force: 88
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 11
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 4
+Force: 104
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 0
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 4
+Force: 110
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 5
+Force: 110
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 2
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 5
+Force: 110
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 14
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 5
+Force: 110
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 5
+Force: 110
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 68
+Cost: 0
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 5
+Force: 178
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 5
+Force: 178
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 5
+Force: 193
+HP: 100
+Coins: 55
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 20
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 6
+Force: 193
+HP: 100
+Coins: 75
+------------------------
+Card drawn:
+Type: Battle
+Force: 34
+Profit (on win): 4
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 7
+Force: 193
+HP: 100
+Coins: 79
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 11
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 7
+Force: 209
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 0
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 7
+Force: 215
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 8
+Force: 215
+HP: 100
+Coins: 69
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 2
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 8
+Force: 215
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 14
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 8
+Force: 215
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 8
+Force: 215
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 68
+Cost: 0
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 8
+Force: 283
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 8
+Force: 283
+HP: 100
+Coins: 87
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 8
+Force: 298
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 20
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 9
+Force: 298
+HP: 100
+Coins: 101
+------------------------
+Card drawn:
+Type: Battle
+Force: 34
+Profit (on win): 4
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_pomegranate
+Level: 10
+Force: 298
+HP: 100
+Coins: 105
+------------------------
+The player has won! :D

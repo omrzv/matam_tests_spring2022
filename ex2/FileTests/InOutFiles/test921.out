@@ -1,0 +1,496 @@
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 37
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 94
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 17
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 94
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 94
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 97
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 32
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 97
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 1
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 90
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 2
+Force: 5
+HP: 90
+Coins: 41
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 0
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 3
+Force: 5
+HP: 90
+Coins: 41
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 530
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 3
+Force: 5
+HP: 90
+Coins: 571
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 3
+Force: 5
+HP: 76
+Coins: 571
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 3
+Force: 5
+HP: 76
+Coins: 587
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 11
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 3
+Force: 5
+HP: 87
+Coins: 576
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 19
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 4
+Force: 5
+HP: 87
+Coins: 595
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 4
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 4
+Force: 5
+HP: 100
+Coins: 591
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 7
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 4
+Force: 5
+HP: 100
+Coins: 584
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 10
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 4
+Force: 5
+HP: 100
+Coins: 574
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 174
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 4
+Force: 5
+HP: 100
+Coins: 748
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 4
+Force: 5
+HP: 100
+Coins: 755
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 5
+Force: 5
+HP: 100
+Coins: 764
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 37
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 6
+Force: 5
+HP: 100
+Coins: 801
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 17
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 6
+Force: 5
+HP: 100
+Coins: 784
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 6
+Force: 5
+HP: 100
+Coins: 779
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 6
+Force: 5
+HP: 100
+Coins: 779
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 32
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 6
+Force: 5
+HP: 100
+Coins: 811
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 1
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 7
+Force: 5
+HP: 100
+Coins: 812
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 7
+Force: 5
+HP: 100
+Coins: 817
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 0
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 8
+Force: 5
+HP: 100
+Coins: 817
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 530
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 8
+Force: 5
+HP: 100
+Coins: 1347
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 8
+Force: 5
+HP: 86
+Coins: 1347
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 8
+Force: 5
+HP: 86
+Coins: 1363
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 11
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 8
+Force: 5
+HP: 97
+Coins: 1352
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 19
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 9
+Force: 5
+HP: 97
+Coins: 1371
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 4
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 9
+Force: 5
+HP: 100
+Coins: 1367
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 7
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 9
+Force: 5
+HP: 100
+Coins: 1360
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 10
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 9
+Force: 5
+HP: 100
+Coins: 1350
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 174
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 9
+Force: 5
+HP: 100
+Coins: 1524
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 9
+Force: 5
+HP: 100
+Coins: 1531
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ricky_Nelson_Rockefeller
+Level: 10
+Force: 5
+HP: 100
+Coins: 1540
+------------------------
+The player has won! :D

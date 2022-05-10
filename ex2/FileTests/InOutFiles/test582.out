@@ -1,0 +1,503 @@
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 64
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 79
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 9
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 72
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 7
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 5
+HP: 85
+Coins: 66
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 5
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 16
+HP: 85
+Coins: 61
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 16
+HP: 93
+Coins: 61
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 2
+Force: 16
+HP: 93
+Coins: 67
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 3
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 3
+Force: 16
+HP: 93
+Coins: 70
+------------------------
+Card drawn:
+Type: Battle
+Force: 1421
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 3
+Force: 16
+HP: 92
+Coins: 70
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 4
+Force: 16
+HP: 92
+Coins: 74
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 8
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 5
+Force: 16
+HP: 92
+Coins: 82
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 9
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 6
+Force: 16
+HP: 92
+Coins: 91
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 6
+Force: 16
+HP: 92
+Coins: 91
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 6
+Force: 16
+HP: 92
+Coins: 94
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 6
+Force: 32
+HP: 92
+Coins: 88
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 92
+Coins: 107
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 64
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 92
+Coins: 171
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 98
+Coins: 165
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 98
+Coins: 166
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 98
+Coins: 162
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 98
+Coins: 164
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 98
+Coins: 166
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 9
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 100
+Coins: 157
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 7
+Force: 32
+HP: 100
+Coins: 151
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 7
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 8
+Force: 32
+HP: 100
+Coins: 158
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 5
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 8
+Force: 43
+HP: 100
+Coins: 153
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 8
+Force: 43
+HP: 100
+Coins: 153
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 8
+Force: 43
+HP: 100
+Coins: 159
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 3
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 9
+Force: 43
+HP: 100
+Coins: 162
+------------------------
+Card drawn:
+Type: Battle
+Force: 1421
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 9
+Force: 43
+HP: 99
+Coins: 162
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_Orleans
+Level: 10
+Force: 43
+HP: 99
+Coins: 166
+------------------------
+The player has won! :D

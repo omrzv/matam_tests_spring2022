@@ -1,0 +1,551 @@
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 24
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 5
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 411
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 5
+HP: 100
+Coins: 433
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 5
+HP: 100
+Coins: 436
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 104
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 5
+HP: 82
+Coins: 436
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: spokes
+Level: 1
+Force: 6
+HP: 82
+Coins: 422
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 10
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 2
+Force: 6
+HP: 82
+Coins: 432
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 24
+------------------------
+Player Details:
+Name: spokes
+Level: 2
+Force: 19
+HP: 82
+Coins: 408
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 2
+Force: 19
+HP: 89
+Coins: 405
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: spokes
+Level: 2
+Force: 19
+HP: 89
+Coins: 409
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: spokes
+Level: 2
+Force: 19
+HP: 89
+Coins: 427
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 411
+------------------------
+Player Details:
+Name: spokes
+Level: 2
+Force: 19
+HP: 89
+Coins: 838
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 2
+Force: 19
+HP: 89
+Coins: 841
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 104
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 3
+Force: 19
+HP: 89
+Coins: 945
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: spokes
+Level: 3
+Force: 20
+HP: 89
+Coins: 931
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 10
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 4
+Force: 20
+HP: 89
+Coins: 941
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 24
+------------------------
+Player Details:
+Name: spokes
+Level: 4
+Force: 33
+HP: 89
+Coins: 917
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 4
+Force: 33
+HP: 96
+Coins: 914
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: spokes
+Level: 4
+Force: 33
+HP: 96
+Coins: 918
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: spokes
+Level: 4
+Force: 33
+HP: 96
+Coins: 936
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 411
+------------------------
+Player Details:
+Name: spokes
+Level: 4
+Force: 33
+HP: 96
+Coins: 1347
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 4
+Force: 33
+HP: 96
+Coins: 1350
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 104
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 5
+Force: 33
+HP: 96
+Coins: 1454
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: spokes
+Level: 5
+Force: 34
+HP: 96
+Coins: 1440
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 10
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 6
+Force: 34
+HP: 96
+Coins: 1450
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 24
+------------------------
+Player Details:
+Name: spokes
+Level: 6
+Force: 47
+HP: 96
+Coins: 1426
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 6
+Force: 47
+HP: 100
+Coins: 1423
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: spokes
+Level: 6
+Force: 47
+HP: 100
+Coins: 1427
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: spokes
+Level: 6
+Force: 47
+HP: 100
+Coins: 1445
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 411
+------------------------
+Player Details:
+Name: spokes
+Level: 6
+Force: 47
+HP: 100
+Coins: 1856
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 6
+Force: 47
+HP: 100
+Coins: 1859
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 104
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 7
+Force: 47
+HP: 100
+Coins: 1963
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: spokes
+Level: 7
+Force: 48
+HP: 100
+Coins: 1949
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 10
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 8
+Force: 48
+HP: 100
+Coins: 1959
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 24
+------------------------
+Player Details:
+Name: spokes
+Level: 8
+Force: 61
+HP: 100
+Coins: 1935
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 8
+Force: 61
+HP: 100
+Coins: 1932
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: spokes
+Level: 8
+Force: 61
+HP: 100
+Coins: 1936
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: spokes
+Level: 8
+Force: 61
+HP: 100
+Coins: 1954
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 411
+------------------------
+Player Details:
+Name: spokes
+Level: 8
+Force: 61
+HP: 100
+Coins: 2365
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: spokes
+Level: 8
+Force: 61
+HP: 100
+Coins: 2368
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 104
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 9
+Force: 61
+HP: 100
+Coins: 2472
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: spokes
+Level: 9
+Force: 62
+HP: 100
+Coins: 2458
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 10
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: spokes
+Level: 10
+Force: 62
+HP: 100
+Coins: 2468
+------------------------
+The player has won! :D

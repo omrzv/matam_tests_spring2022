@@ -1,0 +1,447 @@
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 11
+------------------------
+Player Details:
+Name: The_Pit
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 8
+------------------------
+Player Details:
+Name: The_Pit
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: The_Pit
+Level: 1
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 2
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 3
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 20
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Pit
+Level: 3
+Force: 5
+HP: 83
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 42
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Pit
+Level: 3
+Force: 5
+HP: 73
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 5
+------------------------
+Player Details:
+Name: The_Pit
+Level: 3
+Force: 5
+HP: 89
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 176
+Cost: 18
+------------------------
+Player Details:
+Name: The_Pit
+Level: 3
+Force: 5
+HP: 89
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 460
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 5
+HP: 89
+Coins: 466
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 5
+HP: 89
+Coins: 475
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 5
+HP: 89
+Coins: 490
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 16
+HP: 89
+Coins: 475
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 16
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 16
+HP: 94
+Coins: 459
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3554
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 16
+HP: 94
+Coins: 4013
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 18
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 16
+HP: 100
+Coins: 3995
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 10
+------------------------
+Player Details:
+Name: The_Pit
+Level: 4
+Force: 21
+HP: 100
+Coins: 3985
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 17
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 21
+HP: 100
+Coins: 4002
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 21
+HP: 100
+Coins: 3982
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1965
+Cost: 18
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 1986
+HP: 100
+Coins: 3964
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 2
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 1994
+HP: 100
+Coins: 3962
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 1994
+HP: 100
+Coins: 3980
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 7
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 1994
+HP: 100
+Coins: 3973
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 1994
+HP: 100
+Coins: 3976
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 2001
+HP: 100
+Coins: 3973
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 11
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 2001
+HP: 100
+Coins: 3962
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 8
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 2001
+HP: 100
+Coins: 3954
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: The_Pit
+Level: 5
+Force: 2001
+HP: 100
+Coins: 3956
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 6
+Force: 2001
+HP: 100
+Coins: 3956
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 7
+Force: 2001
+HP: 100
+Coins: 3965
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 20
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 8
+Force: 2001
+HP: 100
+Coins: 3985
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 42
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 9
+Force: 2001
+HP: 100
+Coins: 4027
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 5
+------------------------
+Player Details:
+Name: The_Pit
+Level: 9
+Force: 2001
+HP: 100
+Coins: 4022
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 176
+Cost: 18
+------------------------
+Player Details:
+Name: The_Pit
+Level: 9
+Force: 2001
+HP: 100
+Coins: 4004
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 460
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Pit
+Level: 10
+Force: 2001
+HP: 100
+Coins: 4464
+------------------------
+The player has won! :D

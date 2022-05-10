@@ -1,0 +1,524 @@
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 11
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 99
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 99868
+Cost: 5
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 99
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 99
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 3
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 99
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 20
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 99
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 40
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 99
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 5
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 15
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 15
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 15
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 29
+------------------------
+Player Details:
+Name: George_Washington
+Level: 1
+Force: 15
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 16
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 2
+Force: 15
+HP: 82
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 3
+Force: 15
+HP: 82
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 28
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 4
+Force: 15
+HP: 82
+Coins: 44
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 669
+------------------------
+Player Details:
+Name: George_Washington
+Level: 4
+Force: 15
+HP: 82
+Coins: 713
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: George_Washington
+Level: 4
+Force: 24
+HP: 82
+Coins: 711
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 75
+Cost: 14
+------------------------
+Player Details:
+Name: George_Washington
+Level: 4
+Force: 24
+HP: 100
+Coins: 697
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 16
+------------------------
+Player Details:
+Name: George_Washington
+Level: 4
+Force: 24
+HP: 100
+Coins: 681
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 11
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 5
+Force: 24
+HP: 100
+Coins: 692
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 99868
+Cost: 5
+------------------------
+Player Details:
+Name: George_Washington
+Level: 5
+Force: 99892
+HP: 100
+Coins: 687
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: George_Washington
+Level: 5
+Force: 99894
+HP: 100
+Coins: 675
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 3
+------------------------
+Player Details:
+Name: George_Washington
+Level: 5
+Force: 99899
+HP: 100
+Coins: 672
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 20
+------------------------
+Player Details:
+Name: George_Washington
+Level: 5
+Force: 99899
+HP: 100
+Coins: 652
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 40
+------------------------
+Player Details:
+Name: George_Washington
+Level: 5
+Force: 99899
+HP: 100
+Coins: 612
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 6
+Force: 99899
+HP: 100
+Coins: 612
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: George_Washington
+Level: 6
+Force: 99899
+HP: 100
+Coins: 607
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: George_Washington
+Level: 6
+Force: 99900
+HP: 100
+Coins: 601
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: George_Washington
+Level: 6
+Force: 99910
+HP: 100
+Coins: 601
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: George_Washington
+Level: 6
+Force: 99910
+HP: 100
+Coins: 595
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: George_Washington
+Level: 6
+Force: 99910
+HP: 100
+Coins: 589
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 29
+------------------------
+Player Details:
+Name: George_Washington
+Level: 6
+Force: 99910
+HP: 100
+Coins: 560
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 16
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 7
+Force: 99910
+HP: 100
+Coins: 576
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 8
+Force: 99910
+HP: 100
+Coins: 576
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 28
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 9
+Force: 99910
+HP: 100
+Coins: 604
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 669
+------------------------
+Player Details:
+Name: George_Washington
+Level: 9
+Force: 99910
+HP: 100
+Coins: 1273
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: George_Washington
+Level: 9
+Force: 99919
+HP: 100
+Coins: 1271
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 75
+Cost: 14
+------------------------
+Player Details:
+Name: George_Washington
+Level: 9
+Force: 99919
+HP: 100
+Coins: 1257
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 16
+------------------------
+Player Details:
+Name: George_Washington
+Level: 9
+Force: 99919
+HP: 100
+Coins: 1241
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 11
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: George_Washington
+Level: 10
+Force: 99919
+HP: 100
+Coins: 1252
+------------------------
+The player has won! :D

@@ -1,0 +1,622 @@
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 2
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 1
+Force: 5
+HP: 98
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 15
+Damage taken (on loss): 2873
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 2
+Force: 5
+HP: 98
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 2
+Force: 5
+HP: 98
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 2
+Force: 5
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 17
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 3
+Force: 5
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Battle
+Force: 22521
+Profit (on win): 6
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 3
+Force: 5
+HP: 97
+Coins: 31
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 3
+Force: 5
+HP: 97
+Coins: 36
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 3
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 3
+Force: 5
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 3
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 3
+Force: 25
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 3
+Force: 27
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 1
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 27
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 27
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 6
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 27
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 27
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 35
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 35
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 35
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 35
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 20
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 35
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 35
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 4
+Force: 35
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 5
+Force: 35
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 15
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 6
+Force: 35
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 3
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 35
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 35
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 14
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 39
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 39
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 723
+Cost: 19
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 39
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 0
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 56
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6189
+Cost: 1
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 6245
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 6
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 6245
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 2
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 6245
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 6245
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 7
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 6260
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 6260
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 7
+Force: 6260
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 11
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6260
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 8
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6272
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 3
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6277
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 17
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6277
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 848
+Cost: 7
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6277
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6277
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 9
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6277
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6277
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 8
+Force: 6277
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 9
+Force: 6277
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4964
+Cost: 17
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 9
+Force: 11241
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 9
+Force: 11241
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Irish_coffee
+Level: 10
+Force: 11241
+HP: 100
+Coins: 17
+------------------------
+The player has won! :D

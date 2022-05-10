@@ -12,6 +12,9 @@ void copyStrHelper(char* source, char* dest);
 void removeFromStringHelper(char* string, int index);
 int weirdHaserHelper(int number);
 int tenPower(int n);
+int logTenRoundUp(int num);
+char* simpleStrToExportedHelper(char* source);
+bool strCompareHelper(char* string1, char* string2);
 
 bool basicTest();
 bool basicTestMacros(); 
@@ -23,6 +26,7 @@ bool RLEListRemoveTest();
 bool RLEListGetTest();
 bool RLEListExportToStringTest(); 
 bool RLEListMapTest();
+bool RLEListMapAndExportTest();
 
 #define TESTS_NAMES             \
     X(basicTest)               \
@@ -34,7 +38,8 @@ bool RLEListMapTest();
     X(RLEListRemoveTest) \
     X(RLEListGetTest) \
     X(RLEListExportToStringTest) \
-    X(RLEListMapTest)
+    X(RLEListMapTest) \
+    X(RLEListMapAndExportTest)
 
 testFunc tests[] = {
 #define X(name) name,
@@ -160,6 +165,91 @@ int tenPower(int n)
     }
     return res;
 }
+
+
+int logTenRoundUp(int num)
+{
+    int logTenOfNum = 0;
+    while (num > 0)
+    {
+        logTenOfNum++;
+        num /= 10;
+    }
+    return logTenOfNum;
+}
+
+char* simpleStrToExportedHelper(char* source)
+{
+    int stringSize = 0;
+    int count = 0;
+    char last = '\0';
+    char* runner = source;
+    while (*runner){
+        if (last != *runner){
+            stringSize += 2 + logTenRoundUp(count);
+            last = *runner;
+            count = 1;
+        }
+        else
+        {
+            count++;
+        }
+        ++runner;
+    }
+    stringSize += logTenRoundUp(count);
+
+    char* toReturn = malloc((stringSize + 1) * sizeof(char));
+    char* string = toReturn;
+
+    last = '\0';
+    runner = source;
+    while (*runner){
+        if (last != *runner){
+            if (last != '\0'){
+                *(string++) = last;
+                int logTenAmount = logTenRoundUp(count);
+                for (int powerOfTen = logTenAmount - 1; powerOfTen >= 0; --powerOfTen)
+                {
+                    int digit = ((count / tenPower(powerOfTen)) % 10);
+                    *(string++) = '0' + digit;
+                }
+                *(string++) = '\n';
+            }
+            last = *runner;
+            count = 1;
+        }
+        else
+        {
+            count++;
+        }
+        ++runner;
+    }
+
+    *(string++) = last;
+    int logTenAmount = logTenRoundUp(count);
+    for (int powerOfTen = logTenAmount - 1; powerOfTen >= 0; --powerOfTen)
+    {
+        int digit = ((count / tenPower(powerOfTen)) % 10);
+        *(string++) = '0' + digit;
+    }
+    *(string++) = '\n';
+    *(string++) = '\0';
+
+    return toReturn;
+}
+
+bool strCompareHelper(char* string1, char* string2)
+{
+    while (*string1 && *string2)
+    {
+        if (*(string1++) != *(string2++))
+        {
+            return false;
+        }
+    }
+    return *(string1) == *(string2);
+}
+
 
 bool basicTest()
 {
@@ -487,10 +577,13 @@ bool RLEListExportToStringTest()
 
     ASSERT_TEST(RLEListExportToString(NULL, &exportResult) == NULL, destroy);
     ASSERT_TEST(exportResult == RLE_LIST_NULL_ARGUMENT, destroy);
+    actuallResult = RLEListExportToString(list, NULL);
+    ASSERT_TEST(*actuallResult == '\0', destroy);
 
     RLEListDestroy(list);
     MAKE_LIST_WITH_ASSERT(list, "ABBabb------------\n\na", destroy);
     char* expectedResult = "A1\nB2\na1\nb2\n-12\n\n2\na1\n";
+    free(actuallResult);
     actuallResult = RLEListExportToString(list, &exportResult);
     
     ASSERT_TEST(exportResult == RLE_LIST_SUCCESS, destroy);
@@ -657,6 +750,49 @@ bool RLEListMapTest()
     ASSERT_TEST(RLEListMap(list, map3) == RLE_LIST_SUCCESS, destroy);
     ASSERT_TEST_FULL_LIST(list, text, destroy);
 
+
+    destroy:
+    RLEListDestroy(list);
+    return result;
+}
+
+bool RLEListMapAndExportTest()
+{
+    bool result = true;
+    const int FUNC_COUNT = 5;
+    MapFunction mapFunctions[5] = {map1, map2, map3, map4, map5};
+    RLEList list = RLEListCreate();
+
+    char* text;
+    char* expectedString;
+    char* resultString;
+    char mappedText[124] = {0};
+    
+    text = "Yes if this fails for you after you submitted it sucks :D! \n \n \n ";
+    for (int i = 0; i < FUNC_COUNT; i++)
+    {
+        RLEListDestroy(list);
+        MAKE_LIST_WITH_ASSERT(list, text, destroy);
+        ASSERT_TEST(RLEListMap(list, mapFunctions[i]) == RLE_LIST_SUCCESS, destroy);
+        char* mappedRunner = mappedText;
+        for (char* runner = text; *runner; runner++)
+        {
+            *(mappedRunner++) = mapFunctions[i](*runner);
+        }
+
+        expectedString = simpleStrToExportedHelper(mappedText);
+        resultString = RLEListExportToString(list, NULL);
+        if (!strCompareHelper(expectedString, resultString)){
+            printf("\nAssertion failed at %s:%d %s ", __FILE__, __LINE__, "expectedString == resultString");
+            printf("\nexpectedString:\n%s\nresultString:\n%s", expectedString, resultString);
+            result = false;
+            free(expectedString);
+            free(resultString);
+            goto destroy;
+        }
+        free(expectedString);
+        free(resultString);
+    }
 
     destroy:
     RLEListDestroy(list);

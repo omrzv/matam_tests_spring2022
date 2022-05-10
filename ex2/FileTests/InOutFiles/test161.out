@@ -1,0 +1,395 @@
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 19
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 3
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 2
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 5
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 2
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 2
+Force: 5
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 2
+Force: 5
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 2
+Force: 5
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 2
+Force: 5
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 15
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 2
+Force: 6
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 81
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 3
+Force: 6
+HP: 100
+Coins: 45
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 4
+Force: 6
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 4
+Force: 6
+HP: 85
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 11
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 6
+HP: 85
+Coins: 60
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 40
+Cost: 0
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 6
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2665
+Cost: 304
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 6
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 6
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 4
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 6
+HP: 100
+Coins: 59
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 10
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 6
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 0
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 13
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 5
+Force: 13
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 3
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 6
+Force: 13
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 15
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 7
+Force: 13
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 19
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 7
+Force: 13
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 3
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 8
+Force: 13
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 5
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 8
+Force: 31
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 8
+Force: 31
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 8
+Force: 31
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 8
+Force: 31
+HP: 100
+Coins: 101
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 8
+Force: 31
+HP: 100
+Coins: 99
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 15
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 8
+Force: 32
+HP: 100
+Coins: 84
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 81
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 9
+Force: 32
+HP: 100
+Coins: 103
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louis_XVI
+Level: 10
+Force: 32
+HP: 100
+Coins: 107
+------------------------
+The player has won! :D

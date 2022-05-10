@@ -1,0 +1,544 @@
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 2
+------------------------
+Player Details:
+Name: a_hoof
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 14
+------------------------
+Player Details:
+Name: a_hoof
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 17
+------------------------
+Player Details:
+Name: a_hoof
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: a_hoof
+Level: 1
+Force: 5
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: a_hoof
+Level: 1
+Force: 5
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: a_hoof
+Level: 1
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_hoof
+Level: 1
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 8
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 2
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 4
+------------------------
+Player Details:
+Name: a_hoof
+Level: 2
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: a_hoof
+Level: 2
+Force: 5
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 212
+Cost: 4
+------------------------
+Player Details:
+Name: a_hoof
+Level: 2
+Force: 217
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 6
+------------------------
+Player Details:
+Name: a_hoof
+Level: 2
+Force: 235
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 22
+Profit (on win): 155
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 3
+Force: 235
+HP: 100
+Coins: 172
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 13
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 235
+HP: 100
+Coins: 185
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 235
+HP: 100
+Coins: 173
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 2
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 240
+HP: 100
+Coins: 171
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 14
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 240
+HP: 100
+Coins: 157
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 17
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 250
+HP: 100
+Coins: 140
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 250
+HP: 100
+Coins: 147
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 250
+HP: 100
+Coins: 164
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 250
+HP: 100
+Coins: 149
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_hoof
+Level: 4
+Force: 250
+HP: 100
+Coins: 149
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 8
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 5
+Force: 250
+HP: 100
+Coins: 157
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 4
+------------------------
+Player Details:
+Name: a_hoof
+Level: 5
+Force: 250
+HP: 100
+Coins: 153
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: a_hoof
+Level: 5
+Force: 250
+HP: 100
+Coins: 167
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 212
+Cost: 4
+------------------------
+Player Details:
+Name: a_hoof
+Level: 5
+Force: 462
+HP: 100
+Coins: 163
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 6
+------------------------
+Player Details:
+Name: a_hoof
+Level: 5
+Force: 480
+HP: 100
+Coins: 157
+------------------------
+Card drawn:
+Type: Battle
+Force: 22
+Profit (on win): 155
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 6
+Force: 480
+HP: 100
+Coins: 312
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 13
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 480
+HP: 100
+Coins: 325
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 480
+HP: 100
+Coins: 313
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 2
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 485
+HP: 100
+Coins: 311
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 14
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 485
+HP: 100
+Coins: 297
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 17
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 495
+HP: 100
+Coins: 280
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 495
+HP: 100
+Coins: 287
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 495
+HP: 100
+Coins: 304
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 495
+HP: 100
+Coins: 289
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_hoof
+Level: 7
+Force: 495
+HP: 100
+Coins: 289
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 8
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 8
+Force: 495
+HP: 100
+Coins: 297
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 4
+------------------------
+Player Details:
+Name: a_hoof
+Level: 8
+Force: 495
+HP: 100
+Coins: 293
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: a_hoof
+Level: 8
+Force: 495
+HP: 100
+Coins: 307
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 212
+Cost: 4
+------------------------
+Player Details:
+Name: a_hoof
+Level: 8
+Force: 707
+HP: 100
+Coins: 303
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 6
+------------------------
+Player Details:
+Name: a_hoof
+Level: 8
+Force: 725
+HP: 100
+Coins: 297
+------------------------
+Card drawn:
+Type: Battle
+Force: 22
+Profit (on win): 155
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 9
+Force: 725
+HP: 100
+Coins: 452
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 13
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_hoof
+Level: 10
+Force: 725
+HP: 100
+Coins: 465
+------------------------
+The player has won! :D

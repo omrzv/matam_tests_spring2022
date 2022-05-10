@@ -1,0 +1,766 @@
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 37
+Cost: 72
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 2
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 2
+Force: 14
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 14
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 14
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 17
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 3
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 237
+Profit (on win): 11
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 93
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 6
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 93
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 18
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 93
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 43
+Profit (on win): 22
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 24
+HP: 89
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 28
+HP: 89
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 28
+HP: 89
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 28
+HP: 89
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 7
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 3
+Force: 32
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 4
+Force: 32
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 4
+Force: 32
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 37
+Cost: 72
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 4
+Force: 32
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 4
+Force: 32
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 4
+Force: 32
+HP: 89
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 4
+Force: 41
+HP: 89
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 41
+HP: 89
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 41
+HP: 89
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 17
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 51
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 51
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 3
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 51
+HP: 89
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 237
+Profit (on win): 11
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 51
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 6
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 51
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 18
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 5
+Force: 51
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 43
+Profit (on win): 22
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 6
+Force: 51
+HP: 82
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 6
+Force: 51
+HP: 83
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 6
+Force: 55
+HP: 83
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 6
+Force: 55
+HP: 83
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 6
+Force: 55
+HP: 83
+Coins: 31
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 7
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 6
+Force: 59
+HP: 83
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 7
+Force: 59
+HP: 83
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 7
+Force: 59
+HP: 85
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 37
+Cost: 72
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 7
+Force: 59
+HP: 85
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 7
+Force: 59
+HP: 85
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 7
+Force: 59
+HP: 85
+Coins: 31
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 7
+Force: 68
+HP: 85
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 68
+HP: 85
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 20
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 86
+HP: 85
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 17
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 86
+HP: 85
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 90
+HP: 85
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 3
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 91
+HP: 85
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 237
+Profit (on win): 11
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 91
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 6
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 91
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 18
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 8
+Force: 91
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 43
+Profit (on win): 22
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 9
+Force: 91
+HP: 78
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 9
+Force: 91
+HP: 79
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 9
+Force: 95
+HP: 79
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 9
+Force: 95
+HP: 79
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 9
+Force: 95
+HP: 79
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 7
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 9
+Force: 99
+HP: 79
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_parsnip
+Level: 10
+Force: 99
+HP: 79
+Coins: 23
+------------------------
+The player has won! :D

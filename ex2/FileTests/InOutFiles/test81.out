@@ -1,0 +1,359 @@
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 2232
+Profit (on win): 20
+Damage taken (on loss): 79
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 1
+Force: 5
+HP: 21
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 11
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 1
+Force: 5
+HP: 21
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 5
+HP: 21
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 5
+HP: 21
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 2
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 13
+HP: 21
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 42
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 13
+HP: 21
+Coins: 54
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 19
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 30
+HP: 21
+Coins: 35
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 30
+HP: 21
+Coins: 44
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 20
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 30
+HP: 39
+Coins: 24
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 30
+HP: 39
+Coins: 41
+------------------------
+Card drawn:
+Type: Battle
+Force: 126
+Profit (on win): 9
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 2
+Force: 30
+HP: 32
+Coins: 41
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 8
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 30
+HP: 32
+Coins: 49
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 4
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 34
+HP: 32
+Coins: 45
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 34
+HP: 50
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 0
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 48
+HP: 50
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 8
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 52
+HP: 50
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 52
+HP: 50
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 12
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 66
+HP: 50
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 66
+HP: 50
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 3
+Force: 66
+HP: 50
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 4
+Force: 66
+HP: 50
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 4
+Force: 66
+HP: 50
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 4
+Force: 66
+HP: 50
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 2232
+Profit (on win): 20
+Damage taken (on loss): 79
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Mousetrap
+Level: 4
+Force: 66
+HP: 0
+Coins: 13
+------------------------
+The player was defeated... :(

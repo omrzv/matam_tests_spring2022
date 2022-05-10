@@ -1,0 +1,407 @@
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 563
+Cost: 8
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 39
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 1
+Force: 5
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 1
+Force: 5
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 9
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 1
+Force: 5
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 4
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 1
+Force: 7
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 1777
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 2
+Force: 7
+HP: 100
+Coins: 1806
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 2
+Force: 7
+HP: 100
+Coins: 1823
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 5
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 2
+Force: 7
+HP: 100
+Coins: 1818
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 11
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 2
+Force: 7
+HP: 96
+Coins: 1818
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 0
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 2
+Force: 8
+HP: 96
+Coins: 1818
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 2
+Force: 28
+HP: 96
+Coins: 1817
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 6
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 3
+Force: 28
+HP: 96
+Coins: 1823
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 1
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 3
+Force: 28
+HP: 100
+Coins: 1822
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 19
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 4
+Force: 28
+HP: 100
+Coins: 1841
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 5
+Force: 28
+HP: 100
+Coins: 1843
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 5
+Force: 28
+HP: 100
+Coins: 1854
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 0
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 5
+Force: 42
+HP: 100
+Coins: 1854
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 492
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 6
+Force: 42
+HP: 100
+Coins: 2346
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 6
+Force: 42
+HP: 100
+Coins: 2353
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 18
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 7
+Force: 42
+HP: 100
+Coins: 2371
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 8
+Force: 42
+HP: 100
+Coins: 2374
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 8
+Force: 42
+HP: 100
+Coins: 2373
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 563
+Cost: 8
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 8
+Force: 42
+HP: 100
+Coins: 2365
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 39
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 8
+Force: 42
+HP: 100
+Coins: 2404
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 8
+Force: 42
+HP: 100
+Coins: 2407
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 9
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 8
+Force: 42
+HP: 100
+Coins: 2398
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 4
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 8
+Force: 44
+HP: 100
+Coins: 2394
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 1777
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 9
+Force: 44
+HP: 100
+Coins: 4171
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 9
+Force: 44
+HP: 100
+Coins: 4188
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 5
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 9
+Force: 44
+HP: 100
+Coins: 4183
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 11
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Phantom
+Level: 10
+Force: 44
+HP: 100
+Coins: 4194
+------------------------
+The player has won! :D

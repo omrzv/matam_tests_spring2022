@@ -1,0 +1,560 @@
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 1
+Force: 21
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 1
+Force: 21
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 7
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 1
+Force: 21
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 2
+Force: 21
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 4
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 2
+Force: 36
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 2
+Force: 36
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 2
+Force: 38
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 2
+Force: 38
+HP: 100
+Coins: 45
+------------------------
+Card drawn:
+Type: Battle
+Force: 49
+Profit (on win): 14
+Damage taken (on loss): 47
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 2
+Force: 38
+HP: 53
+Coins: 45
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 3
+Force: 38
+HP: 53
+Coins: 64
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 7
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 3
+Force: 38
+HP: 55
+Coins: 57
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 20
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 3
+Force: 43
+HP: 55
+Coins: 37
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 3
+Force: 47
+HP: 55
+Coins: 25
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 3
+Force: 67
+HP: 55
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 16
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 3
+Force: 80
+HP: 55
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 4
+Force: 80
+HP: 55
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 4
+Force: 80
+HP: 55
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 7
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 4
+Force: 80
+HP: 61
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 4
+Force: 96
+HP: 61
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 4
+Force: 96
+HP: 61
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 7
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 4
+Force: 96
+HP: 61
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 5
+Force: 96
+HP: 61
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 4
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 5
+Force: 111
+HP: 61
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 5
+Force: 111
+HP: 61
+Coins: 41
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 5
+Force: 113
+HP: 61
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 5
+Force: 113
+HP: 61
+Coins: 48
+------------------------
+Card drawn:
+Type: Battle
+Force: 49
+Profit (on win): 14
+Damage taken (on loss): 47
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 6
+Force: 113
+HP: 61
+Coins: 62
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 7
+Force: 113
+HP: 61
+Coins: 81
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 7
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 7
+Force: 113
+HP: 63
+Coins: 74
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 20
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 7
+Force: 118
+HP: 63
+Coins: 54
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 7
+Force: 122
+HP: 63
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 7
+Force: 142
+HP: 63
+Coins: 38
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 16
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 7
+Force: 155
+HP: 63
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 8
+Force: 155
+HP: 63
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 8
+Force: 155
+HP: 63
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 7
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 8
+Force: 155
+HP: 69
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 8
+Force: 171
+HP: 69
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 8
+Force: 171
+HP: 69
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 7
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 8
+Force: 171
+HP: 87
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 9
+Force: 171
+HP: 87
+Coins: 36
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 4
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 9
+Force: 186
+HP: 87
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 9
+Force: 186
+HP: 87
+Coins: 51
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 9
+Force: 188
+HP: 87
+Coins: 40
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 9
+Force: 188
+HP: 87
+Coins: 58
+------------------------
+Card drawn:
+Type: Battle
+Force: 49
+Profit (on win): 14
+Damage taken (on loss): 47
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 01-Jan-01
+Level: 10
+Force: 188
+HP: 87
+Coins: 72
+------------------------
+The player has won! :D

@@ -1,0 +1,297 @@
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 18
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 1
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 10
+Damage taken (on loss): 42
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 1
+Force: 5
+HP: 58
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 1
+Force: 5
+HP: 58
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 1
+Force: 5
+HP: 58
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 1
+Force: 5
+HP: 70
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 193
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 1
+Force: 5
+HP: 56
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 56
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 56
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 7
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 57
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 18
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 57
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 57
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 10
+Damage taken (on loss): 42
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 15
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 15
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 15
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 27
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 193
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 2
+Force: 5
+HP: 13
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 3
+Force: 5
+HP: 13
+Coins: 26
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 3
+Force: 5
+HP: 13
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 7
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 3
+Force: 5
+HP: 14
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 18
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 3
+Force: 5
+HP: 15
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 3
+Force: 5
+HP: 15
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 10
+Damage taken (on loss): 42
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "She_Loves_You"
+Level: 3
+Force: 5
+HP: 0
+Coins: 15
+------------------------
+The player was defeated... :(

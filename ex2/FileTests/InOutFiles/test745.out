@@ -1,0 +1,57 @@
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Charles_II
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 6
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Charles_II
+Level: 1
+Force: 5
+HP: 99
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 2
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Charles_II
+Level: 1
+Force: 5
+HP: 80
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 3
+Damage taken (on loss): 241
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Charles_II
+Level: 1
+Force: 5
+HP: 0
+Coins: 15
+------------------------
+The player was defeated... :(

@@ -1,0 +1,145 @@
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 1
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 0
+Damage taken (on loss): 40
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 1
+Force: 5
+HP: 60
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 1
+Force: 5
+HP: 60
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 1
+Force: 5
+HP: 60
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 16
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 1
+Force: 23
+HP: 60
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 2
+Force: 23
+HP: 60
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 20
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 2
+Force: 23
+HP: 60
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 8
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 2
+Force: 23
+HP: 60
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 96
+Profit (on win): 19
+Damage taken (on loss): 56
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 2
+Force: 23
+HP: 4
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 2
+Force: 23
+HP: 4
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 69
+Profit (on win): 12
+Damage taken (on loss): 9056
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_screwdriver
+Level: 2
+Force: 23
+HP: 0
+Coins: 7
+------------------------
+The player was defeated... :(

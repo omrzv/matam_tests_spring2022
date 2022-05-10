@@ -1,0 +1,487 @@
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 8
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 4
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 11
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 87
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 87
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 87
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 87
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 5
+HP: 87
+Coins: 25
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 6
+HP: 87
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 6
+HP: 87
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 7
+HP: 87
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 14
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 7
+HP: 84
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 8
+------------------------
+Player Details:
+Name: Caesar
+Level: 1
+Force: 17
+HP: 84
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 2
+Force: 17
+HP: 84
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 4
+------------------------
+Player Details:
+Name: Caesar
+Level: 2
+Force: 17
+HP: 84
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 11
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 3
+Force: 17
+HP: 84
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Caesar
+Level: 3
+Force: 17
+HP: 84
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Caesar
+Level: 3
+Force: 17
+HP: 84
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Caesar
+Level: 3
+Force: 17
+HP: 84
+Coins: 41
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Caesar
+Level: 3
+Force: 17
+HP: 84
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: Caesar
+Level: 3
+Force: 18
+HP: 84
+Coins: 25
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 4
+Force: 18
+HP: 84
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Caesar
+Level: 4
+Force: 19
+HP: 84
+Coins: 25
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 14
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 5
+Force: 19
+HP: 84
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 8
+------------------------
+Player Details:
+Name: Caesar
+Level: 5
+Force: 29
+HP: 84
+Coins: 31
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 6
+Force: 29
+HP: 84
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 4
+------------------------
+Player Details:
+Name: Caesar
+Level: 6
+Force: 42
+HP: 84
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 11
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 7
+Force: 42
+HP: 84
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Caesar
+Level: 7
+Force: 42
+HP: 84
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Caesar
+Level: 7
+Force: 42
+HP: 84
+Coins: 53
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Caesar
+Level: 7
+Force: 42
+HP: 84
+Coins: 66
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Caesar
+Level: 7
+Force: 42
+HP: 84
+Coins: 64
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: Caesar
+Level: 7
+Force: 43
+HP: 84
+Coins: 50
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 8
+Force: 43
+HP: 84
+Coins: 51
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Caesar
+Level: 8
+Force: 44
+HP: 84
+Coins: 50
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 14
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 9
+Force: 44
+HP: 84
+Coins: 64
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 8
+------------------------
+Player Details:
+Name: Caesar
+Level: 9
+Force: 54
+HP: 84
+Coins: 56
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Caesar
+Level: 10
+Force: 54
+HP: 84
+Coins: 57
+------------------------
+The player has won! :D

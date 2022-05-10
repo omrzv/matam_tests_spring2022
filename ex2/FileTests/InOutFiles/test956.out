@@ -1,0 +1,567 @@
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 3
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 1
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 1
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 1
+Force: 24
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 2
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 2
+Force: 24
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 2
+Force: 24
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 2
+Force: 24
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 20
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 3
+Force: 24
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 3
+Force: 24
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 3
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 3
+Force: 40
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 3
+Force: 40
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 3
+Force: 40
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 3
+Force: 40
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 3
+Force: 59
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 2
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 4
+Force: 59
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 4
+Force: 59
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 4
+Force: 59
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 20
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 5
+Force: 59
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 5
+Force: 59
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 3
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 5
+Force: 75
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 5
+Force: 75
+HP: 100
+Coins: 50
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 5
+Force: 75
+HP: 100
+Coins: 59
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 5
+Force: 75
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 5
+Force: 94
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 2
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 6
+Force: 94
+HP: 100
+Coins: 59
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 6
+Force: 94
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 6
+Force: 94
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 20
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 7
+Force: 94
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 7
+Force: 94
+HP: 100
+Coins: 92
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 3
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 7
+Force: 110
+HP: 100
+Coins: 89
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 7
+Force: 110
+HP: 100
+Coins: 75
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 7
+Force: 110
+HP: 100
+Coins: 84
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 7
+Force: 110
+HP: 100
+Coins: 83
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 7
+Force: 129
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 2
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 8
+Force: 129
+HP: 100
+Coins: 84
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 8
+Force: 129
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 8
+Force: 129
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 20
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 9
+Force: 129
+HP: 100
+Coins: 106
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 9
+Force: 129
+HP: 100
+Coins: 117
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 3
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 9
+Force: 145
+HP: 100
+Coins: 114
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 9
+Force: 145
+HP: 100
+Coins: 100
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 9
+Force: 145
+HP: 100
+Coins: 109
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 9
+Force: 145
+HP: 100
+Coins: 108
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 9
+Force: 164
+HP: 100
+Coins: 107
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 2
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "Achtung_Baby"
+Level: 10
+Force: 164
+HP: 100
+Coins: 109
+------------------------
+The player has won! :D

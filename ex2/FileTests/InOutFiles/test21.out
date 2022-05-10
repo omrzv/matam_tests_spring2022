@@ -1,0 +1,515 @@
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 1
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 1
+Force: 10
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 1
+Force: 10
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 6
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 1
+Force: 10
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 8
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 1
+Force: 10
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 1188
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 10
+HP: 100
+Coins: 1192
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 10
+HP: 100
+Coins: 1180
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 17
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 10
+HP: 81
+Coins: 1180
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 10
+HP: 81
+Coins: 1180
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 8
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 10
+HP: 100
+Coins: 1172
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 18
+HP: 100
+Coins: 1172
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 38
+HP: 100
+Coins: 1168
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 9
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 38
+HP: 100
+Coins: 1159
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 6
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 2
+Force: 43
+HP: 100
+Coins: 1153
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 154
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 3
+Force: 43
+HP: 100
+Coins: 1307
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 16
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 3
+Force: 58
+HP: 100
+Coins: 1291
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 881
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 4
+Force: 58
+HP: 100
+Coins: 2172
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 58
+HP: 100
+Coins: 2191
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 58
+HP: 100
+Coins: 2191
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 58
+HP: 100
+Coins: 2209
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 3
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 58
+HP: 100
+Coins: 2206
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 58
+HP: 100
+Coins: 2203
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 19
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 74
+HP: 100
+Coins: 2184
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 74
+HP: 100
+Coins: 2187
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 1
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 79
+HP: 100
+Coins: 2186
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 79
+HP: 100
+Coins: 2194
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 6
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 79
+HP: 100
+Coins: 2188
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 8
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 5
+Force: 94
+HP: 100
+Coins: 2180
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 1188
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 6
+Force: 94
+HP: 100
+Coins: 3368
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 6
+Force: 94
+HP: 100
+Coins: 3356
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 17
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 7
+Force: 94
+HP: 100
+Coins: 3373
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 7
+Force: 94
+HP: 100
+Coins: 3373
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 8
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 7
+Force: 94
+HP: 100
+Coins: 3365
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 7
+Force: 102
+HP: 100
+Coins: 3365
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 7
+Force: 122
+HP: 100
+Coins: 3361
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 9
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 7
+Force: 122
+HP: 100
+Coins: 3352
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 6
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 7
+Force: 127
+HP: 100
+Coins: 3346
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 154
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 8
+Force: 127
+HP: 100
+Coins: 3500
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 16
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 8
+Force: 142
+HP: 100
+Coins: 3484
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 881
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 9
+Force: 142
+HP: 100
+Coins: 4365
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Peter_Principle
+Level: 10
+Force: 142
+HP: 100
+Coins: 4384
+------------------------
+The player has won! :D

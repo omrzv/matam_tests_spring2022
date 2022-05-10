@@ -1,0 +1,781 @@
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 84
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 16
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 16
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 16
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 16
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 5
+HP: 16
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 8
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 18
+HP: 16
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 1
+Force: 18
+HP: 16
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 2
+Force: 18
+HP: 16
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 2
+Force: 18
+HP: 19
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 2
+Force: 18
+HP: 19
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 2
+Force: 18
+HP: 19
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 2
+Force: 18
+HP: 19
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 2
+Force: 18
+HP: 19
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 84
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 3
+Force: 18
+HP: 19
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 3
+Force: 18
+HP: 19
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 3
+Force: 18
+HP: 25
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 3
+Force: 18
+HP: 25
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 3
+Force: 18
+HP: 25
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 8
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 3
+Force: 31
+HP: 25
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 3
+Force: 31
+HP: 25
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 4
+Force: 31
+HP: 25
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 4
+Force: 31
+HP: 28
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 4
+Force: 31
+HP: 28
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 4
+Force: 31
+HP: 28
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 4
+Force: 31
+HP: 28
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 4
+Force: 31
+HP: 28
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 84
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 5
+Force: 31
+HP: 28
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 5
+Force: 31
+HP: 28
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 5
+Force: 31
+HP: 34
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 5
+Force: 31
+HP: 34
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 5
+Force: 31
+HP: 34
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 8
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 5
+Force: 44
+HP: 34
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 5
+Force: 44
+HP: 34
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 6
+Force: 44
+HP: 34
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 6
+Force: 44
+HP: 37
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 6
+Force: 44
+HP: 37
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 6
+Force: 44
+HP: 37
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 6
+Force: 44
+HP: 37
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 6
+Force: 44
+HP: 37
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 84
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 7
+Force: 44
+HP: 37
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 7
+Force: 44
+HP: 37
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 7
+Force: 44
+HP: 43
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 7
+Force: 44
+HP: 43
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 7
+Force: 44
+HP: 43
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 8
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 7
+Force: 57
+HP: 43
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 7
+Force: 57
+HP: 43
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 8
+Force: 57
+HP: 43
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 8
+Force: 57
+HP: 46
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 8
+Force: 57
+HP: 50
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 8
+Force: 57
+HP: 50
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 8
+Force: 57
+HP: 50
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 8
+Force: 57
+HP: 50
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 84
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 9
+Force: 57
+HP: 50
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 9
+Force: 57
+HP: 50
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 3
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 9
+Force: 57
+HP: 56
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 9
+Force: 57
+HP: 56
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 9
+Force: 57
+HP: 56
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 8
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 9
+Force: 70
+HP: 56
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 9
+Force: 70
+HP: 56
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hong_Kong
+Level: 10
+Force: 70
+HP: 56
+Coins: 11
+------------------------
+The player has won! :D

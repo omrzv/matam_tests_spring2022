@@ -1,0 +1,602 @@
+Card drawn:
+Type: Buff
+Buff points: 4928
+Cost: 1
+------------------------
+Player Details:
+Name: a_calzone
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 10
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 5
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 5
+HP: 83
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 0
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 16
+HP: 83
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 16
+HP: 83
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 16
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 27
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 5
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 34
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 298
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 34
+HP: 100
+Coins: 303
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 3
+------------------------
+Player Details:
+Name: a_calzone
+Level: 2
+Force: 49
+HP: 100
+Coins: 300
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 1
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 3
+Force: 49
+HP: 100
+Coins: 301
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 3
+------------------------
+Player Details:
+Name: a_calzone
+Level: 3
+Force: 54
+HP: 100
+Coins: 298
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 13
+------------------------
+Player Details:
+Name: a_calzone
+Level: 3
+Force: 54
+HP: 100
+Coins: 285
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 0
+Damage taken (on loss): 75
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 54
+HP: 100
+Coins: 285
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 10
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 61
+HP: 100
+Coins: 275
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 62
+HP: 100
+Coins: 263
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 62
+HP: 100
+Coins: 280
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 64
+HP: 100
+Coins: 269
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 64
+HP: 100
+Coins: 270
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3878
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 64
+HP: 100
+Coins: 4148
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 64
+HP: 100
+Coins: 4155
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: a_calzone
+Level: 4
+Force: 64
+HP: 100
+Coins: 4157
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 11
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 5
+Force: 64
+HP: 100
+Coins: 4168
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: a_calzone
+Level: 5
+Force: 64
+HP: 100
+Coins: 4169
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4928
+Cost: 1
+------------------------
+Player Details:
+Name: a_calzone
+Level: 5
+Force: 4992
+HP: 100
+Coins: 4168
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 10
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 6
+Force: 4992
+HP: 100
+Coins: 4178
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_calzone
+Level: 6
+Force: 4992
+HP: 100
+Coins: 4186
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 4992
+HP: 100
+Coins: 4186
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 0
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 5003
+HP: 100
+Coins: 4186
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 5003
+HP: 100
+Coins: 4198
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 5003
+HP: 100
+Coins: 4198
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 5014
+HP: 100
+Coins: 4178
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 5
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 5021
+HP: 100
+Coins: 4173
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 298
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 5021
+HP: 100
+Coins: 4471
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 3
+------------------------
+Player Details:
+Name: a_calzone
+Level: 7
+Force: 5036
+HP: 100
+Coins: 4468
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 1
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 8
+Force: 5036
+HP: 100
+Coins: 4469
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 3
+------------------------
+Player Details:
+Name: a_calzone
+Level: 8
+Force: 5041
+HP: 100
+Coins: 4466
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 13
+------------------------
+Player Details:
+Name: a_calzone
+Level: 8
+Force: 5041
+HP: 100
+Coins: 4453
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 0
+Damage taken (on loss): 75
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5041
+HP: 100
+Coins: 4453
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 10
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5048
+HP: 100
+Coins: 4443
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5049
+HP: 100
+Coins: 4431
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5049
+HP: 100
+Coins: 4448
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5051
+HP: 100
+Coins: 4437
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5051
+HP: 100
+Coins: 4438
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3878
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5051
+HP: 100
+Coins: 8316
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5051
+HP: 100
+Coins: 8323
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: a_calzone
+Level: 9
+Force: 5051
+HP: 100
+Coins: 8325
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 11
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_calzone
+Level: 10
+Force: 5051
+HP: 100
+Coins: 8336
+------------------------
+The player has won! :D

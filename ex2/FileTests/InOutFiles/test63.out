@@ -1,0 +1,28 @@
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: Sevastopol
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 20
+Damage taken (on loss): 867
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Sevastopol
+Level: 1
+Force: 5
+HP: 0
+Coins: 0
+------------------------
+The player was defeated... :(

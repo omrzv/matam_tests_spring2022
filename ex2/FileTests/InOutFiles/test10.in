@@ -1,0 +1,13 @@
+11
+Don'tBeNegative-BePositive-:)
+Heal -1 -1 -1 -1 -1 -1
+Battle 9999 2 -1 -1 -1 -1
+Buff -1 -1 -1 -1 9999 -1
+Buff -1 -1 9999 -1 -1 -1
+Heal -1 -1 -1 1 -1 -1
+Heal -1 -1 -1 9999 -1 -1
+Heal -1 -1 9999 -1 -1 -1
+Treasure -1 -1 -1 -1 -1 -1
+Treasure -1 -1 -1 -1 -1 9999
+Battle -1 -1 -1 -1 -1 -1
+Battle -1 -1 -1 -1 -1 9999

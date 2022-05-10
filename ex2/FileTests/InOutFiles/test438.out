@@ -1,0 +1,498 @@
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: bats
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: bats
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: bats
+Level: 1
+Force: 5
+HP: 81
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 2
+------------------------
+Player Details:
+Name: bats
+Level: 1
+Force: 5
+HP: 81
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: bats
+Level: 1
+Force: 5
+HP: 81
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 2
+Damage taken (on loss): 104
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 5
+HP: 81
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 81
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 81
+Coins: 25
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10708
+Cost: 100
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 81
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 19
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 91
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 90
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 90
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 17
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 90
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 90
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 179
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 83
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4434
+------------------------
+Player Details:
+Name: bats
+Level: 2
+Force: 7
+HP: 83
+Coins: 4450
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 18
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 3
+Force: 7
+HP: 83
+Coins: 4468
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: bats
+Level: 3
+Force: 7
+HP: 83
+Coins: 4478
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: bats
+Level: 3
+Force: 7
+HP: 83
+Coins: 4468
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: bats
+Level: 3
+Force: 27
+HP: 83
+Coins: 4466
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 4
+Force: 27
+HP: 83
+Coins: 4470
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 2
+------------------------
+Player Details:
+Name: bats
+Level: 4
+Force: 30
+HP: 83
+Coins: 4468
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: bats
+Level: 4
+Force: 30
+HP: 83
+Coins: 4487
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 2
+Damage taken (on loss): 104
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 5
+Force: 30
+HP: 83
+Coins: 4489
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: bats
+Level: 5
+Force: 32
+HP: 83
+Coins: 4488
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: bats
+Level: 5
+Force: 32
+HP: 83
+Coins: 4493
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10708
+Cost: 100
+------------------------
+Player Details:
+Name: bats
+Level: 5
+Force: 10740
+HP: 83
+Coins: 4393
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 19
+------------------------
+Player Details:
+Name: bats
+Level: 5
+Force: 10740
+HP: 93
+Coins: 4374
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 6
+Force: 10740
+HP: 93
+Coins: 4374
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 7
+Force: 10740
+HP: 93
+Coins: 4374
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 17
+------------------------
+Player Details:
+Name: bats
+Level: 7
+Force: 10740
+HP: 93
+Coins: 4357
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: bats
+Level: 7
+Force: 10740
+HP: 93
+Coins: 4367
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 179
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 8
+Force: 10740
+HP: 93
+Coins: 4546
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4434
+------------------------
+Player Details:
+Name: bats
+Level: 8
+Force: 10740
+HP: 93
+Coins: 8980
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 18
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 9
+Force: 10740
+HP: 93
+Coins: 8998
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: bats
+Level: 9
+Force: 10740
+HP: 93
+Coins: 9008
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: bats
+Level: 9
+Force: 10740
+HP: 93
+Coins: 8998
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: bats
+Level: 9
+Force: 10760
+HP: 93
+Coins: 8996
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: bats
+Level: 10
+Force: 10760
+HP: 93
+Coins: 9000
+------------------------
+The player has won! :D

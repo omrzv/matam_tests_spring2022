@@ -1,0 +1,51 @@
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Edna_St._Vincent_Millay
+Level: 1
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 20
+------------------------
+Player Details:
+Name: Edna_St._Vincent_Millay
+Level: 1
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 4
+------------------------
+Player Details:
+Name: Edna_St._Vincent_Millay
+Level: 1
+Force: 13
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 19
+Damage taken (on loss): 7487
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Edna_St._Vincent_Millay
+Level: 1
+Force: 13
+HP: 0
+Coins: 14
+------------------------
+The player was defeated... :(

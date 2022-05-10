@@ -1,0 +1,58 @@
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 2
+------------------------
+Player Details:
+Name: Socialist
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 15
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Socialist
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Socialist
+Level: 2
+Force: 5
+HP: 92
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 9
+Damage taken (on loss): 1142
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Socialist
+Level: 2
+Force: 5
+HP: 0
+Coins: 2
+------------------------
+The player was defeated... :(

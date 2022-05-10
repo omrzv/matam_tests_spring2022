@@ -1,0 +1,370 @@
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 1
+------------------------
+Player Details:
+Name: Amazon
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 5
+------------------------
+Player Details:
+Name: Amazon
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Amazon
+Level: 1
+Force: 5
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 20
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 2
+Force: 5
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 7
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 3
+Force: 5
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 120
+Cost: 0
+------------------------
+Player Details:
+Name: Amazon
+Level: 3
+Force: 5
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 14
+------------------------
+Player Details:
+Name: Amazon
+Level: 3
+Force: 5
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 18
+------------------------
+Player Details:
+Name: Amazon
+Level: 3
+Force: 22
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 1
+------------------------
+Player Details:
+Name: Amazon
+Level: 3
+Force: 25
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 15
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 4
+Force: 25
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Amazon
+Level: 4
+Force: 25
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 571
+------------------------
+Player Details:
+Name: Amazon
+Level: 4
+Force: 25
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 9
+------------------------
+Player Details:
+Name: Amazon
+Level: 4
+Force: 25
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 3
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 5
+Force: 25
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: Amazon
+Level: 5
+Force: 28
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 2
+------------------------
+Player Details:
+Name: Amazon
+Level: 5
+Force: 31
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 1
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 6
+Force: 31
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Amazon
+Level: 6
+Force: 31
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Amazon
+Level: 6
+Force: 31
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 6
+Damage taken (on loss): 26
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 7
+Force: 31
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 7
+------------------------
+Player Details:
+Name: Amazon
+Level: 7
+Force: 31
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 884775
+Cost: 13
+------------------------
+Player Details:
+Name: Amazon
+Level: 7
+Force: 31
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 8
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 8
+Force: 31
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Amazon
+Level: 8
+Force: 31
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 1
+------------------------
+Player Details:
+Name: Amazon
+Level: 8
+Force: 42
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 5
+------------------------
+Player Details:
+Name: Amazon
+Level: 8
+Force: 62
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Amazon
+Level: 8
+Force: 62
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 20
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 9
+Force: 62
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 7
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Amazon
+Level: 10
+Force: 62
+HP: 100
+Coins: 55
+------------------------
+The player has won! :D

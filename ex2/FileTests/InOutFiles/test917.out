@@ -1,0 +1,337 @@
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 1
+Force: 5
+HP: 87
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 2
+Force: 5
+HP: 87
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "How_To"
+Level: 2
+Force: 5
+HP: 87
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 2
+Force: 5
+HP: 83
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 2
+Force: 5
+HP: 70
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 3
+Force: 5
+HP: 70
+Coins: 31
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "How_To"
+Level: 3
+Force: 5
+HP: 70
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 3
+Force: 5
+HP: 66
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 3
+Force: 5
+HP: 53
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 4
+Force: 5
+HP: 53
+Coins: 53
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "How_To"
+Level: 4
+Force: 5
+HP: 53
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 4
+Force: 5
+HP: 49
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 4
+Force: 5
+HP: 36
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 5
+Force: 5
+HP: 36
+Coins: 75
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "How_To"
+Level: 5
+Force: 5
+HP: 36
+Coins: 88
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 6
+Force: 5
+HP: 36
+Coins: 90
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 6
+Force: 5
+HP: 23
+Coins: 90
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 7
+Force: 5
+HP: 23
+Coins: 99
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "How_To"
+Level: 7
+Force: 5
+HP: 23
+Coins: 112
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 8
+Force: 5
+HP: 23
+Coins: 114
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: "How_To"
+Level: 8
+Force: 5
+HP: 10
+Coins: 114
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 9
+Force: 5
+HP: 10
+Coins: 123
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: "How_To"
+Level: 9
+Force: 5
+HP: 10
+Coins: 136
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: "How_To"
+Level: 10
+Force: 5
+HP: 10
+Coins: 138
+------------------------
+The player has won! :D

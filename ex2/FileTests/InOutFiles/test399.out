@@ -1,0 +1,61 @@
+Card drawn:
+Type: Battle
+Force: 28
+Profit (on win): 3
+Damage taken (on loss): 25
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Boston_Marathon
+Level: 1
+Force: 5
+HP: 75
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 13
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Boston_Marathon
+Level: 2
+Force: 5
+HP: 75
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Boston_Marathon
+Level: 3
+Force: 5
+HP: 75
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 134
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Boston_Marathon
+Level: 3
+Force: 5
+HP: 0
+Coins: 16
+------------------------
+The player was defeated... :(

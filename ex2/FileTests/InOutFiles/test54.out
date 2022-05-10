@@ -1,0 +1,586 @@
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Historian
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 19
+------------------------
+Player Details:
+Name: The_Historian
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 61
+Cost: 11
+------------------------
+Player Details:
+Name: The_Historian
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: The_Historian
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 97
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 5
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 97
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 2
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 7
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 7
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 85
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 19
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 61
+Cost: 11
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: The_Historian
+Level: 2
+Force: 5
+HP: 82
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 82
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 5
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 82
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 2
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 99
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 7
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 99
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 7
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 84
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 81
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 19
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 81
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 61
+Cost: 11
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 81
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: The_Historian
+Level: 3
+Force: 5
+HP: 81
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 4
+Force: 5
+HP: 81
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 5
+------------------------
+Player Details:
+Name: The_Historian
+Level: 4
+Force: 12
+HP: 81
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 2
+------------------------
+Player Details:
+Name: The_Historian
+Level: 4
+Force: 12
+HP: 81
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 7
+------------------------
+Player Details:
+Name: The_Historian
+Level: 4
+Force: 12
+HP: 81
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 7
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 5
+Force: 12
+HP: 81
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Historian
+Level: 5
+Force: 12
+HP: 78
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 19
+------------------------
+Player Details:
+Name: The_Historian
+Level: 5
+Force: 12
+HP: 78
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 61
+Cost: 11
+------------------------
+Player Details:
+Name: The_Historian
+Level: 5
+Force: 12
+HP: 78
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: The_Historian
+Level: 5
+Force: 12
+HP: 78
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 6
+Force: 12
+HP: 78
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 5
+------------------------
+Player Details:
+Name: The_Historian
+Level: 6
+Force: 19
+HP: 78
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 2
+------------------------
+Player Details:
+Name: The_Historian
+Level: 6
+Force: 19
+HP: 95
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 7
+------------------------
+Player Details:
+Name: The_Historian
+Level: 6
+Force: 19
+HP: 95
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 7
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 7
+Force: 19
+HP: 95
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 8
+Force: 19
+HP: 95
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 19
+------------------------
+Player Details:
+Name: The_Historian
+Level: 8
+Force: 36
+HP: 95
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 61
+Cost: 11
+------------------------
+Player Details:
+Name: The_Historian
+Level: 8
+Force: 36
+HP: 95
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: The_Historian
+Level: 8
+Force: 36
+HP: 95
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 9
+Force: 36
+HP: 95
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 5
+------------------------
+Player Details:
+Name: The_Historian
+Level: 9
+Force: 43
+HP: 95
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 2
+------------------------
+Player Details:
+Name: The_Historian
+Level: 9
+Force: 43
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 7
+------------------------
+Player Details:
+Name: The_Historian
+Level: 9
+Force: 43
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 7
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Historian
+Level: 10
+Force: 43
+HP: 100
+Coins: 7
+------------------------
+The player has won! :D

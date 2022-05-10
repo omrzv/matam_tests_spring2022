@@ -1,0 +1,858 @@
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Gladiator
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 6
+------------------------
+Player Details:
+Name: Gladiator
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: Gladiator
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 408
+------------------------
+Player Details:
+Name: Gladiator
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 14
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 2
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 2
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 2
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 2
+Force: 5
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Gladiator
+Level: 2
+Force: 5
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 2
+Force: 5
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 7
+Damage taken (on loss): 233
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 5
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 5
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 14
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 5
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 90
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 5
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 5
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 5
+HP: 100
+Coins: 46
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 23
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 6
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 23
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 38
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 408
+------------------------
+Player Details:
+Name: Gladiator
+Level: 3
+Force: 38
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 14
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 4
+Force: 38
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 4
+Force: 38
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 4
+Force: 38
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 4
+Force: 38
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Gladiator
+Level: 4
+Force: 38
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 4
+Force: 38
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 7
+Damage taken (on loss): 233
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 38
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 38
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 14
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 38
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 90
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 38
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 38
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 38
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 56
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 6
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 56
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 71
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 408
+------------------------
+Player Details:
+Name: Gladiator
+Level: 5
+Force: 71
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 14
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 6
+Force: 71
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 6
+Force: 71
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 6
+Force: 71
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 6
+Force: 71
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Gladiator
+Level: 6
+Force: 71
+HP: 100
+Coins: 69
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 6
+Force: 71
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 7
+Damage taken (on loss): 233
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 71
+HP: 100
+Coins: 88
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 71
+HP: 100
+Coins: 97
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 14
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 71
+HP: 100
+Coins: 83
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 90
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 71
+HP: 100
+Coins: 83
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 71
+HP: 100
+Coins: 84
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 71
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 89
+HP: 100
+Coins: 74
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 6
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 89
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 104
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 408
+------------------------
+Player Details:
+Name: Gladiator
+Level: 7
+Force: 104
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 14
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 8
+Force: 104
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 8
+Force: 104
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 0
+------------------------
+Player Details:
+Name: Gladiator
+Level: 8
+Force: 104
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 8
+Force: 104
+HP: 100
+Coins: 76
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Gladiator
+Level: 8
+Force: 104
+HP: 100
+Coins: 89
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 8
+Force: 104
+HP: 100
+Coins: 101
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 7
+Damage taken (on loss): 233
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 104
+HP: 100
+Coins: 108
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 104
+HP: 100
+Coins: 117
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 14
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 104
+HP: 100
+Coins: 103
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 90
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 106
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 106
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 106
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 12
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 124
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 6
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 124
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 124
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 408
+------------------------
+Player Details:
+Name: Gladiator
+Level: 9
+Force: 124
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 14
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Gladiator
+Level: 10
+Force: 124
+HP: 100
+Coins: 18
+------------------------
+The player has won! :D

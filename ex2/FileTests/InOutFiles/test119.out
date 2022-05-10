@@ -1,0 +1,88 @@
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: tea
+Level: 1
+Force: 5
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 17
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tea
+Level: 1
+Force: 5
+HP: 92
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 17
+------------------------
+Player Details:
+Name: tea
+Level: 1
+Force: 5
+HP: 92
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: tea
+Level: 1
+Force: 5
+HP: 92
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 13
+------------------------
+Player Details:
+Name: tea
+Level: 1
+Force: 6
+HP: 92
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: tea
+Level: 1
+Force: 6
+HP: 92
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 10
+Damage taken (on loss): 6586
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tea
+Level: 1
+Force: 6
+HP: 0
+Coins: 21
+------------------------
+The player was defeated... :(

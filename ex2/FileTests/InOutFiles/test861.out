@@ -1,0 +1,51 @@
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 1292
+------------------------
+Player Details:
+Name: a_seat
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 13
+------------------------
+Player Details:
+Name: a_seat
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: a_seat
+Level: 1
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 6
+Damage taken (on loss): 129
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_seat
+Level: 1
+Force: 5
+HP: 0
+Coins: 20
+------------------------
+The player was defeated... :(

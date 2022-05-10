@@ -1,0 +1,270 @@
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 13
+------------------------
+Player Details:
+Name: Ramadan
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Ramadan
+Level: 1
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 17
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 2
+Force: 5
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ramadan
+Level: 2
+Force: 5
+HP: 81
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 2
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 3
+Force: 5
+HP: 81
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Ramadan
+Level: 3
+Force: 5
+HP: 81
+Coins: 35
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Ramadan
+Level: 3
+Force: 18
+HP: 81
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 1
+Damage taken (on loss): 143
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 4
+Force: 18
+HP: 81
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 5
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 5
+Force: 18
+HP: 81
+Coins: 41
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 2
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 6
+Force: 18
+HP: 81
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 8
+------------------------
+Player Details:
+Name: Ramadan
+Level: 6
+Force: 18
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 505
+Profit (on win): 16
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Ramadan
+Level: 6
+Force: 18
+HP: 89
+Coins: 35
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Ramadan
+Level: 6
+Force: 18
+HP: 89
+Coins: 55
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 8
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 7
+Force: 18
+HP: 89
+Coins: 63
+------------------------
+Card drawn:
+Type: Heal
+Heal points: -16
+Cost: 10
+------------------------
+Player Details:
+Name: Ramadan
+Level: 7
+Force: 18
+HP: 89
+Coins: 53
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 13
+------------------------
+Player Details:
+Name: Ramadan
+Level: 7
+Force: 23
+HP: 89
+Coins: 40
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Ramadan
+Level: 7
+Force: 23
+HP: 89
+Coins: 53
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 17
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 8
+Force: 23
+HP: 89
+Coins: 70
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 9
+Force: 23
+HP: 89
+Coins: 74
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 2
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Ramadan
+Level: 10
+Force: 23
+HP: 89
+Coins: 76
+------------------------
+The player has won! :D

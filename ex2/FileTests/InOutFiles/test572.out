@@ -1,0 +1,126 @@
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 1
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 20
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 1
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 4
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 1
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 1
+Force: 5
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 16439
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 1
+Force: 5
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 1
+Force: 5
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 19
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 2
+Force: 5
+HP: 100
+Coins: 55
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 15
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 3
+Force: 5
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 177
+Damage taken (on loss): 486
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Unfaithful
+Level: 3
+Force: 5
+HP: 0
+Coins: 70
+------------------------
+The player was defeated... :(

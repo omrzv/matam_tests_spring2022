@@ -1,0 +1,388 @@
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 1
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 428
+Cost: 8
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 2
+Damage taken (on loss): 2944
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 2
+Force: 5
+HP: 97
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 3
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 2
+Force: 5
+HP: 97
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 2
+Force: 5
+HP: 97
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 5
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 2
+Force: 5
+HP: 97
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 3
+Force: 5
+HP: 97
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 3
+Force: 5
+HP: 97
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 1
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 3
+Force: 5
+HP: 94
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 3
+Force: 5
+HP: 94
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 428
+Cost: 8
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 3
+Force: 5
+HP: 94
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 2
+Damage taken (on loss): 2944
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 4
+Force: 5
+HP: 94
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 3
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 4
+Force: 6
+HP: 94
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 4
+Force: 6
+HP: 94
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 5
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 4
+Force: 6
+HP: 94
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 5
+Force: 6
+HP: 94
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 5
+Force: 6
+HP: 94
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 1
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 6
+Force: 6
+HP: 94
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 7
+Force: 6
+HP: 94
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 428
+Cost: 8
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 7
+Force: 434
+HP: 94
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 2
+Damage taken (on loss): 2944
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 8
+Force: 434
+HP: 94
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 3
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 8
+Force: 435
+HP: 94
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 8
+Force: 438
+HP: 94
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 5
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 8
+Force: 438
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 9
+Force: 438
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 9
+Force: 438
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 1
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: William_Wordsworth
+Level: 10
+Force: 438
+HP: 100
+Coins: 6
+------------------------
+The player has won! :D

@@ -1,0 +1,408 @@
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: cutlass
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 1
+Force: 5
+HP: 92
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 1
+Force: 11
+HP: 92
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: cutlass
+Level: 1
+Force: 11
+HP: 84
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 1
+Force: 11
+HP: 84
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 1
+Force: 17
+HP: 84
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 2
+Force: 17
+HP: 84
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 2
+Force: 17
+HP: 84
+Coins: 41
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 2
+Force: 23
+HP: 84
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 3
+Force: 23
+HP: 84
+Coins: 40
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 3
+Force: 23
+HP: 84
+Coins: 56
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 3
+Force: 29
+HP: 84
+Coins: 50
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 4
+Force: 29
+HP: 84
+Coins: 55
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 4
+Force: 29
+HP: 84
+Coins: 71
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 4
+Force: 35
+HP: 84
+Coins: 65
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 5
+Force: 35
+HP: 84
+Coins: 70
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 5
+Force: 35
+HP: 84
+Coins: 86
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 5
+Force: 41
+HP: 84
+Coins: 80
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 6
+Force: 41
+HP: 84
+Coins: 85
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 6
+Force: 41
+HP: 84
+Coins: 101
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 6
+Force: 47
+HP: 84
+Coins: 95
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 7
+Force: 47
+HP: 84
+Coins: 100
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 7
+Force: 47
+HP: 84
+Coins: 116
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 7
+Force: 53
+HP: 84
+Coins: 110
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 8
+Force: 53
+HP: 84
+Coins: 115
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 8
+Force: 53
+HP: 84
+Coins: 131
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 8
+Force: 59
+HP: 84
+Coins: 125
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 9
+Force: 59
+HP: 84
+Coins: 130
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: cutlass
+Level: 9
+Force: 59
+HP: 84
+Coins: 146
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: cutlass
+Level: 9
+Force: 65
+HP: 84
+Coins: 140
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 5
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: cutlass
+Level: 10
+Force: 65
+HP: 84
+Coins: 145
+------------------------
+The player has won! :D

@@ -1,0 +1,414 @@
+Card drawn:
+Type: Treasure
+Coins: 48
+------------------------
+Player Details:
+Name: a_lad
+Level: 1
+Force: 5
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Battle
+Force: 174
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_lad
+Level: 1
+Force: 5
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 9
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_lad
+Level: 1
+Force: 5
+HP: 99
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: a_lad
+Level: 1
+Force: 5
+HP: 99
+Coins: 51
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 0
+------------------------
+Player Details:
+Name: a_lad
+Level: 1
+Force: 19
+HP: 99
+Coins: 51
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 16
+------------------------
+Player Details:
+Name: a_lad
+Level: 1
+Force: 26
+HP: 99
+Coins: 35
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 4
+------------------------
+Player Details:
+Name: a_lad
+Level: 1
+Force: 26
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 2
+Force: 26
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: a_lad
+Level: 2
+Force: 26
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 59995
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 3
+Force: 26
+HP: 100
+Coins: 60048
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_lad
+Level: 3
+Force: 26
+HP: 100
+Coins: 60048
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 13
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 4
+Force: 26
+HP: 100
+Coins: 60061
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 48
+------------------------
+Player Details:
+Name: a_lad
+Level: 4
+Force: 26
+HP: 100
+Coins: 60109
+------------------------
+Card drawn:
+Type: Battle
+Force: 174
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_lad
+Level: 4
+Force: 26
+HP: 100
+Coins: 60109
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 9
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 5
+Force: 26
+HP: 100
+Coins: 60118
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: a_lad
+Level: 5
+Force: 26
+HP: 100
+Coins: 60121
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 0
+------------------------
+Player Details:
+Name: a_lad
+Level: 5
+Force: 40
+HP: 100
+Coins: 60121
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 16
+------------------------
+Player Details:
+Name: a_lad
+Level: 5
+Force: 47
+HP: 100
+Coins: 60105
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 4
+------------------------
+Player Details:
+Name: a_lad
+Level: 5
+Force: 47
+HP: 100
+Coins: 60101
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 6
+Force: 47
+HP: 100
+Coins: 60104
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: a_lad
+Level: 6
+Force: 47
+HP: 100
+Coins: 60123
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 59995
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 7
+Force: 47
+HP: 100
+Coins: 120118
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_lad
+Level: 7
+Force: 47
+HP: 100
+Coins: 120118
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 13
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 8
+Force: 47
+HP: 100
+Coins: 120131
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 48
+------------------------
+Player Details:
+Name: a_lad
+Level: 8
+Force: 47
+HP: 100
+Coins: 120179
+------------------------
+Card drawn:
+Type: Battle
+Force: 174
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_lad
+Level: 8
+Force: 47
+HP: 100
+Coins: 120179
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 9
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 9
+Force: 47
+HP: 100
+Coins: 120188
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: a_lad
+Level: 9
+Force: 47
+HP: 100
+Coins: 120191
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 0
+------------------------
+Player Details:
+Name: a_lad
+Level: 9
+Force: 61
+HP: 100
+Coins: 120191
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 16
+------------------------
+Player Details:
+Name: a_lad
+Level: 9
+Force: 68
+HP: 100
+Coins: 120175
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 4
+------------------------
+Player Details:
+Name: a_lad
+Level: 9
+Force: 68
+HP: 100
+Coins: 120171
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_lad
+Level: 10
+Force: 68
+HP: 100
+Coins: 120174
+------------------------
+The player has won! :D

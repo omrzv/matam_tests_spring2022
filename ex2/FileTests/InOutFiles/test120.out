@@ -1,0 +1,587 @@
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 2439
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 15
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 5
+HP: 96
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 5
+HP: 79
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 17
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 5
+HP: 79
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 5
+HP: 79
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 851
+Cost: 91
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 5
+HP: 79
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 6
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 12
+HP: 79
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 12
+HP: 79
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Napoleon
+Level: 1
+Force: 12
+HP: 79
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 17
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 12
+HP: 79
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 12
+HP: 79
+Coins: 36
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 2439
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 12
+HP: 79
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 15
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 12
+HP: 75
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 12
+HP: 58
+Coins: 36
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 17
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 24
+HP: 58
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 24
+HP: 58
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 851
+Cost: 91
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 24
+HP: 58
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 6
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 31
+HP: 58
+Coins: 24
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 31
+HP: 58
+Coins: 33
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Napoleon
+Level: 2
+Force: 31
+HP: 58
+Coins: 38
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 17
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 3
+Force: 31
+HP: 58
+Coins: 55
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Napoleon
+Level: 3
+Force: 31
+HP: 58
+Coins: 55
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 2439
+------------------------
+Player Details:
+Name: Napoleon
+Level: 3
+Force: 31
+HP: 58
+Coins: 55
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 15
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 4
+Force: 31
+HP: 58
+Coins: 70
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 5
+Force: 31
+HP: 58
+Coins: 70
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 17
+------------------------
+Player Details:
+Name: Napoleon
+Level: 5
+Force: 43
+HP: 58
+Coins: 53
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Napoleon
+Level: 5
+Force: 43
+HP: 58
+Coins: 64
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 851
+Cost: 91
+------------------------
+Player Details:
+Name: Napoleon
+Level: 5
+Force: 43
+HP: 58
+Coins: 64
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 6
+------------------------
+Player Details:
+Name: Napoleon
+Level: 5
+Force: 50
+HP: 58
+Coins: 58
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Napoleon
+Level: 5
+Force: 50
+HP: 58
+Coins: 67
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Napoleon
+Level: 5
+Force: 50
+HP: 58
+Coins: 72
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 17
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 6
+Force: 50
+HP: 58
+Coins: 89
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Napoleon
+Level: 6
+Force: 50
+HP: 58
+Coins: 89
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 2439
+------------------------
+Player Details:
+Name: Napoleon
+Level: 6
+Force: 50
+HP: 58
+Coins: 89
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 15
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 7
+Force: 50
+HP: 58
+Coins: 104
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 8
+Force: 50
+HP: 58
+Coins: 104
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 17
+------------------------
+Player Details:
+Name: Napoleon
+Level: 8
+Force: 62
+HP: 58
+Coins: 87
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Napoleon
+Level: 8
+Force: 62
+HP: 58
+Coins: 98
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 851
+Cost: 91
+------------------------
+Player Details:
+Name: Napoleon
+Level: 8
+Force: 62
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 6
+------------------------
+Player Details:
+Name: Napoleon
+Level: 8
+Force: 69
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Napoleon
+Level: 8
+Force: 69
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Napoleon
+Level: 8
+Force: 69
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 17
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 9
+Force: 69
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Napoleon
+Level: 9
+Force: 69
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 2439
+------------------------
+Player Details:
+Name: Napoleon
+Level: 9
+Force: 69
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 15
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Napoleon
+Level: 10
+Force: 69
+HP: 100
+Coins: 47
+------------------------
+The player has won! :D

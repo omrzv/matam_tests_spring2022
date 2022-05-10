@@ -1,0 +1,313 @@
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 1
+Force: 5
+HP: 93
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 0
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 9
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 2
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 3
+Force: 5
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 4
+Force: 5
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 4
+Force: 5
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 4
+Force: 5
+HP: 100
+Coins: 46
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 4
+Force: 5
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 0
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 5
+Force: 5
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9486
+Cost: 11
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 5
+Force: 9491
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 5
+Force: 9499
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 5
+Force: 9503
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 6
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 5
+Force: 9522
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 5
+Force: 9522
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 6
+Force: 9522
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 0
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 6
+Force: 9522
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 9
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 7
+Force: 9522
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 8
+Force: 9522
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 9
+Force: 9522
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 9
+Force: 9522
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 9
+Force: 9522
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 9
+Force: 9522
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 0
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_Wall_Street_Journal
+Level: 10
+Force: 9522
+HP: 100
+Coins: 49
+------------------------
+The player has won! :D

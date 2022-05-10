@@ -1,0 +1,50 @@
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: lieutenant
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: lieutenant
+Level: 1
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 9
+------------------------
+Player Details:
+Name: lieutenant
+Level: 1
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 6
+Damage taken (on loss): 233
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: lieutenant
+Level: 1
+Force: 5
+HP: 0
+Coins: 8
+------------------------
+The player was defeated... :(

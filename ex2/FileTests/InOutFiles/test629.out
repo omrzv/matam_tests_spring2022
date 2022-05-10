@@ -1,0 +1,499 @@
+Card drawn:
+Type: Treasure
+Coins: 165
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 5
+HP: 100
+Coins: 165
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 5
+HP: 85
+Coins: 165
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 5
+HP: 89
+Coins: 145
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 2
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 21
+HP: 89
+Coins: 143
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 0
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 21
+HP: 100
+Coins: 143
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 21
+HP: 100
+Coins: 153
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 21
+HP: 100
+Coins: 160
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 8
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 30
+HP: 100
+Coins: 152
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 30
+HP: 100
+Coins: 168
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 30
+Cost: 3
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 30
+HP: 100
+Coins: 165
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 8
+------------------------
+Player Details:
+Name: librarian
+Level: 1
+Force: 38
+HP: 100
+Coins: 157
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 2
+Force: 38
+HP: 100
+Coins: 157
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 3
+Force: 38
+HP: 100
+Coins: 157
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 801
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 4
+Force: 38
+HP: 100
+Coins: 958
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 165
+------------------------
+Player Details:
+Name: librarian
+Level: 4
+Force: 38
+HP: 100
+Coins: 1123
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 38
+HP: 100
+Coins: 1123
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 38
+HP: 100
+Coins: 1103
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 2
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 54
+HP: 100
+Coins: 1101
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 0
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 54
+HP: 100
+Coins: 1101
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 54
+HP: 100
+Coins: 1111
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 54
+HP: 100
+Coins: 1118
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 8
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 63
+HP: 100
+Coins: 1110
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 63
+HP: 100
+Coins: 1126
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 30
+Cost: 3
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 63
+HP: 100
+Coins: 1123
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 8
+------------------------
+Player Details:
+Name: librarian
+Level: 5
+Force: 71
+HP: 100
+Coins: 1115
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 6
+Force: 71
+HP: 100
+Coins: 1115
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 7
+Force: 71
+HP: 100
+Coins: 1115
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 801
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 8
+Force: 71
+HP: 100
+Coins: 1916
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 165
+------------------------
+Player Details:
+Name: librarian
+Level: 8
+Force: 71
+HP: 100
+Coins: 2081
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 71
+HP: 100
+Coins: 2081
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 71
+HP: 100
+Coins: 2061
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 2
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 87
+HP: 100
+Coins: 2059
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 0
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 87
+HP: 100
+Coins: 2059
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 87
+HP: 100
+Coins: 2069
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 87
+HP: 100
+Coins: 2076
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 8
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 96
+HP: 100
+Coins: 2068
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 96
+HP: 100
+Coins: 2084
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 30
+Cost: 3
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 96
+HP: 100
+Coins: 2081
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 8
+------------------------
+Player Details:
+Name: librarian
+Level: 9
+Force: 104
+HP: 100
+Coins: 2073
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: librarian
+Level: 10
+Force: 104
+HP: 100
+Coins: 2073
+------------------------
+The player has won! :D

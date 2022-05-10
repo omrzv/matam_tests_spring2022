@@ -1,0 +1,435 @@
+Card drawn:
+Type: Treasure
+Coins: 5026
+------------------------
+Player Details:
+Name: a_seal
+Level: 1
+Force: 5
+HP: 100
+Coins: 5026
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: a_seal
+Level: 1
+Force: 11
+HP: 100
+Coins: 5006
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_seal
+Level: 1
+Force: 11
+HP: 92
+Coins: 5006
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: a_seal
+Level: 1
+Force: 25
+HP: 92
+Coins: 4999
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: a_seal
+Level: 1
+Force: 25
+HP: 92
+Coins: 4995
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 13
+------------------------
+Player Details:
+Name: a_seal
+Level: 1
+Force: 42
+HP: 92
+Coins: 4982
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 15
+------------------------
+Player Details:
+Name: a_seal
+Level: 1
+Force: 42
+HP: 100
+Coins: 4967
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 11
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 2
+Force: 42
+HP: 100
+Coins: 4978
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 16
+------------------------
+Player Details:
+Name: a_seal
+Level: 2
+Force: 42
+HP: 100
+Coins: 4962
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 19
+------------------------
+Player Details:
+Name: a_seal
+Level: 2
+Force: 53
+HP: 100
+Coins: 4943
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 5
+------------------------
+Player Details:
+Name: a_seal
+Level: 2
+Force: 71
+HP: 100
+Coins: 4938
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 3
+Force: 71
+HP: 100
+Coins: 4951
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 17
+------------------------
+Player Details:
+Name: a_seal
+Level: 3
+Force: 75
+HP: 100
+Coins: 4934
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 298
+------------------------
+Player Details:
+Name: a_seal
+Level: 3
+Force: 75
+HP: 100
+Coins: 4636
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 40
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 4
+Force: 75
+HP: 100
+Coins: 4637
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: a_seal
+Level: 4
+Force: 75
+HP: 100
+Coins: 4639
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 2
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 5
+Force: 75
+HP: 100
+Coins: 4641
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5026
+------------------------
+Player Details:
+Name: a_seal
+Level: 5
+Force: 75
+HP: 100
+Coins: 9667
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: a_seal
+Level: 5
+Force: 81
+HP: 100
+Coins: 9647
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 6
+Force: 81
+HP: 100
+Coins: 9648
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: a_seal
+Level: 6
+Force: 95
+HP: 100
+Coins: 9641
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 4
+------------------------
+Player Details:
+Name: a_seal
+Level: 6
+Force: 95
+HP: 100
+Coins: 9637
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 13
+------------------------
+Player Details:
+Name: a_seal
+Level: 6
+Force: 112
+HP: 100
+Coins: 9624
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 15
+------------------------
+Player Details:
+Name: a_seal
+Level: 6
+Force: 112
+HP: 100
+Coins: 9609
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 11
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 7
+Force: 112
+HP: 100
+Coins: 9620
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 16
+------------------------
+Player Details:
+Name: a_seal
+Level: 7
+Force: 112
+HP: 100
+Coins: 9604
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 19
+------------------------
+Player Details:
+Name: a_seal
+Level: 7
+Force: 123
+HP: 100
+Coins: 9585
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 5
+------------------------
+Player Details:
+Name: a_seal
+Level: 7
+Force: 141
+HP: 100
+Coins: 9580
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 8
+Force: 141
+HP: 100
+Coins: 9593
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 17
+------------------------
+Player Details:
+Name: a_seal
+Level: 8
+Force: 145
+HP: 100
+Coins: 9576
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 298
+------------------------
+Player Details:
+Name: a_seal
+Level: 8
+Force: 145
+HP: 100
+Coins: 9278
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 40
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 9
+Force: 145
+HP: 100
+Coins: 9279
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: a_seal
+Level: 9
+Force: 145
+HP: 100
+Coins: 9281
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 2
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_seal
+Level: 10
+Force: 145
+HP: 100
+Coins: 9283
+------------------------
+The player has won! :D
