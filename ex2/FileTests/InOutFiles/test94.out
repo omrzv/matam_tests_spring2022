@@ -1,0 +1,734 @@
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 1
+Force: 9
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 1
+Force: 9
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 1
+Force: 9
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 2
+Force: 9
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 2
+Force: 9
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 2
+Force: 9
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 2
+Force: 9
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 2
+Force: 13
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 2
+Force: 13
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 2
+Force: 13
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 3
+Force: 13
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 3
+Force: 13
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 3
+Force: 13
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 3
+Force: 13
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 3
+Force: 17
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 3
+Force: 17
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 3
+Force: 17
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 4
+Force: 17
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 4
+Force: 17
+HP: 100
+Coins: 50
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 4
+Force: 17
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 4
+Force: 17
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 4
+Force: 21
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 4
+Force: 21
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 4
+Force: 21
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 5
+Force: 21
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 5
+Force: 21
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 5
+Force: 21
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 5
+Force: 21
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 5
+Force: 25
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 5
+Force: 25
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 5
+Force: 25
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 6
+Force: 25
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 6
+Force: 25
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 6
+Force: 25
+HP: 100
+Coins: 51
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 6
+Force: 25
+HP: 100
+Coins: 51
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 6
+Force: 29
+HP: 100
+Coins: 51
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 6
+Force: 29
+HP: 100
+Coins: 50
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 6
+Force: 29
+HP: 100
+Coins: 50
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 7
+Force: 29
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 7
+Force: 29
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 7
+Force: 29
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 7
+Force: 29
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 7
+Force: 33
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 7
+Force: 33
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 7
+Force: 33
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 8
+Force: 33
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 8
+Force: 33
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 8
+Force: 33
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 8
+Force: 33
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 8
+Force: 37
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 8
+Force: 37
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 8
+Force: 37
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 9
+Force: 37
+HP: 100
+Coins: 87
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 9
+Force: 37
+HP: 100
+Coins: 100
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 9
+Force: 37
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 9
+Force: 37
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 9
+Force: 41
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 9
+Force: 41
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 9
+Force: 41
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Five_Easy_Pieces
+Level: 10
+Force: 41
+HP: 100
+Coins: 97
+------------------------
+The player has won! :D

@@ -1,0 +1,298 @@
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 2
+Force: 5
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 71
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 2
+Force: 5
+HP: 89
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 2
+Force: 5
+HP: 89
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 2
+Force: 5
+HP: 89
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 3
+Force: 5
+HP: 89
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 71
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 3
+Force: 5
+HP: 78
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 3
+Force: 12
+HP: 78
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 3
+Force: 12
+HP: 78
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 4
+Force: 12
+HP: 78
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 71
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 5
+Force: 12
+HP: 78
+Coins: 94
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 5
+Force: 19
+HP: 78
+Coins: 81
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 5
+Force: 19
+HP: 96
+Coins: 63
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 6
+Force: 19
+HP: 96
+Coins: 75
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 71
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 7
+Force: 19
+HP: 96
+Coins: 146
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 7
+Force: 26
+HP: 96
+Coins: 133
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 7
+Force: 26
+HP: 100
+Coins: 115
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 8
+Force: 26
+HP: 100
+Coins: 127
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 71
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 9
+Force: 26
+HP: 100
+Coins: 198
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 9
+Force: 33
+HP: 100
+Coins: 185
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 9
+Force: 33
+HP: 100
+Coins: 167
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Carts/karts
+Level: 10
+Force: 33
+HP: 100
+Coins: 179
+------------------------
+The player has won! :D

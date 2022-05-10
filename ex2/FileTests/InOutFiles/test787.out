@@ -1,0 +1,422 @@
+Card drawn:
+Type: Treasure
+Coins: 25
+------------------------
+Player Details:
+Name: 911
+Level: 1
+Force: 5
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 70
+Cost: 10
+------------------------
+Player Details:
+Name: 911
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: 911
+Level: 1
+Force: 5
+HP: 94
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: 911
+Level: 1
+Force: 5
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 2
+Force: 5
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 11
+------------------------
+Player Details:
+Name: 911
+Level: 2
+Force: 13
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 13
+------------------------
+Player Details:
+Name: 911
+Level: 2
+Force: 13
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 25
+------------------------
+Player Details:
+Name: 911
+Level: 2
+Force: 13
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 70
+Cost: 10
+------------------------
+Player Details:
+Name: 911
+Level: 2
+Force: 13
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 3
+Force: 13
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: 911
+Level: 3
+Force: 13
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 4
+Force: 13
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 11
+------------------------
+Player Details:
+Name: 911
+Level: 4
+Force: 21
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 13
+------------------------
+Player Details:
+Name: 911
+Level: 4
+Force: 21
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 25
+------------------------
+Player Details:
+Name: 911
+Level: 4
+Force: 21
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 70
+Cost: 10
+------------------------
+Player Details:
+Name: 911
+Level: 4
+Force: 21
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 5
+Force: 21
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: 911
+Level: 5
+Force: 21
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 6
+Force: 21
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 11
+------------------------
+Player Details:
+Name: 911
+Level: 6
+Force: 29
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 13
+------------------------
+Player Details:
+Name: 911
+Level: 6
+Force: 29
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 25
+------------------------
+Player Details:
+Name: 911
+Level: 6
+Force: 29
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 70
+Cost: 10
+------------------------
+Player Details:
+Name: 911
+Level: 6
+Force: 29
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 7
+Force: 29
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: 911
+Level: 7
+Force: 29
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 8
+Force: 29
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 11
+------------------------
+Player Details:
+Name: 911
+Level: 8
+Force: 37
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 13
+------------------------
+Player Details:
+Name: 911
+Level: 8
+Force: 37
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 25
+------------------------
+Player Details:
+Name: 911
+Level: 8
+Force: 37
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 70
+Cost: 10
+------------------------
+Player Details:
+Name: 911
+Level: 8
+Force: 37
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 9
+Force: 37
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: 911
+Level: 9
+Force: 37
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 911
+Level: 10
+Force: 37
+HP: 100
+Coins: 26
+------------------------
+The player has won! :D

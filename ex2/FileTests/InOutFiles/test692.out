@@ -1,0 +1,378 @@
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 2
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 2
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 2
+Force: 5
+HP: 99
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 2
+Force: 5
+HP: 98
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 2
+Force: 5
+HP: 98
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 7
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 2
+Force: 5
+HP: 98
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 3
+Force: 5
+HP: 98
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 3
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 3
+Force: 5
+HP: 99
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 3
+Force: 5
+HP: 98
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 3
+Force: 5
+HP: 98
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 7
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 3
+Force: 5
+HP: 98
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 4
+Force: 5
+HP: 98
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 4
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 5
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 5
+Force: 5
+HP: 99
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 5
+Force: 5
+HP: 99
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 7
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 5
+Force: 5
+HP: 99
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 6
+Force: 5
+HP: 99
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 6
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 7
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 7
+Force: 5
+HP: 99
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 7
+Force: 5
+HP: 99
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 7
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 7
+Force: 5
+HP: 99
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 9
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 8
+Force: 5
+HP: 99
+Coins: 32
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 11
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 8
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 6
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 9
+Force: 5
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Wright_Brothers
+Level: 10
+Force: 5
+HP: 100
+Coins: 27
+------------------------
+The player has won! :D

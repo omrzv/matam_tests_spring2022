@@ -1,0 +1,345 @@
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Hawaii
+Level: 1
+Force: 5
+HP: 97
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Hawaii
+Level: 1
+Force: 5
+HP: 89
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 17
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 2
+Force: 5
+HP: 89
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 2
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 5
+HP: 89
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 12
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 5
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 7
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 21
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 15
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 15
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 24
+Profit (on win): 12
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Hawaii
+Level: 3
+Force: 15
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 15
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 4
+Force: 15
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 5
+Force: 15
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 6
+Force: 15
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 17
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 7
+Force: 15
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 2
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 15
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 12
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 15
+HP: 100
+Coins: 51
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 7
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 15
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 21
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 15
+HP: 100
+Coins: 65
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 15
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 15
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 25
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Hawaii
+Level: 8
+Force: 25
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 24
+Profit (on win): 12
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 9
+Force: 25
+HP: 100
+Coins: 78
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 15
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Hawaii
+Level: 10
+Force: 25
+HP: 100
+Coins: 93
+------------------------
+The player has won! :D

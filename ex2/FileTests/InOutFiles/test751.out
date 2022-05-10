@@ -1,0 +1,304 @@
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 217
+------------------------
+Player Details:
+Name: Barbequing
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Barbequing
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 3
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Barbequing
+Level: 3
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: Barbequing
+Level: 3
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 68
+------------------------
+Player Details:
+Name: Barbequing
+Level: 3
+Force: 5
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 217
+------------------------
+Player Details:
+Name: Barbequing
+Level: 3
+Force: 5
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 4
+Force: 5
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Barbequing
+Level: 4
+Force: 6
+HP: 100
+Coins: 76
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 5
+Force: 6
+HP: 100
+Coins: 85
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 6
+Force: 6
+HP: 100
+Coins: 104
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: Barbequing
+Level: 6
+Force: 6
+HP: 100
+Coins: 94
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 68
+------------------------
+Player Details:
+Name: Barbequing
+Level: 6
+Force: 6
+HP: 100
+Coins: 162
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 217
+------------------------
+Player Details:
+Name: Barbequing
+Level: 6
+Force: 6
+HP: 100
+Coins: 162
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 7
+Force: 6
+HP: 100
+Coins: 162
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Barbequing
+Level: 7
+Force: 7
+HP: 100
+Coins: 161
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 8
+Force: 7
+HP: 100
+Coins: 170
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 9
+Force: 7
+HP: 100
+Coins: 189
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: Barbequing
+Level: 9
+Force: 7
+HP: 100
+Coins: 179
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 68
+------------------------
+Player Details:
+Name: Barbequing
+Level: 9
+Force: 7
+HP: 100
+Coins: 247
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 217
+------------------------
+Player Details:
+Name: Barbequing
+Level: 9
+Force: 7
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Barbequing
+Level: 10
+Force: 7
+HP: 100
+Coins: 30
+------------------------
+The player has won! :D

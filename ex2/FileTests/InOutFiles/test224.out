@@ -1,0 +1,327 @@
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 2
+Force: 5
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Paris
+Level: 2
+Force: 7
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 3
+Force: 7
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Paris
+Level: 3
+Force: 7
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: -5
+------------------------
+Player Details:
+Name: Paris
+Level: 3
+Force: 22
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 12
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 4
+Force: 22
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 17
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 5
+Force: 22
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 109
+------------------------
+Player Details:
+Name: Paris
+Level: 5
+Force: 22
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Paris
+Level: 5
+Force: 22
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 20
+------------------------
+Player Details:
+Name: Paris
+Level: 5
+Force: 38
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 39
+Cost: 14
+------------------------
+Player Details:
+Name: Paris
+Level: 5
+Force: 77
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 6
+Force: 77
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 7
+Force: 77
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 11
+------------------------
+Player Details:
+Name: Paris
+Level: 7
+Force: 77
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 5
+------------------------
+Player Details:
+Name: Paris
+Level: 7
+Force: 79
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Paris
+Level: 7
+Force: 79
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 6
+------------------------
+Player Details:
+Name: Paris
+Level: 7
+Force: 79
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: Paris
+Level: 7
+Force: 79
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 8
+Force: 79
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 19
+------------------------
+Player Details:
+Name: Paris
+Level: 8
+Force: 79
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 10
+------------------------
+Player Details:
+Name: Paris
+Level: 8
+Force: 84
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 9
+------------------------
+Player Details:
+Name: Paris
+Level: 8
+Force: 84
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 9
+Force: 84
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Paris
+Level: 9
+Force: 86
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Paris
+Level: 10
+Force: 86
+HP: 100
+Coins: 10
+------------------------
+The player has won! :D

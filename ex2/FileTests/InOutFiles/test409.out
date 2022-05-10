@@ -1,0 +1,407 @@
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 1
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 9
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 10
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5132
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 5134
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 8
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 5126
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 5
+HP: 100
+Coins: 5126
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 2
+------------------------
+Player Details:
+Name: Red
+Level: 3
+Force: 15
+HP: 100
+Coins: 5124
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 10
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 4
+Force: 15
+HP: 100
+Coins: 5134
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Red
+Level: 4
+Force: 15
+HP: 100
+Coins: 5133
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 4
+------------------------
+Player Details:
+Name: Red
+Level: 4
+Force: 15
+HP: 100
+Coins: 5129
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 5
+Force: 15
+HP: 100
+Coins: 5143
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: Red
+Level: 5
+Force: 19
+HP: 100
+Coins: 5131
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Red
+Level: 5
+Force: 19
+HP: 100
+Coins: 5129
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 111
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 6
+Force: 19
+HP: 100
+Coins: 5146
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Red
+Level: 6
+Force: 19
+HP: 100
+Coins: 5148
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 16
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 7
+Force: 19
+HP: 100
+Coins: 5164
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 8
+Force: 19
+HP: 100
+Coins: 5164
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 19
+HP: 100
+Coins: 5164
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 1
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 19
+HP: 100
+Coins: 5163
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 19
+HP: 100
+Coins: 5149
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 19
+HP: 100
+Coins: 5151
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 9
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 32
+HP: 100
+Coins: 5142
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 10
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 41
+HP: 100
+Coins: 5132
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5132
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 41
+HP: 100
+Coins: 10264
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 8
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 41
+HP: 100
+Coins: 10256
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 41
+HP: 100
+Coins: 10256
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 2
+------------------------
+Player Details:
+Name: Red
+Level: 9
+Force: 51
+HP: 100
+Coins: 10254
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 10
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Red
+Level: 10
+Force: 51
+HP: 100
+Coins: 10264
+------------------------
+The player has won! :D

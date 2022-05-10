@@ -1,0 +1,520 @@
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Concrete
+Level: 1
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Concrete
+Level: 1
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Concrete
+Level: 1
+Force: 5
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Concrete
+Level: 1
+Force: 5
+HP: 88
+Coins: 25
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 6
+Damage taken (on loss): 21
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 2
+Force: 5
+HP: 88
+Coins: 31
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Concrete
+Level: 2
+Force: 5
+HP: 88
+Coins: 34
+------------------------
+Card drawn:
+Type: Battle
+Force: 2963
+Profit (on win): 16
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Concrete
+Level: 2
+Force: 5
+HP: 77
+Coins: 34
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 1
+------------------------
+Player Details:
+Name: Concrete
+Level: 2
+Force: 11
+HP: 77
+Coins: 33
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: Concrete
+Level: 2
+Force: 11
+HP: 77
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Concrete
+Level: 2
+Force: 11
+HP: 77
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Concrete
+Level: 2
+Force: 11
+HP: 77
+Coins: 38
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 19
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 3
+Force: 11
+HP: 77
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 2
+------------------------
+Player Details:
+Name: Concrete
+Level: 3
+Force: 11
+HP: 81
+Coins: 55
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Concrete
+Level: 3
+Force: 11
+HP: 81
+Coins: 64
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: Concrete
+Level: 3
+Force: 11
+HP: 95
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Concrete
+Level: 3
+Force: 11
+HP: 91
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 4
+Force: 11
+HP: 91
+Coins: 57
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 1
+------------------------
+Player Details:
+Name: Concrete
+Level: 4
+Force: 11
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Concrete
+Level: 4
+Force: 11
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 4
+------------------------
+Player Details:
+Name: Concrete
+Level: 4
+Force: 16
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: Concrete
+Level: 4
+Force: 25
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 14
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 5
+Force: 25
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: Concrete
+Level: 5
+Force: 33
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 29806
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 6
+Force: 33
+HP: 100
+Coins: 29847
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Concrete
+Level: 6
+Force: 33
+HP: 100
+Coins: 29847
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Concrete
+Level: 6
+Force: 33
+HP: 100
+Coins: 29866
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Concrete
+Level: 6
+Force: 33
+HP: 100
+Coins: 29868
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Concrete
+Level: 6
+Force: 33
+HP: 100
+Coins: 29872
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 7
+Force: 33
+HP: 100
+Coins: 29872
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 6
+Damage taken (on loss): 21
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 8
+Force: 33
+HP: 100
+Coins: 29878
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Concrete
+Level: 8
+Force: 33
+HP: 100
+Coins: 29881
+------------------------
+Card drawn:
+Type: Battle
+Force: 2963
+Profit (on win): 16
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Concrete
+Level: 8
+Force: 33
+HP: 89
+Coins: 29881
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 1
+------------------------
+Player Details:
+Name: Concrete
+Level: 8
+Force: 39
+HP: 89
+Coins: 29880
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: Concrete
+Level: 8
+Force: 39
+HP: 89
+Coins: 29872
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Concrete
+Level: 8
+Force: 39
+HP: 89
+Coins: 29872
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Concrete
+Level: 8
+Force: 39
+HP: 89
+Coins: 29885
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 19
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 9
+Force: 39
+HP: 89
+Coins: 29904
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 2
+------------------------
+Player Details:
+Name: Concrete
+Level: 9
+Force: 39
+HP: 93
+Coins: 29902
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Concrete
+Level: 9
+Force: 39
+HP: 93
+Coins: 29911
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: Concrete
+Level: 9
+Force: 39
+HP: 100
+Coins: 29904
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Concrete
+Level: 10
+Force: 39
+HP: 100
+Coins: 29904
+------------------------
+The player has won! :D

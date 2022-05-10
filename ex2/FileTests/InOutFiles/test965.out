@@ -1,0 +1,286 @@
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 1
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 1
+Force: 5
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 1
+Force: 5
+HP: 98
+Coins: 24
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 1
+Force: 5
+HP: 98
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 9832
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 1
+Force: 5
+HP: 98
+Coins: 42
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 12
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 2
+Force: 5
+HP: 98
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 1
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 3
+Force: 5
+HP: 98
+Coins: 55
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 18
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 4
+Force: 5
+HP: 98
+Coins: 73
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 4
+Force: 5
+HP: 98
+Coins: 81
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 4
+Force: 5
+HP: 98
+Coins: 97
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 5
+Force: 5
+HP: 98
+Coins: 102
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 5
+Force: 5
+HP: 98
+Coins: 120
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 9832
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 5
+Force: 5
+HP: 98
+Coins: 120
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 12
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 6
+Force: 5
+HP: 98
+Coins: 132
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 1
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 7
+Force: 5
+HP: 98
+Coins: 133
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 18
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 8
+Force: 5
+HP: 98
+Coins: 151
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 8
+Force: 5
+HP: 98
+Coins: 159
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 8
+Force: 5
+HP: 98
+Coins: 175
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 5
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 9
+Force: 5
+HP: 98
+Coins: 180
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 9
+Force: 5
+HP: 98
+Coins: 198
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 9832
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 9
+Force: 5
+HP: 98
+Coins: 198
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 12
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Henry_Moore
+Level: 10
+Force: 5
+HP: 98
+Coins: 210
+------------------------
+The player has won! :D

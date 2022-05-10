@@ -1,0 +1,902 @@
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 304
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 5
+HP: 83
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 5
+HP: 83
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 6
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 83
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 83
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 52
+Cost: 12
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 304
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 15
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 1
+Force: 34
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 2
+Force: 34
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 2
+Force: 34
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 34
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 34
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 6
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 52
+Cost: 12
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 304
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 44
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 3
+Force: 63
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 4
+Force: 63
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 4
+Force: 63
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 63
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 63
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 6
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 52
+Cost: 12
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 304
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 73
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 5
+Force: 92
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 6
+Force: 92
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 6
+Force: 92
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 92
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 92
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 6
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 52
+Cost: 12
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 304
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 102
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 7
+Force: 121
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 8
+Force: 121
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 8
+Force: 121
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 121
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 121
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 6
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 52
+Cost: 12
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 18
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 304
+Cost: 9
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 131
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 9
+Force: 150
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Cincinnati
+Level: 10
+Force: 150
+HP: 100
+Coins: 5
+------------------------
+The player has won! :D

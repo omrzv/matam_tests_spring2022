@@ -1,0 +1,28 @@
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 16
+------------------------
+Player Details:
+Name: Sicily
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 143
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Sicily
+Level: 1
+Force: 5
+HP: 0
+Coins: 0
+------------------------
+The player was defeated... :(

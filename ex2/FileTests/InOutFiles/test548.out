@@ -1,0 +1,578 @@
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: -55
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 1
+Force: 25
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 9
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 1
+Force: 25
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 8
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 1
+Force: 25
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 1
+Force: 25
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 1
+Force: 25
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 1
+Force: 25
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 570747
+Damage taken (on loss): 142
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 2
+Force: 25
+HP: 100
+Coins: 570759
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 2
+Force: 25
+HP: 100
+Coins: 570759
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 2
+Force: 27
+HP: 100
+Coins: 570759
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 12
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 3
+Force: 27
+HP: 100
+Coins: 570771
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: -55
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 3
+Force: 47
+HP: 100
+Coins: 570771
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 9
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 3
+Force: 47
+HP: 100
+Coins: 570762
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 8
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 3
+Force: 62
+HP: 100
+Coins: 570754
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 3
+Force: 62
+HP: 100
+Coins: 570756
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 3
+Force: 62
+HP: 100
+Coins: 570766
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 3
+Force: 70
+HP: 100
+Coins: 570746
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 570747
+Damage taken (on loss): 142
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 4
+Force: 70
+HP: 100
+Coins: 1141493
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 4
+Force: 70
+HP: 100
+Coins: 1141493
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 4
+Force: 72
+HP: 100
+Coins: 1141493
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 12
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 5
+Force: 72
+HP: 100
+Coins: 1141505
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: -55
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 5
+Force: 92
+HP: 100
+Coins: 1141505
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 9
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 5
+Force: 92
+HP: 100
+Coins: 1141496
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 8
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 5
+Force: 107
+HP: 100
+Coins: 1141488
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 5
+Force: 107
+HP: 100
+Coins: 1141490
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 5
+Force: 107
+HP: 100
+Coins: 1141500
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 5
+Force: 115
+HP: 100
+Coins: 1141480
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 570747
+Damage taken (on loss): 142
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 6
+Force: 115
+HP: 100
+Coins: 1712227
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 6
+Force: 115
+HP: 100
+Coins: 1712227
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 6
+Force: 117
+HP: 100
+Coins: 1712227
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 12
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 7
+Force: 117
+HP: 100
+Coins: 1712239
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: -55
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 7
+Force: 137
+HP: 100
+Coins: 1712239
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 9
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 7
+Force: 137
+HP: 100
+Coins: 1712230
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 8
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 7
+Force: 152
+HP: 100
+Coins: 1712222
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 7
+Force: 152
+HP: 100
+Coins: 1712224
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 7
+Force: 152
+HP: 100
+Coins: 1712234
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 7
+Force: 160
+HP: 100
+Coins: 1712214
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 570747
+Damage taken (on loss): 142
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 8
+Force: 160
+HP: 100
+Coins: 2282961
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 8
+Force: 160
+HP: 100
+Coins: 2282961
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 8
+Force: 162
+HP: 100
+Coins: 2282961
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 12
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 9
+Force: 162
+HP: 100
+Coins: 2282973
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: -55
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 9
+Force: 182
+HP: 100
+Coins: 2282973
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 9
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 9
+Force: 182
+HP: 100
+Coins: 2282964
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 8
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 9
+Force: 197
+HP: 100
+Coins: 2282956
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 9
+Force: 197
+HP: 100
+Coins: 2282958
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 9
+Force: 197
+HP: 100
+Coins: 2282968
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 9
+Force: 205
+HP: 100
+Coins: 2282948
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 570747
+Damage taken (on loss): 142
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: scratch_pad
+Level: 10
+Force: 205
+HP: 100
+Coins: 2853695
+------------------------
+The player has won! :D

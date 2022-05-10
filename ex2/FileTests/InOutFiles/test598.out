@@ -1,0 +1,330 @@
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: witnesses
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: witnesses
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: witnesses
+Level: 1
+Force: 23
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 11
+------------------------
+Player Details:
+Name: witnesses
+Level: 1
+Force: 23
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: witnesses
+Level: 1
+Force: 23
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 2
+Force: 23
+HP: 90
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: witnesses
+Level: 2
+Force: 23
+HP: 90
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 10
+------------------------
+Player Details:
+Name: witnesses
+Level: 2
+Force: 34
+HP: 90
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 3
+Force: 34
+HP: 90
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 8
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 4
+Force: 34
+HP: 90
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 0
+------------------------
+Player Details:
+Name: witnesses
+Level: 4
+Force: 39
+HP: 90
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 10
+------------------------
+Player Details:
+Name: witnesses
+Level: 4
+Force: 50
+HP: 90
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 5
+Force: 50
+HP: 90
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 6
+Force: 50
+HP: 90
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: witnesses
+Level: 6
+Force: 68
+HP: 90
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 11
+------------------------
+Player Details:
+Name: witnesses
+Level: 6
+Force: 68
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: witnesses
+Level: 6
+Force: 68
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 7
+Force: 68
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: witnesses
+Level: 7
+Force: 68
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 10
+------------------------
+Player Details:
+Name: witnesses
+Level: 7
+Force: 79
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 8
+Force: 79
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 8
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 9
+Force: 79
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 0
+------------------------
+Player Details:
+Name: witnesses
+Level: 9
+Force: 84
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 10
+------------------------
+Player Details:
+Name: witnesses
+Level: 9
+Force: 95
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 7
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: witnesses
+Level: 10
+Force: 95
+HP: 100
+Coins: 24
+------------------------
+The player has won! :D

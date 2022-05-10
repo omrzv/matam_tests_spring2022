@@ -1,0 +1,493 @@
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 13
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 5
+HP: 83
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 9
+HP: 83
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 9
+HP: 83
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 11
+HP: 83
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 26
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 11
+HP: 83
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 4
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 27
+HP: 83
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 27
+HP: 83
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 27
+HP: 84
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 28
+HP: 84
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 9
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 28
+HP: 84
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 1
+Force: 28
+HP: 84
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 2
+Force: 28
+HP: 84
+Coins: 41
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 30
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 2
+Force: 28
+HP: 99
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 25
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 3
+Force: 28
+HP: 99
+Coins: 36
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 3
+Force: 28
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 4
+Force: 28
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 7
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 5
+Force: 28
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 5
+Force: 28
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 4
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 5
+Force: 35
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 5
+Force: 35
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 6
+Force: 35
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 13
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 35
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 39
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 39
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 41
+HP: 100
+Coins: 52
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 26
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 41
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 4
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 57
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 57
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 57
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 58
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 9
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 58
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 7
+Force: 58
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 8
+Force: 58
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 30
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 8
+Force: 58
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 25
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 9
+Force: 58
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 9
+Force: 58
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Galapagos_Islands
+Level: 10
+Force: 58
+HP: 100
+Coins: 35
+------------------------
+The player has won! :D

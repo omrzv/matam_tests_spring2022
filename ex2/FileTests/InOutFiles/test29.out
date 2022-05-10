@@ -1,0 +1,76 @@
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Stargate_SG-1
+Level: 1
+Force: 5
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 799
+Profit (on win): 1
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Stargate_SG-1
+Level: 1
+Force: 5
+HP: 95
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Stargate_SG-1
+Level: 1
+Force: 5
+HP: 95
+Coins: 33
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Stargate_SG-1
+Level: 1
+Force: 5
+HP: 95
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 107
+------------------------
+Player Details:
+Name: Stargate_SG-1
+Level: 1
+Force: 5
+HP: 95
+Coins: 40
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 10
+Damage taken (on loss): 227
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Stargate_SG-1
+Level: 1
+Force: 5
+HP: 0
+Coins: 40
+------------------------
+The player was defeated... :(

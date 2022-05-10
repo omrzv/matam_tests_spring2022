@@ -1,0 +1,357 @@
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 1
+Force: 8
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 6
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 1
+Force: 8
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 1
+Force: 8
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 10
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 1
+Force: 8
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 0
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 1
+Force: 22
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 15
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 2
+Force: 22
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 2
+Force: 22
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 3
+Force: 22
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 3
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 22
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 22
+HP: 100
+Coins: 41
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 6
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 28
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 28
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 101
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 28
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 28
+HP: 100
+Coins: 50
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 40
+HP: 100
+Coins: 50
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 4
+Force: 40
+HP: 100
+Coins: 69
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 5
+Force: 40
+HP: 100
+Coins: 83
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 193
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 6
+Force: 40
+HP: 100
+Coins: 276
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 11
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 7
+Force: 40
+HP: 100
+Coins: 287
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 7
+Force: 43
+HP: 100
+Coins: 287
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 6
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 7
+Force: 43
+HP: 100
+Coins: 281
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 7
+Force: 43
+HP: 100
+Coins: 290
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 10
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 7
+Force: 43
+HP: 100
+Coins: 280
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 0
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 7
+Force: 57
+HP: 100
+Coins: 280
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 15
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 8
+Force: 57
+HP: 100
+Coins: 295
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 8
+Force: 57
+HP: 100
+Coins: 300
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 0
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 9
+Force: 57
+HP: 100
+Coins: 300
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 3
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Robinson_Crusoe
+Level: 10
+Force: 57
+HP: 100
+Coins: 303
+------------------------
+The player has won! :D

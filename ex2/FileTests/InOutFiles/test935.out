@@ -1,0 +1,679 @@
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 84
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 11
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 78
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 78
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 2114
+Profit (on win): 20
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 71
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 71
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 14
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 66
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 19
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 66
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 8
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 66
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 5
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 47
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 29
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 29
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 6
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 29
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 5
+HP: 29
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 29
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 29
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 29
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 33
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 33
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 37
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 56
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 1
+Force: 15
+HP: 40
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 11
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 2
+Force: 15
+HP: 40
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: iron
+Level: 2
+Force: 15
+HP: 40
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 2114
+Profit (on win): 20
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 2
+Force: 15
+HP: 33
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: iron
+Level: 2
+Force: 21
+HP: 33
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 14
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 3
+Force: 21
+HP: 33
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 19
+------------------------
+Player Details:
+Name: iron
+Level: 3
+Force: 21
+HP: 41
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 8
+------------------------
+Player Details:
+Name: iron
+Level: 3
+Force: 21
+HP: 41
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 5
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 4
+Force: 21
+HP: 41
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 21
+HP: 41
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 21
+HP: 41
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 6
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 21
+HP: 41
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 21
+HP: 41
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 31
+HP: 41
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 31
+HP: 41
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 31
+HP: 41
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 31
+HP: 45
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 31
+HP: 45
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 31
+HP: 49
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: iron
+Level: 5
+Force: 31
+HP: 68
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 6
+Force: 31
+HP: 68
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 11
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 7
+Force: 31
+HP: 68
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: iron
+Level: 7
+Force: 31
+HP: 68
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 2114
+Profit (on win): 20
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: iron
+Level: 7
+Force: 31
+HP: 61
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: iron
+Level: 7
+Force: 37
+HP: 61
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 14
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 8
+Force: 37
+HP: 61
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 19
+------------------------
+Player Details:
+Name: iron
+Level: 8
+Force: 37
+HP: 69
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 8
+------------------------
+Player Details:
+Name: iron
+Level: 8
+Force: 37
+HP: 69
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 5
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 9
+Force: 37
+HP: 69
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: iron
+Level: 10
+Force: 37
+HP: 69
+Coins: 10
+------------------------
+The player has won! :D

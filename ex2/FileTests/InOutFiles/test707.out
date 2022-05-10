@@ -1,0 +1,54 @@
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: English
+Level: 1
+Force: 5
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 24
+Cost: 11
+------------------------
+Player Details:
+Name: English
+Level: 1
+Force: 5
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: English
+Level: 1
+Force: 5
+HP: 90
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 129
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: English
+Level: 1
+Force: 5
+HP: 0
+Coins: 5
+------------------------
+The player was defeated... :(

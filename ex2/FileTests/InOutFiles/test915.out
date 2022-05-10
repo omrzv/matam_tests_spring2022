@@ -1,0 +1,49 @@
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: embroidery
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: embroidery
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: embroidery
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 18
+Damage taken (on loss): 629
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: embroidery
+Level: 1
+Force: 5
+HP: 0
+Coins: 15
+------------------------
+The player was defeated... :(

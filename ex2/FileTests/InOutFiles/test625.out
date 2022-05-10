@@ -1,0 +1,351 @@
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 7
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 2
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 1
+Force: 5
+HP: 82
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 57
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 2
+Force: 5
+HP: 82
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 10
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 3
+Force: 5
+HP: 82
+Coins: 67
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 22570
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 4
+Force: 5
+HP: 82
+Coins: 67
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 4
+Force: 5
+HP: 82
+Coins: 69
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 4
+Force: 5
+HP: 82
+Coins: 81
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 8
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 4
+Force: 5
+HP: 94
+Coins: 73
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 13
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 4
+Force: 5
+HP: 99
+Coins: 60
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 5
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 4
+Force: 5
+HP: 100
+Coins: 55
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 5
+Force: 5
+HP: 100
+Coins: 55
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 5
+Force: 5
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 14
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 5
+Force: 10
+HP: 100
+Coins: 59
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 2
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 10
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 13
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 11
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 18
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 31
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 7
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 42
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 5
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 42
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 0
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 42
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 42
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 54
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 54
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 7
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 6
+Force: 54
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 2
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 7
+Force: 54
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 57
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 8
+Force: 54
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 10
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 9
+Force: 54
+HP: 100
+Coins: 92
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 0
+Damage taken (on loss): 22570
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Increase_Mather
+Level: 10
+Force: 54
+HP: 100
+Coins: 92
+------------------------
+The player has won! :D

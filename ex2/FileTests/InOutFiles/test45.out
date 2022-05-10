@@ -1,0 +1,308 @@
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 14
+------------------------
+Player Details:
+Name: snakes
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: snakes
+Level: 1
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 5
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 2
+Force: 5
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 3
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 5
+------------------------
+Player Details:
+Name: snakes
+Level: 3
+Force: 8
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: snakes
+Level: 3
+Force: 8
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 16
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 4
+Force: 8
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 27
+Cost: 18
+------------------------
+Player Details:
+Name: snakes
+Level: 4
+Force: 8
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 19
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 5
+Force: 8
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 1
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: snakes
+Level: 5
+Force: 8
+HP: 86
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 20
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 6
+Force: 8
+HP: 86
+Coins: 56
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: snakes
+Level: 6
+Force: 8
+HP: 92
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 7
+Force: 8
+HP: 92
+Coins: 52
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: snakes
+Level: 7
+Force: 8
+HP: 92
+Coins: 52
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 1
+------------------------
+Player Details:
+Name: snakes
+Level: 7
+Force: 8
+HP: 98
+Coins: 51
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 8
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: snakes
+Level: 7
+Force: 8
+HP: 95
+Coins: 51
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 11
+------------------------
+Player Details:
+Name: snakes
+Level: 7
+Force: 11
+HP: 95
+Coins: 40
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 18
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 8
+Force: 11
+HP: 95
+Coins: 58
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: snakes
+Level: 8
+Force: 11
+HP: 95
+Coins: 56
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 14
+------------------------
+Player Details:
+Name: snakes
+Level: 8
+Force: 19
+HP: 95
+Coins: 42
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: snakes
+Level: 8
+Force: 19
+HP: 95
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 5
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 9
+Force: 19
+HP: 95
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: snakes
+Level: 10
+Force: 19
+HP: 95
+Coins: 62
+------------------------
+The player has won! :D

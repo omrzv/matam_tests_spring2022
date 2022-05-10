@@ -1,0 +1,239 @@
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 10
+------------------------
+Player Details:
+Name: James_Caan
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 10
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 2
+Force: 5
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 5
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: James_Caan
+Level: 2
+Force: 5
+HP: 82
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 1
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 3
+Force: 5
+HP: 82
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 4
+Force: 5
+HP: 82
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: James_Caan
+Level: 4
+Force: 5
+HP: 82
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 10
+------------------------
+Player Details:
+Name: James_Caan
+Level: 4
+Force: 5
+HP: 84
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 10
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 5
+Force: 5
+HP: 84
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 5
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: James_Caan
+Level: 5
+Force: 5
+HP: 66
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 1
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 6
+Force: 5
+HP: 66
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 7
+Force: 5
+HP: 66
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: James_Caan
+Level: 7
+Force: 5
+HP: 66
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 10
+------------------------
+Player Details:
+Name: James_Caan
+Level: 7
+Force: 5
+HP: 68
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 10
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 8
+Force: 5
+HP: 68
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 5
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: James_Caan
+Level: 8
+Force: 5
+HP: 50
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 1
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 9
+Force: 5
+HP: 50
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 3
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: James_Caan
+Level: 10
+Force: 5
+HP: 50
+Coins: 32
+------------------------
+The player has won! :D

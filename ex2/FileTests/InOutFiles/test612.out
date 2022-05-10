@@ -1,0 +1,373 @@
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 33
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Juliet
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Juliet
+Level: 1
+Force: 5
+HP: 91
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 91
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 8
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 11
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 17
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 29
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 5
+HP: 88
+Coins: 49
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Juliet
+Level: 2
+Force: 6
+HP: 88
+Coins: 48
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 33
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 3
+Force: 6
+HP: 88
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Juliet
+Level: 3
+Force: 6
+HP: 84
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 4
+Force: 6
+HP: 84
+Coins: 82
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 8
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 5
+Force: 6
+HP: 84
+Coins: 90
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 11
+------------------------
+Player Details:
+Name: Juliet
+Level: 5
+Force: 22
+HP: 84
+Coins: 79
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 17
+------------------------
+Player Details:
+Name: Juliet
+Level: 5
+Force: 22
+HP: 84
+Coins: 62
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Juliet
+Level: 5
+Force: 22
+HP: 84
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Juliet
+Level: 5
+Force: 22
+HP: 84
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 13
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 6
+Force: 22
+HP: 84
+Coins: 73
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Juliet
+Level: 6
+Force: 22
+HP: 84
+Coins: 89
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Juliet
+Level: 6
+Force: 22
+HP: 84
+Coins: 109
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Juliet
+Level: 6
+Force: 23
+HP: 84
+Coins: 108
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 33
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 7
+Force: 23
+HP: 84
+Coins: 141
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 8
+Force: 23
+HP: 84
+Coins: 145
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 9
+Force: 23
+HP: 84
+Coins: 146
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 8
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Juliet
+Level: 10
+Force: 23
+HP: 84
+Coins: 154
+------------------------
+The player has won! :D

@@ -1,0 +1,516 @@
+Card drawn:
+Type: Heal
+Heal points: 105
+Cost: 85
+------------------------
+Player Details:
+Name: Nerf
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: Nerf
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 18
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Nerf
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Nerf
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: Nerf
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Nerf
+Level: 1
+Force: 5
+HP: 88
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 7
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 5
+HP: 88
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 19
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 5
+HP: 84
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 5
+HP: 80
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 5
+HP: 80
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 5
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 105
+Cost: 85
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 5
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 12
+HP: 80
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 18
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 12
+HP: 68
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 12
+HP: 68
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 12
+HP: 68
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Nerf
+Level: 2
+Force: 12
+HP: 68
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 7
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 3
+Force: 12
+HP: 68
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 19
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 4
+Force: 12
+HP: 68
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Nerf
+Level: 4
+Force: 12
+HP: 64
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Nerf
+Level: 4
+Force: 12
+HP: 64
+Coins: 44
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: Nerf
+Level: 4
+Force: 12
+HP: 64
+Coins: 32
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 105
+Cost: 85
+------------------------
+Player Details:
+Name: Nerf
+Level: 4
+Force: 12
+HP: 64
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: Nerf
+Level: 4
+Force: 19
+HP: 64
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 18
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 5
+Force: 19
+HP: 64
+Coins: 47
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Nerf
+Level: 5
+Force: 19
+HP: 64
+Coins: 47
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: Nerf
+Level: 5
+Force: 19
+HP: 70
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Nerf
+Level: 5
+Force: 19
+HP: 70
+Coins: 32
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 7
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 6
+Force: 19
+HP: 70
+Coins: 39
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 19
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 7
+Force: 19
+HP: 70
+Coins: 58
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 8
+Force: 19
+HP: 70
+Coins: 60
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Nerf
+Level: 8
+Force: 19
+HP: 70
+Coins: 68
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: Nerf
+Level: 8
+Force: 19
+HP: 70
+Coins: 56
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 105
+Cost: 85
+------------------------
+Player Details:
+Name: Nerf
+Level: 8
+Force: 19
+HP: 70
+Coins: 56
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 3
+------------------------
+Player Details:
+Name: Nerf
+Level: 8
+Force: 26
+HP: 70
+Coins: 53
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 18
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 9
+Force: 26
+HP: 70
+Coins: 71
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Nerf
+Level: 9
+Force: 26
+HP: 70
+Coins: 71
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: Nerf
+Level: 9
+Force: 26
+HP: 76
+Coins: 51
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Nerf
+Level: 9
+Force: 26
+HP: 76
+Coins: 56
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 7
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Nerf
+Level: 10
+Force: 26
+HP: 76
+Coins: 63
+------------------------
+The player has won! :D

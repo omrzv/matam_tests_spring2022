@@ -1,0 +1,368 @@
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 6
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 12
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 44
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 5
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 6
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 9
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 9
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 7
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 9
+HP: 87
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 63
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 9
+HP: 81
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 18
+Damage taken (on loss): -20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 3
+Force: 9
+HP: 81
+Coins: 27
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 10
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 4
+Force: 9
+HP: 81
+Coins: 37
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 0
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 4
+Force: 20
+HP: 81
+Coins: 37
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 30
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 4
+Force: 28
+HP: 81
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 10
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 5
+Force: 28
+HP: 81
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 14
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 5
+Force: 33
+HP: 81
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 13
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 5
+Force: 33
+HP: 81
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 5
+Force: 49
+HP: 81
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 5
+Force: 69
+HP: 81
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 11
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 6
+Force: 69
+HP: 81
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): -21
+Damage taken (on loss): 22
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 7
+Force: 69
+HP: 81
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 9
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 7
+Force: 81
+HP: 81
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 7
+Force: 81
+HP: 81
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 7
+Force: 81
+HP: 81
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 15
+Profit (on win): 13
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 8
+Force: 81
+HP: 81
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 8
+Force: 81
+HP: 81
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 8
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 9
+Force: 81
+HP: 81
+Coins: 37
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 9
+Force: 91
+HP: 81
+Coins: 37
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 0
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_duty-free_shop
+Level: 10
+Force: 91
+HP: 81
+Coins: 37
+------------------------
+The player has won! :D

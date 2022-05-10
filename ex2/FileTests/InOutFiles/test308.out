@@ -1,0 +1,447 @@
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 2
+------------------------
+Player Details:
+Name: artifact
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: artifact
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: artifact
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: artifact
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 20
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 2
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 13
+------------------------
+Player Details:
+Name: artifact
+Level: 2
+Force: 6
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: artifact
+Level: 2
+Force: 18
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 7
+------------------------
+Player Details:
+Name: artifact
+Level: 2
+Force: 18
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 5
+------------------------
+Player Details:
+Name: artifact
+Level: 2
+Force: 18
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 3
+Force: 18
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 655
+Cost: 20
+------------------------
+Player Details:
+Name: artifact
+Level: 3
+Force: 18
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 18
+------------------------
+Player Details:
+Name: artifact
+Level: 3
+Force: 18
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 8544
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 4
+Force: 18
+HP: 100
+Coins: 8561
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 10
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 5
+Force: 18
+HP: 100
+Coins: 8571
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 1453
+------------------------
+Player Details:
+Name: artifact
+Level: 5
+Force: 18
+HP: 100
+Coins: 7118
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: artifact
+Level: 5
+Force: 18
+HP: 100
+Coins: 7122
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 7
+------------------------
+Player Details:
+Name: artifact
+Level: 5
+Force: 18
+HP: 100
+Coins: 7115
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 2
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 6
+Force: 18
+HP: 100
+Coins: 7117
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 16
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 18
+HP: 100
+Coins: 7133
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 18
+HP: 100
+Coins: 7151
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 18
+HP: 100
+Coins: 7171
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: -14
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 18
+HP: 100
+Coins: 7171
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 18
+HP: 100
+Coins: 7176
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 10
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 28
+HP: 100
+Coins: 7166
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 11
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 44
+HP: 100
+Coins: 7155
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 2
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 50
+HP: 100
+Coins: 7153
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: artifact
+Level: 7
+Force: 50
+HP: 100
+Coins: 7138
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 8
+Force: 50
+HP: 100
+Coins: 7157
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: artifact
+Level: 8
+Force: 50
+HP: 100
+Coins: 7144
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 20
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 9
+Force: 50
+HP: 100
+Coins: 7164
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 13
+------------------------
+Player Details:
+Name: artifact
+Level: 9
+Force: 51
+HP: 100
+Coins: 7151
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: artifact
+Level: 9
+Force: 63
+HP: 100
+Coins: 7151
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 7
+------------------------
+Player Details:
+Name: artifact
+Level: 9
+Force: 63
+HP: 100
+Coins: 7144
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 5
+------------------------
+Player Details:
+Name: artifact
+Level: 9
+Force: 63
+HP: 100
+Coins: 7139
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: artifact
+Level: 10
+Force: 63
+HP: 100
+Coins: 7156
+------------------------
+The player has won! :D

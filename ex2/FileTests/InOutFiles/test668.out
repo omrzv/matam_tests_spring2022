@@ -1,0 +1,42 @@
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Huguenots
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Huguenots
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 1094
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Huguenots
+Level: 2
+Force: 5
+HP: 0
+Coins: 0
+------------------------
+The player was defeated... :(

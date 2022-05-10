@@ -1,0 +1,412 @@
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 2
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 3
+Force: 5
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 3
+Force: 5
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 0
+------------------------
+Player Details:
+Name: the_yolk
+Level: 3
+Force: 12
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 3
+Force: 12
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: the_yolk
+Level: 3
+Force: 12
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_yolk
+Level: 3
+Force: 12
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: the_yolk
+Level: 3
+Force: 12
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 4
+Force: 12
+HP: 100
+Coins: 72
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 5
+Force: 12
+HP: 100
+Coins: 91
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 5
+Force: 12
+HP: 100
+Coins: 93
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 0
+------------------------
+Player Details:
+Name: the_yolk
+Level: 5
+Force: 19
+HP: 100
+Coins: 93
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 5
+Force: 19
+HP: 100
+Coins: 91
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: the_yolk
+Level: 5
+Force: 19
+HP: 100
+Coins: 85
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_yolk
+Level: 5
+Force: 19
+HP: 100
+Coins: 101
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: the_yolk
+Level: 5
+Force: 19
+HP: 100
+Coins: 106
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 6
+Force: 19
+HP: 100
+Coins: 125
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 7
+Force: 19
+HP: 100
+Coins: 144
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 7
+Force: 19
+HP: 100
+Coins: 146
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 0
+------------------------
+Player Details:
+Name: the_yolk
+Level: 7
+Force: 26
+HP: 100
+Coins: 146
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 7
+Force: 26
+HP: 100
+Coins: 144
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: the_yolk
+Level: 7
+Force: 26
+HP: 100
+Coins: 138
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_yolk
+Level: 7
+Force: 26
+HP: 100
+Coins: 154
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: the_yolk
+Level: 7
+Force: 26
+HP: 100
+Coins: 159
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 8
+Force: 26
+HP: 100
+Coins: 178
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 9
+Force: 26
+HP: 100
+Coins: 197
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 9
+Force: 26
+HP: 100
+Coins: 199
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 0
+------------------------
+Player Details:
+Name: the_yolk
+Level: 9
+Force: 33
+HP: 100
+Coins: 199
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 2
+------------------------
+Player Details:
+Name: the_yolk
+Level: 9
+Force: 33
+HP: 100
+Coins: 197
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 6
+------------------------
+Player Details:
+Name: the_yolk
+Level: 9
+Force: 33
+HP: 100
+Coins: 191
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_yolk
+Level: 9
+Force: 33
+HP: 100
+Coins: 207
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: the_yolk
+Level: 9
+Force: 33
+HP: 100
+Coins: 212
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_yolk
+Level: 10
+Force: 33
+HP: 100
+Coins: 231
+------------------------
+The player has won! :D

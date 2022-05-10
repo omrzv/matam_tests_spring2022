@@ -1,0 +1,775 @@
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 16
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 16
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 16
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 16
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 16
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 16
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 16
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 27
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 27
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 27
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 27
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 27
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 29
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 29
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 29
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 29
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 29
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 29
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 29
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 31
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 31
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 31
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 31
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 31
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 31
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 31
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 33
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 33
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 33
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 33
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 33
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 33
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 33
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 35
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 35
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 35
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 35
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 35
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 35
+HP: 100
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 35
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 37
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 37
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 48
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 48
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 48
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 48
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 48
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 48
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 48
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 59
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 59
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 6
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 59
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 59
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 59
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 61
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 10
+Force: 61
+HP: 100
+Coins: 6
+------------------------
+The player has won! :D

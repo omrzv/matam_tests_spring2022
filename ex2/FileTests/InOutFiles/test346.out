@@ -1,0 +1,521 @@
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 5
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 5
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 5
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 36707
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 5
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 13
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 13
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 19
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 13
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 18
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 22
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 10
+------------------------
+Player Details:
+Name: life_vest
+Level: 1
+Force: 22
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 12
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 2
+Force: 22
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: life_vest
+Level: 2
+Force: 22
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 16
+------------------------
+Player Details:
+Name: life_vest
+Level: 2
+Force: 22
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: life_vest
+Level: 2
+Force: 22
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 13
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 3
+Force: 22
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 13
+------------------------
+Player Details:
+Name: life_vest
+Level: 3
+Force: 34
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 7
+------------------------
+Player Details:
+Name: life_vest
+Level: 3
+Force: 34
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 6
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 4
+Force: 34
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 5
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 5
+Force: 34
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 4
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 0
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 9
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 176
+Profit (on win): 6
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 86
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 86
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 86
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 86
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 86
+Coins: 56
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 36707
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 34
+HP: 86
+Coins: 56
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 42
+HP: 86
+Coins: 56
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 42
+HP: 86
+Coins: 59
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 19
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 42
+HP: 90
+Coins: 40
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 18
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 51
+HP: 90
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 10
+------------------------
+Player Details:
+Name: life_vest
+Level: 6
+Force: 60
+HP: 90
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 12
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 7
+Force: 60
+HP: 90
+Coins: 24
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: life_vest
+Level: 7
+Force: 60
+HP: 90
+Coins: 42
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 16
+------------------------
+Player Details:
+Name: life_vest
+Level: 7
+Force: 60
+HP: 90
+Coins: 26
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: life_vest
+Level: 7
+Force: 60
+HP: 90
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 13
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 8
+Force: 60
+HP: 90
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 13
+------------------------
+Player Details:
+Name: life_vest
+Level: 8
+Force: 72
+HP: 90
+Coins: 29
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 7
+------------------------
+Player Details:
+Name: life_vest
+Level: 8
+Force: 72
+HP: 98
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 6
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 9
+Force: 72
+HP: 98
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 5
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: life_vest
+Level: 10
+Force: 72
+HP: 98
+Coins: 33
+------------------------
+The player has won! :D

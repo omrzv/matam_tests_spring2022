@@ -1,0 +1,244 @@
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 14
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 1
+Force: 5
+HP: 84
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 4
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 1
+Force: 5
+HP: 84
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 1
+Force: 5
+HP: 84
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 2
+Force: 5
+HP: 84
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 8
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 3
+Force: 5
+HP: 84
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 17
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 3
+Force: 21
+HP: 84
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 11
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 3
+Force: 21
+HP: 84
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 4
+Force: 21
+HP: 84
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 2
+Damage taken (on loss): 48423
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 5
+Force: 21
+HP: 84
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 12
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 6
+Force: 21
+HP: 84
+Coins: 34
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 17
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 7
+Force: 21
+HP: 84
+Coins: 51
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 2
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 7
+Force: 21
+HP: 95
+Coins: 49
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 4
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 7
+Force: 38
+HP: 95
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 7
+Force: 38
+HP: 95
+Coins: 64
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 112
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 7
+Force: 38
+HP: 95
+Coins: 176
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 16
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 8
+Force: 38
+HP: 95
+Coins: 192
+------------------------
+Card drawn:
+Type: Battle
+Force: 23
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 9
+Force: 38
+HP: 95
+Coins: 192
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 14
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Shakespeare
+Level: 10
+Force: 38
+HP: 95
+Coins: 206
+------------------------
+The player has won! :D

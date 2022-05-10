@@ -1,0 +1,55 @@
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: the_Second_Reich
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 17
+------------------------
+Player Details:
+Name: the_Second_Reich
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 2
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Second_Reich
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 316
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Second_Reich
+Level: 1
+Force: 5
+HP: 0
+Coins: 0
+------------------------
+The player was defeated... :(

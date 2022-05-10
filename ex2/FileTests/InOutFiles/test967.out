@@ -1,0 +1,939 @@
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 83
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 5
+HP: 83
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 67
+HP: 83
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 67
+HP: 83
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 67
+HP: 83
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 67
+HP: 83
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 67
+HP: 83
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 1
+Force: 67
+HP: 95
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 95
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 2
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 3
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 4
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 5
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 6
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 7
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 8
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 11
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 62
+Cost: 5
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 10
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 9
+Force: 67
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mrs._Butterworth
+Level: 10
+Force: 67
+HP: 100
+Coins: 15
+------------------------
+The player has won! :D

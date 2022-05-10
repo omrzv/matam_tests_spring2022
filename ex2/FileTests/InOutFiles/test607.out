@@ -1,0 +1,433 @@
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tires
+Level: 1
+Force: 5
+HP: 83
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 32
+Profit (on win): 14
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tires
+Level: 1
+Force: 5
+HP: 66
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: tires
+Level: 1
+Force: 5
+HP: 66
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 68
+Cost: 3
+------------------------
+Player Details:
+Name: tires
+Level: 1
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 2
+Force: 5
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 1
+------------------------
+Player Details:
+Name: tires
+Level: 2
+Force: 8
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: tires
+Level: 2
+Force: 8
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 3
+Force: 8
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 32
+Profit (on win): 14
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tires
+Level: 3
+Force: 8
+HP: 83
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: tires
+Level: 3
+Force: 8
+HP: 83
+Coins: 46
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 68
+Cost: 3
+------------------------
+Player Details:
+Name: tires
+Level: 3
+Force: 8
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 4
+Force: 8
+HP: 100
+Coins: 59
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 1
+------------------------
+Player Details:
+Name: tires
+Level: 4
+Force: 11
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: tires
+Level: 4
+Force: 11
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 5
+Force: 11
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 32
+Profit (on win): 14
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tires
+Level: 5
+Force: 11
+HP: 83
+Coins: 60
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: tires
+Level: 5
+Force: 11
+HP: 83
+Coins: 76
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 68
+Cost: 3
+------------------------
+Player Details:
+Name: tires
+Level: 5
+Force: 11
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 6
+Force: 11
+HP: 100
+Coins: 89
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 1
+------------------------
+Player Details:
+Name: tires
+Level: 6
+Force: 14
+HP: 100
+Coins: 88
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: tires
+Level: 6
+Force: 14
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 7
+Force: 14
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Battle
+Force: 32
+Profit (on win): 14
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tires
+Level: 7
+Force: 14
+HP: 83
+Coins: 90
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: tires
+Level: 7
+Force: 14
+HP: 83
+Coins: 106
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 68
+Cost: 3
+------------------------
+Player Details:
+Name: tires
+Level: 7
+Force: 14
+HP: 100
+Coins: 103
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 8
+Force: 14
+HP: 100
+Coins: 119
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 1
+------------------------
+Player Details:
+Name: tires
+Level: 8
+Force: 17
+HP: 100
+Coins: 118
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: tires
+Level: 8
+Force: 17
+HP: 100
+Coins: 120
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 9
+Force: 17
+HP: 100
+Coins: 120
+------------------------
+Card drawn:
+Type: Battle
+Force: 32
+Profit (on win): 14
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: tires
+Level: 9
+Force: 17
+HP: 83
+Coins: 120
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: tires
+Level: 9
+Force: 17
+HP: 83
+Coins: 136
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 68
+Cost: 3
+------------------------
+Player Details:
+Name: tires
+Level: 9
+Force: 17
+HP: 100
+Coins: 133
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 16
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: tires
+Level: 10
+Force: 17
+HP: 100
+Coins: 149
+------------------------
+The player has won! :D

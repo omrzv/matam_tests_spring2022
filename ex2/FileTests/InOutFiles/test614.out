@@ -1,0 +1,161 @@
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 19
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Intelligence
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 12
+------------------------
+Player Details:
+Name: Intelligence
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Intelligence
+Level: 1
+Force: 5
+HP: 95
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Intelligence
+Level: 2
+Force: 5
+HP: 95
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Intelligence
+Level: 2
+Force: 5
+HP: 95
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 80
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Intelligence
+Level: 2
+Force: 5
+HP: 15
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 19
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Intelligence
+Level: 2
+Force: 5
+HP: 10
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 12
+------------------------
+Player Details:
+Name: Intelligence
+Level: 2
+Force: 5
+HP: 13
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Intelligence
+Level: 2
+Force: 5
+HP: 13
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Intelligence
+Level: 3
+Force: 5
+HP: 13
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Intelligence
+Level: 3
+Force: 5
+HP: 13
+Coins: 47
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 17
+Damage taken (on loss): 80
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Intelligence
+Level: 3
+Force: 5
+HP: 0
+Coins: 47
+------------------------
+The player was defeated... :(

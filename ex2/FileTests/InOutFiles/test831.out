@@ -1,0 +1,623 @@
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 94
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 94
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 5
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 99
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 3
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 79
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 79
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 64
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 5
+HP: 64
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 7
+HP: 64
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 3
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 26
+HP: 64
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 26
+HP: 65
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 9
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 26
+HP: 65
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 1
+Force: 36
+HP: 65
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 2
+Force: 36
+HP: 65
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 23
+Cost: 3
+------------------------
+Player Details:
+Name: New_York
+Level: 2
+Force: 59
+HP: 65
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: New_York
+Level: 2
+Force: 59
+HP: 65
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: New_York
+Level: 2
+Force: 59
+HP: 65
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 18
+------------------------
+Player Details:
+Name: New_York
+Level: 2
+Force: 59
+HP: 73
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: New_York
+Level: 2
+Force: 59
+HP: 73
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 3
+Force: 59
+HP: 73
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 3
+Force: 59
+HP: 73
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 5
+------------------------
+Player Details:
+Name: New_York
+Level: 3
+Force: 59
+HP: 78
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 3
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 4
+Force: 59
+HP: 78
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: New_York
+Level: 4
+Force: 59
+HP: 78
+Coins: 31
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 5
+Force: 59
+HP: 78
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: New_York
+Level: 5
+Force: 59
+HP: 78
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: New_York
+Level: 5
+Force: 61
+HP: 78
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 3
+------------------------
+Player Details:
+Name: New_York
+Level: 5
+Force: 80
+HP: 78
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 5
+Force: 80
+HP: 79
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 9
+------------------------
+Player Details:
+Name: New_York
+Level: 5
+Force: 80
+HP: 88
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 5
+Force: 90
+HP: 88
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 6
+Force: 90
+HP: 88
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 23
+Cost: 3
+------------------------
+Player Details:
+Name: New_York
+Level: 6
+Force: 113
+HP: 88
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: New_York
+Level: 6
+Force: 113
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: New_York
+Level: 6
+Force: 113
+HP: 88
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 18
+------------------------
+Player Details:
+Name: New_York
+Level: 6
+Force: 113
+HP: 88
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: New_York
+Level: 6
+Force: 113
+HP: 88
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 7
+Force: 113
+HP: 88
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 7
+Force: 113
+HP: 88
+Coins: 29
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 5
+------------------------
+Player Details:
+Name: New_York
+Level: 7
+Force: 113
+HP: 93
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 3
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 8
+Force: 113
+HP: 93
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: New_York
+Level: 8
+Force: 113
+HP: 93
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 9
+Force: 113
+HP: 93
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: New_York
+Level: 9
+Force: 113
+HP: 93
+Coins: 45
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: New_York
+Level: 9
+Force: 115
+HP: 93
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 3
+------------------------
+Player Details:
+Name: New_York
+Level: 9
+Force: 134
+HP: 93
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 9
+Force: 134
+HP: 94
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 9
+------------------------
+Player Details:
+Name: New_York
+Level: 9
+Force: 134
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: New_York
+Level: 9
+Force: 144
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 9
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: New_York
+Level: 10
+Force: 144
+HP: 100
+Coins: 24
+------------------------
+The player has won! :D

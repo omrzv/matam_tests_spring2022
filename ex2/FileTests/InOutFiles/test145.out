@@ -1,0 +1,571 @@
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 1
+Force: 7
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 1
+Force: 7
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 1
+Force: 7
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 1
+Force: 15
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 1
+Force: 15
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 2
+Force: 15
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 2
+Force: 15
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 15
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 15
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 15
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 4
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 15
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 17
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 26
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 26
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 34
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 3
+Force: 34
+HP: 100
+Coins: 33
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 4
+Force: 34
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 4
+Force: 34
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 15
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 34
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 34
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 4
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 34
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 36
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 45
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 45
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 53
+HP: 100
+Coins: 62
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 5
+Force: 53
+HP: 100
+Coins: 62
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 6
+Force: 53
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 6
+Force: 53
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 15
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 53
+HP: 100
+Coins: 76
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 53
+HP: 100
+Coins: 96
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 4
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 53
+HP: 100
+Coins: 92
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 55
+HP: 100
+Coins: 92
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 64
+HP: 100
+Coins: 87
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 64
+HP: 100
+Coins: 97
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 72
+HP: 100
+Coins: 91
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 7
+Force: 72
+HP: 100
+Coins: 91
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 8
+Force: 72
+HP: 100
+Coins: 95
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 8
+Force: 72
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 15
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 72
+HP: 100
+Coins: 105
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 72
+HP: 100
+Coins: 125
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 4
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 72
+HP: 100
+Coins: 121
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 74
+HP: 100
+Coins: 121
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 5
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 83
+HP: 100
+Coins: 116
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 83
+HP: 100
+Coins: 126
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 91
+HP: 100
+Coins: 120
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 9
+Force: 91
+HP: 100
+Coins: 120
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 4
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Astroprojection
+Level: 10
+Force: 91
+HP: 100
+Coins: 124
+------------------------
+The player has won! :D

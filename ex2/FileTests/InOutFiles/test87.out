@@ -1,0 +1,478 @@
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 58
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 1
+Force: 5
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 1
+Force: 25
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 5
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 2
+Force: 25
+HP: 100
+Coins: 59
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 2
+Force: 25
+HP: 100
+Coins: 65
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 3
+Force: 25
+HP: 100
+Coins: 85
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 3
+Force: 25
+HP: 100
+Coins: 105
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 0
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 3
+Force: 34
+HP: 100
+Coins: 105
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 11
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 3
+Force: 34
+HP: 100
+Coins: 94
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 3
+Force: 34
+HP: 100
+Coins: 106
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 3
+Force: 34
+HP: 100
+Coins: 100
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 18
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 3
+Force: 34
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 0
+Damage taken (on loss): 1086
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 4
+Force: 34
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 4
+Force: 34
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 4
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 4
+Force: 34
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 4
+Force: 34
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 11
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 4
+Force: 34
+HP: 100
+Coins: 79
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 10
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 5
+Force: 34
+HP: 100
+Coins: 89
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 10
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 6
+Force: 34
+HP: 100
+Coins: 99
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 14
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 6
+Force: 38
+HP: 100
+Coins: 85
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 6
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 6
+Force: 38
+HP: 100
+Coins: 79
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 14
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 7
+Force: 38
+HP: 100
+Coins: 93
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 24
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 7
+Force: 38
+HP: 100
+Coins: 69
+------------------------
+Card drawn:
+Type: Battle
+Force: 452
+Profit (on win): 10
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 7
+Force: 38
+HP: 90
+Coins: 69
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 0
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 7
+Force: 38
+HP: 99
+Coins: 69
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 20
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 7
+Force: 42
+HP: 99
+Coins: 49
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 58
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 7
+Force: 42
+HP: 99
+Coins: 107
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 4
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 7
+Force: 62
+HP: 99
+Coins: 103
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 5
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 8
+Force: 62
+HP: 99
+Coins: 108
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 8
+Force: 62
+HP: 99
+Coins: 114
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 9
+Force: 62
+HP: 99
+Coins: 134
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 9
+Force: 62
+HP: 99
+Coins: 154
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 0
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 9
+Force: 71
+HP: 99
+Coins: 154
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 11
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 9
+Force: 71
+HP: 99
+Coins: 143
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 9
+Force: 71
+HP: 99
+Coins: 155
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 6
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 9
+Force: 71
+HP: 100
+Coins: 149
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 18
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 9
+Force: 71
+HP: 100
+Coins: 131
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 0
+Damage taken (on loss): 1086
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_harpsichord
+Level: 10
+Force: 71
+HP: 100
+Coins: 131
+------------------------
+The player has won! :D

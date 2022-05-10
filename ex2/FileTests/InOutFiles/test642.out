@@ -1,0 +1,467 @@
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 1
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 1
+Force: 5
+HP: 95
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 1
+Force: 9
+HP: 95
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 1371
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 2
+Force: 9
+HP: 95
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 15
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 2
+Force: 9
+HP: 95
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 218
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 2
+Force: 9
+HP: 95
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 2
+Force: 9
+HP: 95
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 2
+Force: 9
+HP: 95
+Coins: 48
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 2
+Force: 9
+HP: 90
+Coins: 48
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 2
+Force: 13
+HP: 90
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 1371
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 3
+Force: 13
+HP: 90
+Coins: 40
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 15
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 3
+Force: 21
+HP: 90
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 218
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 3
+Force: 21
+HP: 90
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 3
+Force: 21
+HP: 90
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 3
+Force: 21
+HP: 90
+Coins: 63
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 4
+Force: 21
+HP: 90
+Coins: 63
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 4
+Force: 25
+HP: 90
+Coins: 51
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 1371
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 5
+Force: 25
+HP: 90
+Coins: 55
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 15
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 5
+Force: 33
+HP: 90
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 218
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 5
+Force: 33
+HP: 90
+Coins: 40
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 5
+Force: 33
+HP: 90
+Coins: 60
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 5
+Force: 33
+HP: 90
+Coins: 78
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 6
+Force: 33
+HP: 90
+Coins: 78
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 6
+Force: 37
+HP: 90
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 1371
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 7
+Force: 37
+HP: 90
+Coins: 70
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 15
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 7
+Force: 45
+HP: 90
+Coins: 55
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 218
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 7
+Force: 45
+HP: 90
+Coins: 55
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 7
+Force: 45
+HP: 90
+Coins: 75
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 7
+Force: 45
+HP: 90
+Coins: 93
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 8
+Force: 45
+HP: 90
+Coins: 93
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 8
+Force: 49
+HP: 90
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 1371
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 9
+Force: 49
+HP: 90
+Coins: 85
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 15
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 9
+Force: 57
+HP: 90
+Coins: 70
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 218
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 9
+Force: 57
+HP: 90
+Coins: 70
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 9
+Force: 57
+HP: 90
+Coins: 90
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 9
+Force: 57
+HP: 90
+Coins: 108
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_Netherlands
+Level: 10
+Force: 57
+HP: 90
+Coins: 108
+------------------------
+The player has won! :D

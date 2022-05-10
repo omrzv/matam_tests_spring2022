@@ -1,0 +1,644 @@
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 1
+Force: 5
+HP: 94
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 90
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 93
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 93
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 93
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 20
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 85
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 85
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 85
+Coins: 7
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 85
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 79
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 75
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 2
+Force: 5
+HP: 75
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 3
+Force: 5
+HP: 75
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 3
+Force: 5
+HP: 75
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 3
+Force: 5
+HP: 78
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Belgium
+Level: 3
+Force: 9
+HP: 78
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Belgium
+Level: 3
+Force: 9
+HP: 78
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 20
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 4
+Force: 9
+HP: 78
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Belgium
+Level: 4
+Force: 9
+HP: 78
+Coins: 29
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 4
+Force: 9
+HP: 78
+Coins: 9
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 4
+Force: 9
+HP: 78
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 4
+Force: 9
+HP: 72
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 4
+Force: 9
+HP: 68
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 4
+Force: 9
+HP: 68
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 5
+Force: 9
+HP: 68
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 5
+Force: 9
+HP: 68
+Coins: 29
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 5
+Force: 9
+HP: 71
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Belgium
+Level: 5
+Force: 13
+HP: 71
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Belgium
+Level: 5
+Force: 13
+HP: 71
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 20
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 6
+Force: 13
+HP: 71
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Belgium
+Level: 6
+Force: 13
+HP: 71
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 6
+Force: 13
+HP: 71
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 6
+Force: 13
+HP: 71
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Belgium
+Level: 6
+Force: 13
+HP: 65
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 9
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 7
+Force: 13
+HP: 65
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 7
+Force: 26
+HP: 65
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 8
+Force: 26
+HP: 65
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 8
+Force: 26
+HP: 65
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 17
+------------------------
+Player Details:
+Name: Belgium
+Level: 8
+Force: 26
+HP: 68
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 5
+------------------------
+Player Details:
+Name: Belgium
+Level: 8
+Force: 30
+HP: 68
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Belgium
+Level: 8
+Force: 30
+HP: 68
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 20
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 9
+Force: 30
+HP: 68
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Belgium
+Level: 9
+Force: 30
+HP: 68
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 9
+Force: 30
+HP: 68
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: Belgium
+Level: 9
+Force: 30
+HP: 68
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Belgium
+Level: 10
+Force: 30
+HP: 68
+Coins: 18
+------------------------
+The player has won! :D

@@ -1,0 +1,383 @@
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 1
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 1
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 1
+Force: 5
+HP: 99
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 20
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 1
+Force: 5
+HP: 79
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 105
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 1
+Force: 5
+HP: 79
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 17
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 1
+Force: 10
+HP: 79
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 40172
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 1
+Force: 10
+HP: 79
+Coins: 40173
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 10
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 2
+Force: 10
+HP: 79
+Coins: 40183
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 69
+Cost: 15
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 2
+Force: 79
+HP: 79
+Coins: 40168
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 15
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 3
+Force: 79
+HP: 79
+Coins: 40183
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 18
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 3
+Force: 90
+HP: 79
+Coins: 40165
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 3
+Force: 90
+HP: 79
+Coins: 40176
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 3
+Force: 90
+HP: 79
+Coins: 40192
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 3
+Force: 90
+HP: 79
+Coins: 40210
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 9
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 4
+Force: 90
+HP: 79
+Coins: 40219
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 4
+Force: 90
+HP: 79
+Coins: 40237
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 1
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 5
+Force: 90
+HP: 79
+Coins: 40238
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 20
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 6
+Force: 90
+HP: 79
+Coins: 40258
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 105
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 6
+Force: 90
+HP: 81
+Coins: 40153
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 17
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 6
+Force: 95
+HP: 81
+Coins: 40136
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 40172
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 6
+Force: 95
+HP: 81
+Coins: 80308
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 10
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 7
+Force: 95
+HP: 81
+Coins: 80318
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 69
+Cost: 15
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 7
+Force: 164
+HP: 81
+Coins: 80303
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 15
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 8
+Force: 164
+HP: 81
+Coins: 80318
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 18
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 8
+Force: 175
+HP: 81
+Coins: 80300
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 8
+Force: 175
+HP: 81
+Coins: 80311
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 8
+Force: 175
+HP: 81
+Coins: 80327
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 8
+Force: 175
+HP: 81
+Coins: 80345
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 9
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 9
+Force: 175
+HP: 81
+Coins: 80354
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 9
+Force: 175
+HP: 81
+Coins: 80372
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 1
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daylight_Savings_Time
+Level: 10
+Force: 175
+HP: 81
+Coins: 80373
+------------------------
+The player has won! :D

@@ -1,0 +1,428 @@
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 3
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 10
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 4
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 89
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 3
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 83
+Coins: 19
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 83
+Coins: 19
+------------------------
+Card drawn:
+Type: Battle
+Force: 76
+Profit (on win): 13
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 5
+HP: 78
+Coins: 19
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 2
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 1
+Force: 20
+HP: 78
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 0
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 2
+Force: 20
+HP: 78
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 19
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 2
+Force: 20
+HP: 78
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 2
+Force: 20
+HP: 78
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 18
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 3
+Force: 20
+HP: 78
+Coins: 46
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 14
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 3
+Force: 25
+HP: 78
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 3
+Force: 25
+HP: 78
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 0
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 3
+Force: 42
+HP: 78
+Coins: 32
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 48
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 4
+Force: 42
+HP: 78
+Coins: 52
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 4
+Force: 42
+HP: 78
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 5
+Force: 42
+HP: 78
+Coins: 66
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 18
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 6
+Force: 42
+HP: 78
+Coins: 84
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 3
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 6
+Force: 44
+HP: 78
+Coins: 81
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 10
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 6
+Force: 44
+HP: 95
+Coins: 71
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 6
+Force: 44
+HP: 95
+Coins: 91
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 4
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 7
+Force: 44
+HP: 95
+Coins: 95
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 7
+Force: 44
+HP: 100
+Coins: 94
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 3
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 8
+Force: 44
+HP: 100
+Coins: 97
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 8
+Force: 44
+HP: 100
+Coins: 97
+------------------------
+Card drawn:
+Type: Battle
+Force: 76
+Profit (on win): 13
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 8
+Force: 44
+HP: 95
+Coins: 97
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 2
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 8
+Force: 59
+HP: 95
+Coins: 95
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 0
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 9
+Force: 59
+HP: 95
+Coins: 95
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 19
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 9
+Force: 59
+HP: 100
+Coins: 76
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 9
+Force: 59
+HP: 100
+Coins: 87
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 18
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mountain_Dew
+Level: 10
+Force: 59
+HP: 100
+Coins: 105
+------------------------
+The player has won! :D

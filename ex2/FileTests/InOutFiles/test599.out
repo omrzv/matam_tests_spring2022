@@ -1,0 +1,359 @@
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 5
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 2
+Force: 5
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 8
+------------------------
+Player Details:
+Name: Macbeth
+Level: 2
+Force: 5
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Macbeth
+Level: 2
+Force: 6
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 3
+Force: 6
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Macbeth
+Level: 3
+Force: 6
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Macbeth
+Level: 3
+Force: 6
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Macbeth
+Level: 3
+Force: 6
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 0
+------------------------
+Player Details:
+Name: Macbeth
+Level: 3
+Force: 6
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 4
+Force: 6
+HP: 100
+Coins: 46
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 5
+Force: 6
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Macbeth
+Level: 5
+Force: 6
+HP: 100
+Coins: 75
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Macbeth
+Level: 5
+Force: 6
+HP: 100
+Coins: 75
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 15
+------------------------
+Player Details:
+Name: Macbeth
+Level: 5
+Force: 6
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 6
+------------------------
+Player Details:
+Name: Macbeth
+Level: 5
+Force: 10
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 4912
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 6
+Force: 10
+HP: 100
+Coins: 4966
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: Macbeth
+Level: 6
+Force: 10
+HP: 100
+Coins: 4966
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 8
+Damage taken (on loss): 5
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Macbeth
+Level: 6
+Force: 10
+HP: 95
+Coins: 4966
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1898
+Cost: 0
+------------------------
+Player Details:
+Name: Macbeth
+Level: 6
+Force: 10
+HP: 100
+Coins: 4966
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 5
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 7
+Force: 10
+HP: 100
+Coins: 4971
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 8
+------------------------
+Player Details:
+Name: Macbeth
+Level: 7
+Force: 27
+HP: 100
+Coins: 4963
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: Macbeth
+Level: 7
+Force: 28
+HP: 100
+Coins: 4962
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 8
+Force: 28
+HP: 100
+Coins: 4969
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Macbeth
+Level: 8
+Force: 28
+HP: 100
+Coins: 4969
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: Macbeth
+Level: 8
+Force: 28
+HP: 100
+Coins: 4980
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: Macbeth
+Level: 8
+Force: 28
+HP: 100
+Coins: 4998
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 0
+------------------------
+Player Details:
+Name: Macbeth
+Level: 8
+Force: 28
+HP: 100
+Coins: 4998
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 9
+Force: 28
+HP: 100
+Coins: 5004
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Macbeth
+Level: 10
+Force: 28
+HP: 100
+Coins: 5015
+------------------------
+The player has won! :D

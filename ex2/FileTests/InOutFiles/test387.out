@@ -1,0 +1,506 @@
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: -6
+------------------------
+Player Details:
+Name: dulcet
+Level: 1
+Force: 9
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: dulcet
+Level: 1
+Force: 9
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: dulcet
+Level: 1
+Force: 9
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 1
+Force: 9
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 1
+Force: 9
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 998
+Cost: 6
+------------------------
+Player Details:
+Name: dulcet
+Level: 1
+Force: 1007
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: dulcet
+Level: 1
+Force: 1007
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 2
+Force: 1007
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: -6
+------------------------
+Player Details:
+Name: dulcet
+Level: 2
+Force: 1011
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: dulcet
+Level: 2
+Force: 1011
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 3
+Force: 1011
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 3
+Force: 1011
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 3
+Force: 1011
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 998
+Cost: 6
+------------------------
+Player Details:
+Name: dulcet
+Level: 3
+Force: 2009
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: dulcet
+Level: 3
+Force: 2009
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 4
+Force: 2009
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: -6
+------------------------
+Player Details:
+Name: dulcet
+Level: 4
+Force: 2013
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: dulcet
+Level: 4
+Force: 2013
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 5
+Force: 2013
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 5
+Force: 2013
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 5
+Force: 2013
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 998
+Cost: 6
+------------------------
+Player Details:
+Name: dulcet
+Level: 5
+Force: 3011
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: dulcet
+Level: 5
+Force: 3011
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 6
+Force: 3011
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: -6
+------------------------
+Player Details:
+Name: dulcet
+Level: 6
+Force: 3015
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: dulcet
+Level: 6
+Force: 3015
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 7
+Force: 3015
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 7
+Force: 3015
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 7
+Force: 3015
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 998
+Cost: 6
+------------------------
+Player Details:
+Name: dulcet
+Level: 7
+Force: 4013
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: dulcet
+Level: 7
+Force: 4013
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 8
+Force: 4013
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: -6
+------------------------
+Player Details:
+Name: dulcet
+Level: 8
+Force: 4017
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: dulcet
+Level: 8
+Force: 4017
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 2
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 9
+Force: 4017
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 9
+Force: 4017
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: dulcet
+Level: 9
+Force: 4017
+HP: 80
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 998
+Cost: 6
+------------------------
+Player Details:
+Name: dulcet
+Level: 9
+Force: 5015
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 18
+------------------------
+Player Details:
+Name: dulcet
+Level: 9
+Force: 5015
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 4
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: dulcet
+Level: 10
+Force: 5015
+HP: 80
+Coins: 6
+------------------------
+The player has won! :D

@@ -1,0 +1,422 @@
+Card drawn:
+Type: Heal
+Heal points: 22
+Cost: 0
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 1
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 1
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 19
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 2
+Force: 5
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 5
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 3
+Force: 5
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 3
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 3
+Force: 5
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 10
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 3
+Force: 7
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 3
+Force: 7
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 3
+Force: 7
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 4
+Force: 7
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 16
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 4
+Force: 7
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 10
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 4
+Force: 7
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 1553
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 4
+Force: 7
+HP: 84
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 4
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 4
+Force: 11
+HP: 84
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 19
+Damage taken (on loss): 27913
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 5
+Force: 11
+HP: 84
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 1
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 6
+Force: 11
+HP: 84
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 22
+Cost: 0
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 6
+Force: 11
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 6
+Force: 11
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 6
+Force: 11
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 19
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 7
+Force: 11
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 5
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 8
+Force: 11
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 20
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 8
+Force: 11
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 8
+Force: 11
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 10
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 8
+Force: 13
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 8
+Force: 13
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 8
+Force: 13
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 0
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 9
+Force: 13
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 16
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 9
+Force: 13
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 10
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 9
+Force: 13
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 1553
+Profit (on win): 5
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 9
+Force: 13
+HP: 84
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 4
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 9
+Force: 17
+HP: 84
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 19
+Damage taken (on loss): 27913
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Michael_Collins
+Level: 10
+Force: 17
+HP: 84
+Coins: 25
+------------------------
+The player has won! :D

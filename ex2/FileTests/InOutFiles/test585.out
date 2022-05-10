@@ -1,0 +1,814 @@
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 23
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 8833
+Profit (on win): 10
+Damage taken (on loss): 9
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 23
+HP: 91
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5428
+Cost: 8
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 23
+HP: 91
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 23
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 23
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 1
+Force: 23
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 2
+Force: 23
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 2
+Force: 23
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 2
+Force: 23
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 2
+Force: 34
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 1
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 34
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 3
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 47
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 60
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 60
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 60
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 60
+HP: 100
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 60
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 60
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 78
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 8833
+Profit (on win): 10
+Damage taken (on loss): 9
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 78
+HP: 91
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5428
+Cost: 8
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 5506
+HP: 91
+Coins: 12
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 5506
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 5506
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 3
+Force: 5506
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 4
+Force: 5506
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 4
+Force: 5506
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 4
+Force: 5506
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 4
+Force: 5517
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 1
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5517
+HP: 100
+Coins: 45
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 3
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5530
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5543
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5543
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5543
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5543
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5543
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5543
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5561
+HP: 100
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 8833
+Profit (on win): 10
+Damage taken (on loss): 9
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 5561
+HP: 91
+Coins: 30
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5428
+Cost: 8
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 10989
+HP: 91
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 10989
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 10989
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 5
+Force: 10989
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 6
+Force: 10989
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 6
+Force: 10989
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 6
+Force: 10989
+HP: 100
+Coins: 74
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 6
+Force: 11000
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 1
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11000
+HP: 100
+Coins: 55
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 3
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11013
+HP: 100
+Coins: 52
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11026
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11026
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11026
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11026
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11026
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11026
+HP: 100
+Coins: 59
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 18
+Cost: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 7
+Force: 11044
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Battle
+Force: 8833
+Profit (on win): 10
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 8
+Force: 11044
+HP: 100
+Coins: 50
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5428
+Cost: 8
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 8
+Force: 16472
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 16
+Cost: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 8
+Force: 16472
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 8
+Force: 16472
+HP: 100
+Coins: 55
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 8
+Force: 16472
+HP: 100
+Coins: 74
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 9
+Force: 16472
+HP: 100
+Coins: 78
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 9
+Force: 16472
+HP: 100
+Coins: 78
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 16
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 9
+Force: 16472
+HP: 100
+Coins: 94
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 9
+Force: 16483
+HP: 100
+Coins: 74
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 1
+Damage taken (on loss): 6
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: the_82nd_Airborne
+Level: 10
+Force: 16483
+HP: 100
+Coins: 75
+------------------------
+The player has won! :D
