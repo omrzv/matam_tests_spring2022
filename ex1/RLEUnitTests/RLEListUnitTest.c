@@ -513,8 +513,9 @@ bool RLEListExportToStringTest()
     ASSERT_TEST(RLEListRemove(list, 15) == RLE_LIST_SUCCESS, destroy);
     expectedResult = "B2\nb2\n-9\n\n3\n";
     free(actuallResult);
+    printf("expected:\n%s\n",expectedResult);
     actuallResult = RLEListExportToString(list, &exportResult);
-    
+    printf("actual:\n%s\n",actuallResult);
     ASSERT_TEST(exportResult == RLE_LIST_SUCCESS, destroy);
     comparer = actuallResult;
     while (*expectedResult)
