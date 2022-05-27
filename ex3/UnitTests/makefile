@@ -14,8 +14,10 @@ $(EXEC) : $(OBJS)
 	$(GPP) $(COMP_FLAG) $(OBJS) -o $@
 
 $(O_FILES_DIR)/HealthPoints.o : $(HEALTH_PATH)/HealthPoints.h $(HEALTH_PATH)/HealthPoints.cpp 
+	@mkdir -p $(O_FILES_DIR)
 	$(GPP) -c $(COMP_FLAG) $(HEALTH_PATH)/HealthPoints.cpp -o $@
 $(O_FILES_DIR)/UnitTests.o : $(TESTS_DIR)/UnitTestsMain.cpp $(TESTS_INCLUDED_FILES)
+	@mkdir -p $(O_FILES_DIR)
 	$(GPP) -c $(COMP_FLAG) $(TESTS_DIR)/UnitTestsMain.cpp -o $@
 
 .PHONY: clean
