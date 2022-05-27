@@ -4,7 +4,7 @@ TESTS_DIR=FileTests
 O_FILES_DIR=$(TESTS_DIR)/oFiles
 OBJS=$(O_FILES_DIR)/utilities.o $(O_FILES_DIR)/Card.o $(O_FILES_DIR)/Player.o $(O_FILES_DIR)/Mtmchkin.o $(O_FILES_DIR)/fileTester.o
 DEBUG_FLAG= -g# can add -g
-COMP_FLAG=-Wall -Werror -pedantic-errors -I$(TESTS_DIR) -I$(O_FILES_DIR)
+COMP_FLAG=--std=c++11 -Wall -Werror -pedantic-errors -I$(TESTS_DIR) -I$(O_FILES_DIR)
 
 $(EXEC) : $(OBJS)
 	$(GPP) $(COMP_FLAG) $(OBJS) -o $@

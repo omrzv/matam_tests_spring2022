@@ -3,7 +3,7 @@ There are two types of tests: Unit Tests and File Tests.
 
 Unit Tests:
 * Contains cpp file - the test, hpp file and makefile.
-* In order to run them please read the relevant README and use (and update if needed) the relevant. makefile - makefileRLEUnitTests
+* In order to run them please read the relevant README
 
 In/Out tests:
 * Run the tests using FileTests/tester.sh
