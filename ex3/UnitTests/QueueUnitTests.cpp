@@ -71,6 +71,7 @@ public:
             throw std::bad_alloc();
         }
         --allowedAllocs;
+        return *this;
     }
 };
 int ControlledAllocer::allowedAllocs;
