@@ -358,7 +358,7 @@ TEST_CASE("Queue Advanced")
             healthyQ.pushBack(i);
         }
 
-        auto isGreaterThen7 = [](HealthPoints &hp)
+        auto isGreaterThen7 = [](const HealthPoints &hp)
         {
             return hp > 7;
         };
