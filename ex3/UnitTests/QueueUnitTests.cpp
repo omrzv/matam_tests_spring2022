@@ -136,11 +136,9 @@ TEST_CASE("Queue Basics")
 
         Queue<int>::Iterator endIterator = q.end();
         REQUIRE_THROWS_AS(++endIterator, Queue<int>::Iterator::InvalidOperation);
-        REQUIRE_THROWS_AS(endIterator++, Queue<int>::Iterator::InvalidOperation);
 
         Queue<int>::ConstIterator constEndIterator = constPrimesQ.end();
         REQUIRE_THROWS_AS(++constEndIterator, Queue<int>::ConstIterator::InvalidOperation);
-        REQUIRE_THROWS_AS(constEndIterator++, Queue<int>::ConstIterator::InvalidOperation);
 
         REQUIRE_THROWS_AS(q.front(), Queue<int>::EmptyQueue);
         REQUIRE_THROWS_AS(q.popFront(), Queue<int>::EmptyQueue);
