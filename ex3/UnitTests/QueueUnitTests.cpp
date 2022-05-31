@@ -313,8 +313,8 @@ TEST_CASE("Queue Advanced")
         REQUIRE_THROWS_AS(newConstCopyBadAllocerQ(q1), std::bad_alloc);
 
         q1.front().someInteger = 666;
-        Queue<ControlledAllocer> shortQ;
         ControlledAllocer::allowedAllocs = 1000;
+        Queue<ControlledAllocer> shortQ;
         for (int i = 0; i < 5; i++)
         {
             shortQ.pushBack(c);
