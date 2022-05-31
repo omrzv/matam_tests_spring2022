@@ -48,6 +48,7 @@ static void setSixtyNine(int& n)
 class ControlledAllocer{
 public:
     static int allowedAllocs;
+    int someInteger;
 
     ControlledAllocer()
     {
@@ -310,6 +311,29 @@ TEST_CASE("Queue Advanced")
         };
         ControlledAllocer::allowedAllocs = 5;
         REQUIRE_THROWS_AS(newConstCopyBadAllocerQ(q1), std::bad_alloc);
+
+        q1.front().someInteger = 666;
+        Queue<ControlledAllocer> shortQ;
+        ControlledAllocer::allowedAllocs = 1000;
+        for (int i = 0; i < 5; i++)
+        {
+            shortQ.pushBack(c);
+        }
+        
+        shortQ.front().someInteger = -1;
+
+        ControlledAllocer::allowedAllocs = 2;
+        REQUIRE_THROWS_AS(q1 = shortQ, std::bad_alloc); // Use failing assainment operator
+        REQUIRE(q1.size() == 10); // Check that q1 wasn't changes
+        
+        REQUIRE(q1.front().someInteger == 666); // Check that q1 wasn't changes
+
+        int counter = 0;
+        for (ControlledAllocer& data: q1){
+            data.someInteger = 1;
+            ++counter;
+        }
+        REQUIRE(counter == 10); // Check that q1 wasn't changes
     }
     SECTION("Mixed Operations (with HealthPoints")
     {
