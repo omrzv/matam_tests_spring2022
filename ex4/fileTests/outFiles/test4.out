@@ -1,0 +1,2221 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+CopyCat has 10 coins
+You have entered an invalid input. Please try again.
+CopyCat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         5     100   14    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         4     90    10    Wizard  
+4          FigtherA        1         5     90    10    Fighter  
+5          CopyCat         2         5     100   12    Fighter  
+6          CopyCat         1         5     100   5     Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of RougeA's turn: 
+Nothing happened.
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         5     100   14    Rogue  
+2          WizardA         2         5     100   12    Wizard  
+3          WizardB         1         4     100   10    Wizard  
+4          FigtherA        2         5     90    12    Fighter  
+5          CopyCat         2         5     90    12    Fighter  
+6          CopyCat         2         5     100   7     Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of RougeA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+RougeA has 14 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+RougeA has paid 5 coins for 1 health potion!
+Safe travels!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+Start of FigtherA's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         5     100   9     Rogue  
+2          WizardA         2         5     100   12    Wizard  
+3          WizardB         1         4     90    10    Wizard  
+4          FigtherA        2         5     90    12    Fighter  
+5          CopyCat         3         5     90    14    Fighter  
+6          CopyCat         2         5     90    7     Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 12 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+WizardA has paid 0 coins 
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         4     90    9     Rogue  
+2          WizardA         2         5     100   12    Wizard  
+3          WizardB         1         4     100   10    Wizard  
+4          FigtherA        3         5     90    14    Fighter  
+5          CopyCat         3         5     90    14    Fighter  
+6          CopyCat         3         5     90    9     Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of RougeA's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+WizardB has paid 0 coins 
+Safe travels!
+Start of FigtherA's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         4     90    9     Rogue  
+2          WizardA         2         4     90    12    Wizard  
+3          WizardB         1         4     100   10    Wizard  
+4          FigtherA        3         5     90    14    Fighter  
+5          CopyCat         4         5     90    16    Fighter  
+6          CopyCat         3         5     90    9     Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+FigtherA has 14 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+FigtherA has paid 0 coins 
+Safe travels!
+Start of CopyCat's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         3     80    9     Rogue  
+2          WizardA         2         4     80    12    Wizard  
+3          WizardB         1         3     90    10    Wizard  
+4          FigtherA        3         5     90    14    Fighter  
+5          CopyCat         4         5     90    16    Fighter  
+6          CopyCat         4         5     90    11    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of RougeA's turn: 
+Nothing happened.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+CopyCat has 16 coins
+CopyCat has paid 5 coins for 1 health potion!
+Safe travels!
+Start of CopyCat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         3     80    9     Rogue  
+2          WizardA         2         3     70    12    Wizard  
+3          WizardB         1         3     80    10    Wizard  
+4          FigtherA        4         5     90    16    Fighter  
+5          CopyCat         4         5     91    11    Fighter  
+6          CopyCat         4         5     90    11    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Goblin.
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+CopyCat has 11 coins
+CopyCat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         3     70    9     Rogue  
+2          WizardA         2         3     90    12    Wizard  
+3          WizardB         1         2     70    10    Wizard  
+4          FigtherA        4         5     80    16    Fighter  
+5          CopyCat         5         5     91    13    Fighter  
+6          CopyCat         4         5     91    6     Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of RougeA's turn: 
+Nothing happened.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         3     70    9     Rogue  
+2          WizardA         2         3     80    12    Wizard  
+3          WizardB         1         2     90    10    Wizard  
+4          FigtherA        5         5     80    18    Fighter  
+5          CopyCat         5         5     81    13    Fighter  
+6          CopyCat         5         5     91    8     Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of RougeA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+RougeA has 9 coins
+RougeA has paid 0 coins 
+Safe travels!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+Start of FigtherA's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         3     70    9     Rogue  
+2          WizardA         2         3     100   12    Wizard  
+3          WizardB         1         2     80    10    Wizard  
+4          FigtherA        5         5     80    18    Fighter  
+5          CopyCat         6         5     81    15    Fighter  
+6          CopyCat         5         5     81    8     Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 12 coins
+WizardA has paid 5 coins for 1 health potion!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         2     60    9     Rogue  
+2          WizardA         2         3     100   7     Wizard  
+3          WizardB         1         2     100   10    Wizard  
+4          FigtherA        6         5     80    20    Fighter  
+5          CopyCat         6         5     81    15    Fighter  
+6          CopyCat         6         5     81    10    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of RougeA's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 10 coins
+WizardB has paid 10 coins for 1 force boost!
+Safe travels!
+Start of FigtherA's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         2     60    9     Rogue  
+2          WizardA         2         2     90    7     Wizard  
+3          WizardB         1         3     100   0     Wizard  
+4          FigtherA        6         5     80    20    Fighter  
+5          CopyCat         7         5     81    17    Fighter  
+6          CopyCat         6         5     81    10    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+FigtherA has 20 coins
+FigtherA has paid 0 coins 
+Safe travels!
+Start of CopyCat's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         1     50    9     Rogue  
+2          WizardA         2         2     80    7     Wizard  
+3          WizardB         1         2     90    0     Wizard  
+4          FigtherA        6         5     80    20    Fighter  
+5          CopyCat         7         5     81    17    Fighter  
+6          CopyCat         7         5     81    12    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of RougeA's turn: 
+Nothing happened.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+CopyCat has 17 coins
+CopyCat has paid 5 coins for 1 health potion!
+Safe travels!
+Start of CopyCat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         1     50    9     Rogue  
+2          WizardA         2         1     70    7     Wizard  
+3          WizardB         1         2     80    0     Wizard  
+4          FigtherA        7         5     80    22    Fighter  
+5          CopyCat         7         5     82    12    Fighter  
+6          CopyCat         7         5     81    12    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Goblin.
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+CopyCat has 12 coins
+CopyCat has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         1     40    9     Rogue  
+2          WizardA         2         1     90    7     Wizard  
+3          WizardB         1         1     70    0     Wizard  
+4          FigtherA        7         5     70    22    Fighter  
+5          CopyCat         8         5     82    14    Fighter  
+6          CopyCat         7         6     81    2     Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of RougeA's turn: 
+Nothing happened.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         1     40    9     Rogue  
+2          WizardA         2         1     80    7     Wizard  
+3          WizardB         1         1     90    0     Wizard  
+4          FigtherA        8         5     70    24    Fighter  
+5          CopyCat         8         5     72    14    Fighter  
+6          CopyCat         8         6     81    4     Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of RougeA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+RougeA has 9 coins
+RougeA has paid 0 coins 
+Safe travels!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+Start of FigtherA's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         1     40    9     Rogue  
+2          WizardA         2         1     100   7     Wizard  
+3          WizardB         1         1     80    0     Wizard  
+4          FigtherA        8         5     70    24    Fighter  
+5          CopyCat         9         5     72    16    Fighter  
+6          CopyCat         8         6     71    4     Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 7 coins
+WizardA has paid 5 coins for 1 health potion!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         0     30    9     Rogue  
+2          WizardA         2         1     100   2     Wizard  
+3          WizardB         1         1     100   0     Wizard  
+4          FigtherA        9         5     70    26    Fighter  
+5          CopyCat         9         5     72    16    Fighter  
+6          CopyCat         9         6     71    6     Fighter  
+
+-------------------------------------------
+Start of round 19:
+
+Start of RougeA's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 force boost!
+Safe travels!
+Start of FigtherA's turn: 
+Nothing happened.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          RougeA          2         0     30    9     Rogue  
+3          WizardA         2         0     90    2     Wizard  
+4          WizardB         1         1     100   0     Wizard  
+5          FigtherA        9         5     70    26    Fighter  
+6          CopyCat         9         6     71    6     Fighter  
+
+-------------------------------------------
+Start of round 20:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+FigtherA has 26 coins
+FigtherA has paid 0 coins 
+Safe travels!
+Start of CopyCat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          RougeA          2         0     20    9     Rogue  
+3          WizardA         2         0     80    2     Wizard  
+4          WizardB         1         0     90    0     Wizard  
+5          FigtherA        9         5     70    26    Fighter  
+6          CopyCat         9         6     71    6     Fighter  
+
+-------------------------------------------
+Start of round 21:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Goblin.
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          RougeA          2         0     10    9     Rogue  
+4          WizardA         2         0     100   2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          FigtherA        9         5     60    26    Fighter  
+
+-------------------------------------------
+Start of round 22:
+
+Start of RougeA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+RougeA has 9 coins
+RougeA has paid 5 coins for 1 health potion!
+Safe travels!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+Start of FigtherA's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          RougeA          2         0     11    4     Rogue  
+4          WizardA         2         0     100   2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          FigtherA        9         5     60    26    Fighter  
+
+-------------------------------------------
+Start of round 23:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+FigtherA has 26 coins
+FigtherA has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          RougeA          2         0     1     4     Rogue  
+4          WizardA         2         0     90    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          FigtherA        9         6     60    16    Fighter  
+
+-------------------------------------------
+Start of round 24:
+
+Start of RougeA's turn: 
+Nothing happened.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          RougeA          2         0     1     4     Rogue  
+5          WizardA         2         0     80    2     Wizard  
+6          WizardB         1         0     80    0     Wizard  
+
+-------------------------------------------
+Start of round 25:
+
+Start of RougeA's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+WizardB has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          RougeA          2         0     1     4     Rogue  
+5          WizardA         2         0     70    2     Wizard  
+6          WizardB         1         0     80    0     Wizard  
+
+-------------------------------------------
+Start of round 26:
+
+Start of RougeA's turn: 
+Nothing happened.
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          RougeA          2         0     1     4     Rogue  
+5          WizardA         2         0     60    2     Wizard  
+6          WizardB         1         0     100   0     Wizard  
+
+-------------------------------------------
+Start of round 27:
+
+Start of RougeA's turn: 
+Player RougeA has been defeated by a Vampire.
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 28:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+You dont have enough coins for this purchase. Please try again.
+WizardA has paid 0 coins for 1 health potion!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 29:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 30:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 31:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 32:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 33:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 34:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 35:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+WizardA has paid 0 coins 
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 36:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 37:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 38:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 39:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 40:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 41:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 42:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+You dont have enough coins for this purchase. Please try again.
+WizardA has paid 0 coins for 1 force boost!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 43:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 44:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 45:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+WizardB has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 46:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 47:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 48:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 49:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+You dont have enough coins for this purchase. Please try again.
+WizardA has paid 0 coins for 1 health potion!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 50:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 51:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 52:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 53:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 54:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 55:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 56:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+WizardA has paid 0 coins 
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 57:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 58:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 59:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 60:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 61:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 62:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 63:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+You dont have enough coins for this purchase. Please try again.
+WizardA has paid 0 coins for 1 force boost!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 64:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 65:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 66:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+WizardB has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 67:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 68:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 69:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 70:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+You dont have enough coins for this purchase. Please try again.
+WizardA has paid 0 coins for 1 health potion!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 71:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 72:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 73:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 74:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 75:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 76:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 77:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+WizardA has paid 0 coins 
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 78:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 79:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 80:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 81:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 82:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 83:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 84:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+You dont have enough coins for this purchase. Please try again.
+WizardA has paid 0 coins for 1 force boost!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 85:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 86:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 87:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+WizardB has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 88:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 89:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 90:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 91:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+You dont have enough coins for this purchase. Please try again.
+WizardA has paid 0 coins for 1 health potion!
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 92:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 93:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 94:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardB has 0 coins
+You dont have enough coins for this purchase. Please try again.
+WizardB has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     20    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 95:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 96:
+
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     60    2     Wizard  
+5          WizardB         1         0     70    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 97:
+
+Start of WizardA's turn: 
+You fell into the trap, lose 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     60    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 98:
+
+Start of WizardA's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+WizardA has 2 coins
+WizardA has paid 0 coins 
+Safe travels!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     50    2     Wizard  
+5          WizardB         1         0     80    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 99:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Goblin.
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     40    2     Wizard  
+5          WizardB         1         0     100   0     Wizard  
+6          RougeA          2         0     0     4     Rogue  
+
+-------------------------------------------
+Start of round 100:
+
+Start of WizardA's turn: 
+Player WizardA has been defeated by a Vampire.
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          CopyCat         10        5     72    18    Fighter  
+2          CopyCat         10        6     71    8     Fighter  
+3          FigtherA        10        6     60    18    Fighter  
+4          WizardA         2         0     30    2     Wizard  
+5          WizardB         1         0     90    0     Wizard  
+6          RougeA          2         0     0     4     Rogue  

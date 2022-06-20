@@ -48,6 +48,7 @@ static void setSixtyNine(int& n)
 class ControlledAllocer{
 public:
     static int allowedAllocs;
+    int someInteger;
 
     ControlledAllocer()
     {
@@ -136,11 +137,9 @@ TEST_CASE("Queue Basics")
 
         Queue<int>::Iterator endIterator = q.end();
         REQUIRE_THROWS_AS(++endIterator, Queue<int>::Iterator::InvalidOperation);
-        REQUIRE_THROWS_AS(endIterator++, Queue<int>::Iterator::InvalidOperation);
 
         Queue<int>::ConstIterator constEndIterator = constPrimesQ.end();
         REQUIRE_THROWS_AS(++constEndIterator, Queue<int>::ConstIterator::InvalidOperation);
-        REQUIRE_THROWS_AS(constEndIterator++, Queue<int>::ConstIterator::InvalidOperation);
 
         REQUIRE_THROWS_AS(q.front(), Queue<int>::EmptyQueue);
         REQUIRE_THROWS_AS(q.popFront(), Queue<int>::EmptyQueue);
@@ -312,6 +311,29 @@ TEST_CASE("Queue Advanced")
         };
         ControlledAllocer::allowedAllocs = 5;
         REQUIRE_THROWS_AS(newConstCopyBadAllocerQ(q1), std::bad_alloc);
+
+        q1.front().someInteger = 666;
+        ControlledAllocer::allowedAllocs = 1000;
+        Queue<ControlledAllocer> shortQ;
+        for (int i = 0; i < 5; i++)
+        {
+            shortQ.pushBack(c);
+        }
+        
+        shortQ.front().someInteger = -1;
+
+        ControlledAllocer::allowedAllocs = 2;
+        REQUIRE_THROWS_AS(q1 = shortQ, std::bad_alloc); // Use failing assainment operator
+        REQUIRE(q1.size() == 10); // Check that q1 wasn't changes
+        
+        REQUIRE(q1.front().someInteger == 666); // Check that q1 wasn't changes
+
+        int counter = 0;
+        for (ControlledAllocer& data: q1){
+            data.someInteger = 1;
+            ++counter;
+        }
+        REQUIRE(counter == 10); // Check that q1 wasn't changes
     }
     SECTION("Mixed Operations (with HealthPoints")
     {
@@ -358,7 +380,7 @@ TEST_CASE("Queue Advanced")
             healthyQ.pushBack(i);
         }
 
-        auto isGreaterThen7 = [](HealthPoints &hp)
+        auto isGreaterThen7 = [](const HealthPoints &hp)
         {
             return hp > 7;
         };

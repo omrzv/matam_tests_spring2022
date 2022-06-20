@@ -1,0 +1,184 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   12    Fighter  
+2          Amirmann        2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   22    Fighter  
+2          Amirmann        2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     100   24    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     100   34    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     100   44    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     90    44    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        4         5     90    46    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Amirmann's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        4         5     90    46    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        4         5     80    46    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        4         5     70    46    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        4         5     70    56    Fighter  
+2          Amirmann        2         5     0     12    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        4         5     0     56    Fighter  
+2          Amirmann        2         5     0     12    Fighter  

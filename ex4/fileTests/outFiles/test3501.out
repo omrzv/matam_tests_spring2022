@@ -1,0 +1,220 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 10 coins
+Amirmann has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   14    Rogue  
+2          Amirmann        1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Amirmann's turn: 
+Nothing happened.
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   14    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Amirmann's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   14    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     100   18    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     100   38    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 38 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Amirmann has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         6     100   28    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Amirmann's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         6     100   28    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         6     90    28    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 28 coins
+You have entered an invalid input. Please try again.
+Amirmann has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         6     91    23    Rogue  
+2          Amirmann        1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         6     0     23    Rogue  
+2          Amirmann        1         5     0     10    Wizard  

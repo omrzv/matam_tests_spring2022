@@ -1,0 +1,795 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     100   10    Rogue  
+2          Efrat           1         5     100   30    Rogue  
+3          GalLalush       1         5     100   10    Fighter  
+4          GalLalush       1         5     100   10    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 10 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     90    10    Rogue  
+2          Efrat           1         5     100   30    Rogue  
+3          GalLalush       1         5     100   10    Fighter  
+4          GalLalush       1         6     100   0     Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     80    10    Rogue  
+2          Efrat           2         5     100   34    Rogue  
+3          GalLalush       2         5     100   12    Fighter  
+4          GalLalush       2         6     100   2     Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     80    10    Rogue  
+2          Efrat           2         5     90    34    Rogue  
+3          GalLalush       2         5     90    12    Fighter  
+4          GalLalush       2         6     100   12    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     80    10    Rogue  
+2          Efrat           2         5     90    34    Rogue  
+3          GalLalush       3         5     90    14    Fighter  
+4          GalLalush       2         6     100   12    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 34 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     70    10    Rogue  
+2          Efrat           2         5     90    34    Rogue  
+3          GalLalush       4         5     90    16    Fighter  
+4          GalLalush       3         6     100   14    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+Start of GalLalush's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         3     60    10    Rogue  
+2          Efrat           2         4     80    34    Rogue  
+3          GalLalush       4         5     90    16    Fighter  
+4          GalLalush       3         6     100   14    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         3     60    10    Rogue  
+2          Efrat           2         4     80    54    Rogue  
+3          GalLalush       4         5     90    16    Fighter  
+4          GalLalush       3         6     100   14    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 14 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     50    10    Rogue  
+2          Efrat           2         4     80    54    Rogue  
+3          GalLalush       4         5     90    16    Fighter  
+4          GalLalush       3         6     100   9     Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     40    10    Rogue  
+2          Efrat           3         4     80    58    Rogue  
+3          GalLalush       5         5     90    18    Fighter  
+4          GalLalush       4         6     100   11    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     40    10    Rogue  
+2          Efrat           3         4     70    58    Rogue  
+3          GalLalush       5         5     80    18    Fighter  
+4          GalLalush       4         6     100   21    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     40    10    Rogue  
+2          Efrat           3         4     70    58    Rogue  
+3          GalLalush       6         5     80    20    Fighter  
+4          GalLalush       4         6     100   21    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 58 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     30    10    Rogue  
+2          Efrat           3         4     71    53    Rogue  
+3          GalLalush       7         5     80    22    Fighter  
+4          GalLalush       5         6     100   23    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+Start of GalLalush's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         1     20    10    Rogue  
+2          Efrat           3         3     61    53    Rogue  
+3          GalLalush       7         5     80    22    Fighter  
+4          GalLalush       5         6     100   23    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         1     20    10    Rogue  
+2          Efrat           3         3     61    73    Rogue  
+3          GalLalush       7         5     80    22    Fighter  
+4          GalLalush       5         6     100   23    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 23 coins
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         0     10    10    Rogue  
+2          Efrat           3         3     61    73    Rogue  
+3          GalLalush       7         5     80    22    Fighter  
+4          GalLalush       5         7     100   13    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           4         3     61    77    Rogue  
+2          GalLalush       8         5     80    24    Fighter  
+3          GalLalush       6         7     100   15    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           4         3     61    77    Rogue  
+2          GalLalush       8         5     80    24    Fighter  
+3          GalLalush       6         7     90    15    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           4         3     61    97    Rogue  
+2          GalLalush       8         5     80    24    Fighter  
+3          GalLalush       6         7     90    15    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+Start of GalLalush's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           4         2     51    97    Rogue  
+2          GalLalush       8         5     80    24    Fighter  
+3          GalLalush       6         7     90    15    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 97 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Efrat has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           4         3     51    87    Rogue  
+2          GalLalush       9         5     80    26    Fighter  
+3          GalLalush       7         7     90    17    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 22:
+
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          Efrat           4         2     41    87    Rogue  
+3          GalLalush       7         7     90    17    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 23:
+
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          Efrat           4         2     31    87    Rogue  
+3          GalLalush       7         7     80    17    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 24:
+
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          Efrat           4         2     31    107   Rogue  
+3          GalLalush       7         7     80    17    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 25:
+
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          Efrat           4         2     31    107   Rogue  
+3          GalLalush       8         7     80    19    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 26:
+
+Start of Efrat's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          Efrat           4         2     31    107   Rogue  
+3          GalLalush       8         7     80    19    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 27:
+
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 107 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          Efrat           4         2     32    102   Rogue  
+3          GalLalush       9         7     80    21    Fighter  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 28:
+
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         2     32    106   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 29:
+
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         1     22    106   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 30:
+
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         1     22    106   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 31:
+
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         1     12    106   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 32:
+
+Start of Efrat's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         1     12    106   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 33:
+
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         1     12    126   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 34:
+
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         1     12    126   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 35:
+
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         1     12    126   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 36:
+
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         0     2     126   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 37:
+
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         0     2     126   Rogue  
+4          TomerM          1         0     0     10    Rogue  
+
+-------------------------------------------
+Start of round 38:
+
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        5     80    28    Fighter  
+2          GalLalush       10        7     80    23    Fighter  
+3          Efrat           5         0     0     126   Rogue  
+4          TomerM          1         0     0     10    Rogue  

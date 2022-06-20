@@ -1,0 +1,1898 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 10 coins
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       1         5     100   10    Fighter  
+2          Omerz           1         5     100   10    Rogue  
+3          TomerM          1         5     90    10    Wizard  
+4          Daniel          1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 10 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         5     100   12    Fighter  
+2          Omerz           1         6     100   0     Rogue  
+3          TomerM          1         5     100   10    Wizard  
+4          Daniel          1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         5     90    12    Fighter  
+2          Omerz           1         6     90    0     Rogue  
+3          TomerM          1         5     100   5     Wizard  
+4          Daniel          2         5     100   12    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 12 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    2     Fighter  
+2          Omerz           1         6     90    0     Rogue  
+3          TomerM          1         5     100   5     Wizard  
+4          Daniel          2         5     90    12    Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 0 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 12 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    2     Fighter  
+2          Omerz           1         6     90    0     Rogue  
+3          TomerM          2         5     100   7     Wizard  
+4          Daniel          2         5     92    7     Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    2     Fighter  
+2          Omerz           1         6     90    0     Rogue  
+3          TomerM          2         5     90    7     Wizard  
+4          Daniel          2         5     82    7     Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 2 coins
+GalLalush has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 7 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    2     Fighter  
+2          Omerz           2         6     90    4     Rogue  
+3          TomerM          2         5     92    2     Wizard  
+4          Daniel          2         5     100   7     Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 7 coins
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    2     Fighter  
+2          Omerz           2         6     90    4     Rogue  
+3          TomerM          2         5     82    2     Wizard  
+4          Daniel          2         5     100   7     Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 4 coins
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         6     90    4     Fighter  
+2          Omerz           2         6     90    4     Rogue  
+3          TomerM          2         5     100   2     Wizard  
+4          Daniel          2         5     100   7     Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 2 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         6     80    4     Fighter  
+2          Omerz           2         6     80    4     Rogue  
+3          TomerM          2         5     100   2     Wizard  
+4          Daniel          3         5     100   9     Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 4 coins
+GalLalush has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         6     80    4     Fighter  
+2          Omerz           2         6     80    4     Rogue  
+3          TomerM          2         5     100   2     Wizard  
+4          Daniel          3         5     90    9     Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 4 coins
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 9 coins
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         6     80    4     Fighter  
+2          Omerz           2         6     80    4     Rogue  
+3          TomerM          3         5     100   4     Wizard  
+4          Daniel          3         5     92    4     Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         6     80    4     Fighter  
+2          Omerz           2         6     80    4     Rogue  
+3          TomerM          3         5     90    4     Wizard  
+4          Daniel          3         5     82    4     Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 4 coins
+You dont have enough coins for this purchase. Please try again.
+GalLalush has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 4 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         6     80    4     Fighter  
+2          Omerz           3         6     80    8     Rogue  
+3          TomerM          3         5     90    4     Wizard  
+4          Daniel          3         5     100   4     Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 4 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         6     80    4     Fighter  
+2          Omerz           3         6     80    8     Rogue  
+3          TomerM          3         5     80    4     Wizard  
+4          Daniel          3         5     100   4     Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 8 coins
+Omerz has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       4         6     80    6     Fighter  
+2          Omerz           3         6     81    3     Rogue  
+3          TomerM          3         5     100   4     Wizard  
+4          Daniel          3         5     100   4     Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 4 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       4         6     70    6     Fighter  
+2          Omerz           3         6     71    3     Rogue  
+3          TomerM          3         5     100   4     Wizard  
+4          Daniel          4         5     100   6     Wizard  
+
+-------------------------------------------
+Start of round 18:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 6 coins
+GalLalush has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       4         6     70    6     Fighter  
+2          Omerz           3         6     71    3     Rogue  
+3          TomerM          3         5     100   4     Wizard  
+4          Daniel          4         5     90    6     Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 3 coins
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       4         6     70    6     Fighter  
+2          Omerz           3         6     71    3     Rogue  
+3          TomerM          4         5     100   6     Wizard  
+4          Daniel          4         5     90    6     Wizard  
+
+-------------------------------------------
+Start of round 20:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       4         6     70    6     Fighter  
+2          Omerz           3         6     71    3     Rogue  
+3          TomerM          4         5     90    6     Wizard  
+4          Daniel          4         5     80    6     Wizard  
+
+-------------------------------------------
+Start of round 21:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       4         6     71    1     Fighter  
+2          Omerz           4         6     71    7     Rogue  
+3          TomerM          4         5     90    6     Wizard  
+4          Daniel          4         5     100   6     Wizard  
+
+-------------------------------------------
+Start of round 22:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       4         6     71    1     Fighter  
+2          Omerz           4         6     71    7     Rogue  
+3          TomerM          4         5     80    6     Wizard  
+4          Daniel          4         5     100   6     Wizard  
+
+-------------------------------------------
+Start of round 23:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 7 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 0 coins 
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       5         6     71    3     Fighter  
+2          Omerz           4         6     71    7     Rogue  
+3          TomerM          4         5     100   6     Wizard  
+4          Daniel          4         5     100   6     Wizard  
+
+-------------------------------------------
+Start of round 24:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 6 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       5         6     61    3     Fighter  
+2          Omerz           4         6     61    7     Rogue  
+3          TomerM          4         5     100   1     Wizard  
+4          Daniel          5         5     100   8     Wizard  
+
+-------------------------------------------
+Start of round 25:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 3 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       5         6     61    3     Fighter  
+2          Omerz           4         6     61    7     Rogue  
+3          TomerM          4         5     100   1     Wizard  
+4          Daniel          5         5     90    8     Wizard  
+
+-------------------------------------------
+Start of round 26:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 7 coins
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 8 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       5         6     61    3     Fighter  
+2          Omerz           4         6     61    7     Rogue  
+3          TomerM          5         5     100   3     Wizard  
+4          Daniel          5         5     90    8     Wizard  
+
+-------------------------------------------
+Start of round 27:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       5         6     61    3     Fighter  
+2          Omerz           4         6     61    7     Rogue  
+3          TomerM          5         5     90    3     Wizard  
+4          Daniel          5         5     80    8     Wizard  
+
+-------------------------------------------
+Start of round 28:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 3 coins
+You dont have enough coins for this purchase. Please try again.
+GalLalush has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 3 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       5         6     61    3     Fighter  
+2          Omerz           5         6     61    11    Rogue  
+3          TomerM          5         5     90    3     Wizard  
+4          Daniel          5         5     100   8     Wizard  
+
+-------------------------------------------
+Start of round 29:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 8 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       5         6     61    3     Fighter  
+2          Omerz           5         6     61    11    Rogue  
+3          TomerM          5         5     80    3     Wizard  
+4          Daniel          5         5     100   8     Wizard  
+
+-------------------------------------------
+Start of round 30:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 11 coins
+Omerz has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       6         6     61    5     Fighter  
+2          Omerz           5         6     62    6     Rogue  
+3          TomerM          5         5     100   3     Wizard  
+4          Daniel          5         5     100   8     Wizard  
+
+-------------------------------------------
+Start of round 31:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 3 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       6         6     51    5     Fighter  
+2          Omerz           5         6     52    6     Rogue  
+3          TomerM          5         5     100   3     Wizard  
+4          Daniel          6         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 32:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 5 coins
+GalLalush has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       6         6     51    5     Fighter  
+2          Omerz           5         6     52    6     Rogue  
+3          TomerM          5         5     100   3     Wizard  
+4          Daniel          6         5     90    10    Wizard  
+
+-------------------------------------------
+Start of round 33:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 6 coins
+You have entered an invalid input. Please try again.
+Omerz has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 10 coins
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       6         6     51    5     Fighter  
+2          Omerz           5         6     53    1     Rogue  
+3          TomerM          6         5     100   5     Wizard  
+4          Daniel          6         5     90    10    Wizard  
+
+-------------------------------------------
+Start of round 34:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       6         6     51    5     Fighter  
+2          Omerz           5         6     53    1     Rogue  
+3          TomerM          6         5     90    5     Wizard  
+4          Daniel          6         5     80    10    Wizard  
+
+-------------------------------------------
+Start of round 35:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 5 coins
+GalLalush has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 5 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       6         6     51    5     Fighter  
+2          Omerz           6         6     53    5     Rogue  
+3          TomerM          6         5     90    5     Wizard  
+4          Daniel          6         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 36:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       6         6     51    5     Fighter  
+2          Omerz           6         6     53    5     Rogue  
+3          TomerM          6         5     80    5     Wizard  
+4          Daniel          6         5     100   5     Wizard  
+
+-------------------------------------------
+Start of round 37:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 5 coins
+Omerz has paid 0 coins 
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       7         6     51    7     Fighter  
+2          Omerz           6         6     53    5     Rogue  
+3          TomerM          6         5     100   5     Wizard  
+4          Daniel          6         5     100   5     Wizard  
+
+-------------------------------------------
+Start of round 38:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 5 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       7         6     41    7     Fighter  
+2          Omerz           6         6     43    5     Rogue  
+3          TomerM          6         5     100   5     Wizard  
+4          Daniel          7         5     100   7     Wizard  
+
+-------------------------------------------
+Start of round 39:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 7 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       7         6     42    2     Fighter  
+2          Omerz           6         6     43    5     Rogue  
+3          TomerM          6         5     100   5     Wizard  
+4          Daniel          7         5     90    7     Wizard  
+
+-------------------------------------------
+Start of round 40:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 5 coins
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 7 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       7         6     42    2     Fighter  
+2          Omerz           6         6     43    5     Rogue  
+3          TomerM          7         5     100   7     Wizard  
+4          Daniel          7         5     90    7     Wizard  
+
+-------------------------------------------
+Start of round 41:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       7         6     42    2     Fighter  
+2          Omerz           6         6     43    5     Rogue  
+3          TomerM          7         5     90    7     Wizard  
+4          Daniel          7         5     80    7     Wizard  
+
+-------------------------------------------
+Start of round 42:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 2 coins
+You dont have enough coins for this purchase. Please try again.
+GalLalush has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 7 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       7         6     42    2     Fighter  
+2          Omerz           7         6     43    9     Rogue  
+3          TomerM          7         5     90    7     Wizard  
+4          Daniel          7         5     100   7     Wizard  
+
+-------------------------------------------
+Start of round 43:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 7 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       7         6     42    2     Fighter  
+2          Omerz           7         6     43    9     Rogue  
+3          TomerM          7         5     80    7     Wizard  
+4          Daniel          7         5     100   2     Wizard  
+
+-------------------------------------------
+Start of round 44:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 9 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       8         6     42    4     Fighter  
+2          Omerz           7         6     44    4     Rogue  
+3          TomerM          7         5     100   7     Wizard  
+4          Daniel          7         5     100   2     Wizard  
+
+-------------------------------------------
+Start of round 45:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 7 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       8         6     32    4     Fighter  
+2          Omerz           7         6     34    4     Rogue  
+3          TomerM          7         5     100   7     Wizard  
+4          Daniel          8         5     100   4     Wizard  
+
+-------------------------------------------
+Start of round 46:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 4 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+GalLalush has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       8         6     32    4     Fighter  
+2          Omerz           7         6     34    4     Rogue  
+3          TomerM          7         5     100   7     Wizard  
+4          Daniel          8         5     90    4     Wizard  
+
+-------------------------------------------
+Start of round 47:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 4 coins
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 4 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       8         6     32    4     Fighter  
+2          Omerz           7         6     34    4     Rogue  
+3          TomerM          8         5     100   9     Wizard  
+4          Daniel          8         5     90    4     Wizard  
+
+-------------------------------------------
+Start of round 48:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       8         6     32    4     Fighter  
+2          Omerz           7         6     34    4     Rogue  
+3          TomerM          8         5     90    9     Wizard  
+4          Daniel          8         5     80    4     Wizard  
+
+-------------------------------------------
+Start of round 49:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 4 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+GalLalush has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 9 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       8         6     32    4     Fighter  
+2          Omerz           8         6     34    8     Rogue  
+3          TomerM          8         5     92    4     Wizard  
+4          Daniel          8         5     100   4     Wizard  
+
+-------------------------------------------
+Start of round 50:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 4 coins
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       8         6     32    4     Fighter  
+2          Omerz           8         6     34    8     Rogue  
+3          TomerM          8         5     82    4     Wizard  
+4          Daniel          8         5     100   4     Wizard  
+
+-------------------------------------------
+Start of round 51:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 8 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Omerz has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       9         6     32    6     Fighter  
+2          Omerz           8         6     34    8     Rogue  
+3          TomerM          8         5     100   4     Wizard  
+4          Daniel          8         5     100   4     Wizard  
+
+-------------------------------------------
+Start of round 52:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 4 coins
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       9         6     22    6     Fighter  
+2          Omerz           8         6     24    8     Rogue  
+3          TomerM          8         5     100   4     Wizard  
+4          Daniel          9         5     100   6     Wizard  
+
+-------------------------------------------
+Start of round 53:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+GalLalush has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       9         6     22    6     Fighter  
+2          Omerz           8         6     24    8     Rogue  
+3          TomerM          8         5     100   4     Wizard  
+4          Daniel          9         5     90    6     Wizard  
+
+-------------------------------------------
+Start of round 54:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 8 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 0 coins 
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 6 coins
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       9         6     22    6     Fighter  
+2          Omerz           8         6     24    8     Rogue  
+3          TomerM          9         5     100   6     Wizard  
+4          Daniel          9         5     92    1     Wizard  
+
+-------------------------------------------
+Start of round 55:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       9         6     22    6     Fighter  
+2          Omerz           8         6     24    8     Rogue  
+3          TomerM          9         5     90    6     Wizard  
+4          Daniel          9         5     82    1     Wizard  
+
+-------------------------------------------
+Start of round 56:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       9         6     22    6     Fighter  
+2          Omerz           9         6     24    12    Rogue  
+3          TomerM          9         5     92    1     Wizard  
+4          Daniel          9         5     100   1     Wizard  
+
+-------------------------------------------
+Start of round 57:
+
+Start of GalLalush's turn: 
+Nothing happened.
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 1 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       9         6     22    6     Fighter  
+2          Omerz           9         6     24    12    Rogue  
+3          TomerM          9         5     82    1     Wizard  
+4          Daniel          9         5     100   1     Wizard  
+
+-------------------------------------------
+Start of round 58:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 12 coins
+You have entered an invalid input. Please try again.
+Omerz has paid 10 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           9         7     24    2     Rogue  
+3          TomerM          9         5     100   1     Wizard  
+4          Daniel          9         5     100   1     Wizard  
+
+-------------------------------------------
+Start of round 59:
+
+Start of Omerz's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 1 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           9         7     24    2     Rogue  
+3          TomerM          9         5     90    1     Wizard  
+4          Daniel          9         5     100   1     Wizard  
+
+-------------------------------------------
+Start of round 60:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 1 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          9         5     90    1     Wizard  
+4          Daniel          9         5     100   1     Wizard  
+
+-------------------------------------------
+Start of round 61:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          9         5     100   1     Wizard  
+4          Daniel          9         5     90    1     Wizard  
+
+-------------------------------------------
+Start of round 62:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 1 coins
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          9         5     90    1     Wizard  
+4          Daniel          9         5     90    1     Wizard  
+
+-------------------------------------------
+Start of round 63:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 1 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          10        5     90    3     Wizard  
+4          Daniel          9         5     90    1     Wizard  
+
+-------------------------------------------
+Start of round 64:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          10        5     90    3     Wizard  
+4          Daniel          9         5     100   1     Wizard  
+
+-------------------------------------------
+Start of round 65:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          10        5     90    3     Wizard  
+4          Daniel          9         5     100   1     Wizard  
+
+-------------------------------------------
+Start of round 66:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          10        5     90    3     Wizard  
+4          Daniel          9         5     90    1     Wizard  
+
+-------------------------------------------
+Start of round 67:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          10        5     90    3     Wizard  
+4          Daniel          9         5     80    1     Wizard  
+
+-------------------------------------------
+Start of round 68:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 1 coins
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          10        5     90    3     Wizard  
+4          Daniel          9         5     80    1     Wizard  
+
+-------------------------------------------
+Start of round 69:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        6     22    8     Fighter  
+2          Omerz           10        7     24    6     Rogue  
+3          TomerM          10        5     90    3     Wizard  
+4          Daniel          10        5     80    3     Wizard  

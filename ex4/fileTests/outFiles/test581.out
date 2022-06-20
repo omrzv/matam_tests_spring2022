@@ -1,0 +1,429 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 10 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     100   10    Wizard  
+2          Efrat           1         5     100   10    Rogue  
+
+-------------------------------------------
+Start of round 2:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     90    10    Wizard  
+2          Efrat           1         4     90    10    Rogue  
+
+-------------------------------------------
+Start of round 3:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     90    0     Wizard  
+2          Efrat           1         3     80    10    Rogue  
+
+-------------------------------------------
+Start of round 4:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     100   0     Wizard  
+2          Efrat           1         3     70    10    Rogue  
+
+-------------------------------------------
+Start of round 5:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     100   0     Wizard  
+2          Efrat           1         3     70    10    Rogue  
+
+-------------------------------------------
+Start of round 6:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     90    0     Wizard  
+2          Efrat           1         3     70    30    Rogue  
+
+-------------------------------------------
+Start of round 7:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     100   0     Wizard  
+2          Efrat           1         2     60    30    Rogue  
+
+-------------------------------------------
+Start of round 8:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 9:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 10:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     90    12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 11:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 12:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 12 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 13:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     90    12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     80    12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 12 coins
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     80    2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     70    2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     90    2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 18:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     80    2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 19:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 2 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     80    2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 20:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     100   2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 21:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     90    2     Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 22:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     90    12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 23:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     100   12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 24:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         4     90    12    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 25:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         4     90    14    Wizard  
+2          Efrat           1         2     0     30    Rogue  
+
+-------------------------------------------
+Start of round 26:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         4     0     14    Wizard  
+2          Efrat           1         2     0     30    Rogue  

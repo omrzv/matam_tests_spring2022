@@ -1,0 +1,330 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     90    10    Fighter  
+2          Efrat           1         5     100   10    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     90    12    Fighter  
+2          Efrat           2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     80    12    Fighter  
+2          Efrat           2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     80    14    Fighter  
+2          Efrat           3         5     100   14    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     70    14    Fighter  
+2          Efrat           3         5     100   14    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     70    16    Fighter  
+2          Efrat           4         5     100   16    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     60    16    Fighter  
+2          Efrat           4         5     100   16    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     60    18    Fighter  
+2          Efrat           5         5     100   18    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     50    18    Fighter  
+2          Efrat           5         5     100   18    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         5     50    20    Fighter  
+2          Efrat           6         5     100   20    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         5     40    20    Fighter  
+2          Efrat           6         5     100   20    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          7         5     40    22    Fighter  
+2          Efrat           7         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          7         5     30    22    Fighter  
+2          Efrat           7         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         5     30    24    Fighter  
+2          Efrat           8         5     100   24    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         5     20    24    Fighter  
+2          Efrat           8         5     100   24    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     20    26    Fighter  
+2          Efrat           9         5     100   26    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     10    26    Fighter  
+2          Efrat           9         5     100   26    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     10    28    Fighter  
+2          Efrat           10        5     100   28    Fighter  

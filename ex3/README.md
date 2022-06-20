@@ -4,14 +4,22 @@ There is only UnitTests for this exersize.
 ## Unit Tests:
 * **make -f UnitTests/makefile && ./UnitTester && valgrind --leak-check=full ./UnitTester**
 * Expect the architecture below. if yours differs, change the files marked *MIGHT NEED CHANGES*
-    ./ *terminal / cmd / wsl here*
-    ├── UnitTests/
-    |   ├── makefile   
-    |   └── ...
-    ├── HealthPoints.cpp
-    ├── HealthPoints.h
-    ├── Queue.h
-    └── ...
+    ./ *terminal / cmd / wsl here* 
+    
+    ├── UnitTests/ 
+    
+    |   ├── makefile    
+    
+    |   └── ... 
+    
+    ├── HealthPoints.cpp 
+    
+    ├── HealthPoints.h 
+    
+    ├── Queue.h 
+    
+    └── ... 
+    
 * Contains the following files:
     * makefile - To make the tests. *MIGHT NEED CHANGES*
     * UnitTestsMain.cpp - The main program (only includes)

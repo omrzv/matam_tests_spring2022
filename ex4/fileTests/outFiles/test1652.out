@@ -1,0 +1,376 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     90    10    Wizard  
+2          Omerz           2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 12 coins
+You have entered an invalid input. Please try again.
+Omerz has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     90    12    Wizard  
+2          Omerz           2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     90    14    Wizard  
+2          Omerz           2         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     80    14    Wizard  
+2          Omerz           2         5     90    22    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     80    16    Wizard  
+2          Omerz           3         5     90    24    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Omerz's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     80    26    Wizard  
+2          Omerz           3         5     90    24    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Omerz's turn: 
+Player Omerz has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     100   26    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     100   26    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 26 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     100   21    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         4     90    21    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         4     80    21    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 21 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         4     80    21    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         4     70    21    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         3     60    21    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         3     60    23    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 23 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         4     60    13    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         4     60    15    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         4     60    25    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         4     50    25    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         4     40    25    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          7         4     40    27    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 22:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         4     40    29    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 23:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         4     40    39    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 24:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         4     30    39    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 25:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         4     50    39    Wizard  
+2          Omerz           3         5     0     24    Fighter  
+
+-------------------------------------------
+Start of round 26:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         4     0     39    Wizard  
+2          Omerz           3         5     0     24    Fighter  

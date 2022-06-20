@@ -1,0 +1,374 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           1         5     90    10    Fighter  
+2          Daniel          1         5     90    10    Fighter  
+3          GalLalush       1         5     100   20    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           1         5     80    10    Fighter  
+2          Daniel          1         5     90    10    Fighter  
+3          GalLalush       2         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Omerz's turn: 
+Player Omerz has been defeated by a Dragon.
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 22 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     90    10    Fighter  
+2          GalLalush       2         6     100   12    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Dragon.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    12    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     80    12    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     80    12    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     80    22    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     80    32    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     80    32    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 32 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     81    27    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 27 coins
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     82    22    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     82    32    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     82    42    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     82    52    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     82    52    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 52 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         7     82    42    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         7     82    42    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         7     0     42    Fighter  
+2          Daniel          1         5     0     10    Fighter  
+3          Omerz           1         5     0     10    Fighter  

@@ -1,0 +1,462 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Vampire.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Vampire.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       1         4     90    10    Wizard  
+2          TomerM          1         5     90    10    Rogue  
+3          GalLalush       1         4     90    10    Rogue  
+4          GalLalush       1         5     90    10    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of GalLalush's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       1         4     100   10    Wizard  
+2          TomerM          1         5     80    10    Rogue  
+3          GalLalush       1         4     80    10    Rogue  
+4          GalLalush       1         5     90    10    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Goblin.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       1         4     90    10    Wizard  
+2          TomerM          1         5     80    10    Rogue  
+3          GalLalush       1         4     70    10    Rogue  
+4          GalLalush       1         5     80    10    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of GalLalush's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       1         4     80    10    Wizard  
+2          TomerM          1         4     70    10    Rogue  
+3          GalLalush       1         4     70    10    Rogue  
+4          GalLalush       2         5     80    12    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Dragon.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Vampire.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     70    10    Rogue  
+2          GalLalush       1         3     60    10    Rogue  
+3          GalLalush       2         5     80    22    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     60    10    Rogue  
+2          GalLalush       1         3     60    10    Rogue  
+3          GalLalush       2         5     80    32    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     50    10    Rogue  
+2          GalLalush       1         3     60    30    Rogue  
+3          GalLalush       3         5     80    34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     51    5     Rogue  
+2          GalLalush       1         3     50    30    Rogue  
+3          GalLalush       3         5     80    34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Goblin.
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     51    25    Rogue  
+2          GalLalush       1         3     40    30    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     51    25    Rogue  
+2          GalLalush       1         3     40    50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     41    25    Rogue  
+2          GalLalush       1         2     30    50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         4     41    25    Rogue  
+2          GalLalush       1         2     30    50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of GalLalush's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         3     31    25    Rogue  
+2          GalLalush       1         2     20    50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of GalLalush's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     21    25    Rogue  
+2          GalLalush       1         2     20    50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     21    25    Rogue  
+2          GalLalush       1         2     10    50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     11    25    Rogue  
+2          GalLalush       1         2     0     50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     11    25    Rogue  
+2          GalLalush       1         2     0     50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 18:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     11    25    Rogue  
+2          GalLalush       1         2     0     50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     1     25    Rogue  
+2          GalLalush       1         2     0     50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 20:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     1     25    Rogue  
+2          GalLalush       1         2     0     50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 21:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         2     1     25    Rogue  
+2          GalLalush       1         2     0     50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 22:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         1     0     25    Rogue  
+2          GalLalush       1         2     0     50    Rogue  
+3          GalLalush       3         5     0     34    Fighter  
+4          GalLalush       1         4     0     10    Wizard  

@@ -1,0 +1,1054 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     100   0     Fighter  
+2          Daniel          1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   2     Fighter  
+2          Daniel          1         5     100   20    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   12    Fighter  
+2          Daniel          1         5     100   30    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 30 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   12    Fighter  
+2          Daniel          1         6     100   20    Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   12    Fighter  
+2          Daniel          2         6     100   22    Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   22    Fighter  
+2          Daniel          2         6     100   32    Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     100   32    Fighter  
+2          Daniel          2         6     100   32    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 32 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         7     100   22    Fighter  
+2          Daniel          2         6     100   32    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     100   24    Fighter  
+2          Daniel          2         6     100   42    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     100   34    Fighter  
+2          Daniel          2         6     100   52    Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 52 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     100   34    Fighter  
+2          Daniel          2         7     100   42    Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     100   34    Fighter  
+2          Daniel          3         7     100   44    Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     100   44    Fighter  
+2          Daniel          3         7     100   54    Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     100   54    Fighter  
+2          Daniel          3         7     100   54    Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 54 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         8     100   44    Fighter  
+2          Daniel          3         7     100   54    Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     100   46    Fighter  
+2          Daniel          3         7     100   64    Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     100   56    Fighter  
+2          Daniel          3         7     100   74    Wizard  
+
+-------------------------------------------
+Start of round 18:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 74 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     100   56    Fighter  
+2          Daniel          3         8     100   64    Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     100   56    Fighter  
+2          Daniel          4         8     100   66    Wizard  
+
+-------------------------------------------
+Start of round 20:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     100   66    Fighter  
+2          Daniel          4         8     100   76    Wizard  
+
+-------------------------------------------
+Start of round 21:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     100   76    Fighter  
+2          Daniel          4         8     100   76    Wizard  
+
+-------------------------------------------
+Start of round 22:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 76 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         9     100   66    Fighter  
+2          Daniel          4         8     100   76    Wizard  
+
+-------------------------------------------
+Start of round 23:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     100   68    Fighter  
+2          Daniel          4         8     100   86    Wizard  
+
+-------------------------------------------
+Start of round 24:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     100   78    Fighter  
+2          Daniel          4         8     100   96    Wizard  
+
+-------------------------------------------
+Start of round 25:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 96 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     100   78    Fighter  
+2          Daniel          4         9     100   86    Wizard  
+
+-------------------------------------------
+Start of round 26:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     100   78    Fighter  
+2          Daniel          5         9     100   88    Wizard  
+
+-------------------------------------------
+Start of round 27:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     100   88    Fighter  
+2          Daniel          5         9     100   98    Wizard  
+
+-------------------------------------------
+Start of round 28:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     100   98    Fighter  
+2          Daniel          5         9     100   98    Wizard  
+
+-------------------------------------------
+Start of round 29:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 98 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     100   98    Fighter  
+2          Daniel          5         9     100   98    Wizard  
+
+-------------------------------------------
+Start of round 30:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     100   100   Fighter  
+2          Daniel          5         9     100   108   Wizard  
+
+-------------------------------------------
+Start of round 31:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     100   110   Fighter  
+2          Daniel          5         9     100   118   Wizard  
+
+-------------------------------------------
+Start of round 32:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 118 coins
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     100   110   Fighter  
+2          Daniel          5         9     100   113   Wizard  
+
+-------------------------------------------
+Start of round 33:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     100   110   Fighter  
+2          Daniel          6         9     100   115   Wizard  
+
+-------------------------------------------
+Start of round 34:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     100   120   Fighter  
+2          Daniel          6         9     100   125   Wizard  
+
+-------------------------------------------
+Start of round 35:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     100   130   Fighter  
+2          Daniel          6         9     100   125   Wizard  
+
+-------------------------------------------
+Start of round 36:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 130 coins
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         10    100   120   Fighter  
+2          Daniel          6         9     100   125   Wizard  
+
+-------------------------------------------
+Start of round 37:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    100   122   Fighter  
+2          Daniel          6         9     100   135   Wizard  
+
+-------------------------------------------
+Start of round 38:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    100   132   Fighter  
+2          Daniel          6         9     100   145   Wizard  
+
+-------------------------------------------
+Start of round 39:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 145 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    100   132   Fighter  
+2          Daniel          6         10    100   135   Wizard  
+
+-------------------------------------------
+Start of round 40:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    100   132   Fighter  
+2          Daniel          7         10    100   137   Wizard  
+
+-------------------------------------------
+Start of round 41:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    100   142   Fighter  
+2          Daniel          7         10    100   147   Wizard  
+
+-------------------------------------------
+Start of round 42:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    100   152   Fighter  
+2          Daniel          7         10    100   147   Wizard  
+
+-------------------------------------------
+Start of round 43:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 152 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    100   147   Fighter  
+2          Daniel          7         10    100   147   Wizard  
+
+-------------------------------------------
+Start of round 44:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    100   149   Fighter  
+2          Daniel          7         10    100   157   Wizard  
+
+-------------------------------------------
+Start of round 45:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    100   159   Fighter  
+2          Daniel          7         10    100   167   Wizard  
+
+-------------------------------------------
+Start of round 46:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 167 coins
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    100   159   Fighter  
+2          Daniel          7         10    100   167   Wizard  
+
+-------------------------------------------
+Start of round 47:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    100   159   Fighter  
+2          Daniel          8         10    100   169   Wizard  
+
+-------------------------------------------
+Start of round 48:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    100   169   Fighter  
+2          Daniel          8         10    100   179   Wizard  
+
+-------------------------------------------
+Start of round 49:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    100   179   Fighter  
+2          Daniel          8         10    100   179   Wizard  
+
+-------------------------------------------
+Start of round 50:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 179 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    100   174   Fighter  
+2          Daniel          8         10    100   179   Wizard  
+
+-------------------------------------------
+Start of round 51:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         10    100   176   Fighter  
+2          Daniel          8         10    100   189   Wizard  
+
+-------------------------------------------
+Start of round 52:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         10    100   186   Fighter  
+2          Daniel          8         10    100   199   Wizard  
+
+-------------------------------------------
+Start of round 53:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 199 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         10    100   186   Fighter  
+2          Daniel          8         11    100   189   Wizard  
+
+-------------------------------------------
+Start of round 54:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         10    100   186   Fighter  
+2          Daniel          9         11    100   191   Wizard  
+
+-------------------------------------------
+Start of round 55:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         10    100   196   Fighter  
+2          Daniel          9         11    100   201   Wizard  
+
+-------------------------------------------
+Start of round 56:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         10    100   206   Fighter  
+2          Daniel          9         11    100   201   Wizard  
+
+-------------------------------------------
+Start of round 57:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 206 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         10    100   206   Fighter  
+2          Daniel          9         11    100   201   Wizard  
+
+-------------------------------------------
+Start of round 58:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        10    100   208   Fighter  
+2          Daniel          9         11    100   211   Wizard  
+
+-------------------------------------------
+Start of round 59:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        10    100   208   Fighter  
+2          Daniel          9         11    100   221   Wizard  
+
+-------------------------------------------
+Start of round 60:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        10    100   208   Fighter  
+2          Daniel          9         11    100   231   Wizard  
+
+-------------------------------------------
+Start of round 61:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        10    100   208   Fighter  
+2          Daniel          9         11    100   231   Wizard  
+
+-------------------------------------------
+Start of round 62:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 231 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        10    100   208   Fighter  
+2          Daniel          9         12    100   221   Wizard  
+
+-------------------------------------------
+Start of round 63:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        10    100   208   Fighter  
+2          Daniel          9         12    100   221   Wizard  
+
+-------------------------------------------
+Start of round 64:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        10    100   208   Fighter  
+2          Daniel          10        12    100   223   Wizard  

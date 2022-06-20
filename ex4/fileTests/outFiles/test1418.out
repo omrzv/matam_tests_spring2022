@@ -1,0 +1,449 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   12    Wizard  
+2          Daniel          1         5     90    10    Rogue  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 10 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   12    Wizard  
+2          Daniel          1         5     90    10    Rogue  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 10 coins
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         4     90    12    Wizard  
+2          Daniel          1         5     91    5     Rogue  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     80    12    Wizard  
+2          Daniel          1         5     91    25    Rogue  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Daniel's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     70    12    Wizard  
+2          Daniel          1         5     91    25    Rogue  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Goblin.
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     60    12    Wizard  
+2          Daniel          1         5     91    25    Rogue  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Dragon.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     91    45    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     91    65    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     81    65    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     81    65    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     71    65    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 65 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     72    60    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     72    60    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     72    80    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         4     62    80    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 80 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         4     62    80    Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         4     62    100   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         4     62    120   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     52    120   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 120 coins
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     52    120   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     42    120   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 22:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     42    120   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 23:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     32    120   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 24:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 120 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         4     32    110   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 25:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     22    110   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 26:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     12    110   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 27:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     12    110   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
+
+-------------------------------------------
+Start of round 28:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         3     0     110   Rogue  
+2          Amirmann        2         2     0     12    Wizard  
