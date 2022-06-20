@@ -1,0 +1,714 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     100   5     Fighter  
+2          TomerM          1         5     100   10    Wizard  
+3          Omerz           1         5     100   5     Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     100   5     Fighter  
+2          TomerM          1         6     100   0     Wizard  
+3          Omerz           1         5     90    5     Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 5 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 5 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     100   5     Fighter  
+2          TomerM          1         6     100   0     Wizard  
+3          Omerz           1         5     91    0     Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of Omerz's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     90    5     Fighter  
+2          TomerM          1         6     100   0     Wizard  
+3          Omerz           1         5     91    0     Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 5 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     91    0     Fighter  
+2          TomerM          1         5     90    0     Wizard  
+3          Omerz           1         5     81    0     Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Omerz's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     91    2     Fighter  
+2          TomerM          1         4     80    0     Wizard  
+3          Omerz           1         5     81    10    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     91    2     Fighter  
+2          TomerM          1         3     70    0     Wizard  
+3          Omerz           1         6     81    0     Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+Start of Omerz's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     91    4     Fighter  
+2          TomerM          1         2     60    0     Wizard  
+3          Omerz           1         6     81    10    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Omerz's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     91    4     Fighter  
+2          TomerM          1         2     50    0     Wizard  
+3          Omerz           1         6     81    10    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     91    6     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           1         6     71    10    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 6 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Daniel has paid 0 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+Start of Omerz's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     91    6     Fighter  
+2          TomerM          1         2     30    0     Wizard  
+3          Omerz           1         6     71    10    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     91    8     Fighter  
+2          TomerM          1         2     50    0     Wizard  
+3          Omerz           2         6     71    12    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Goblin.
+Start of Omerz's turn: 
+Player Omerz has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     91    8     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 8 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     91    8     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Daniel's turn: 
+Nothing happened.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     91    8     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     91    8     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     81    8     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 8 coins
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     82    3     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     72    3     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     72    3     Fighter  
+2          TomerM          1         2     40    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         5     72    5     Fighter  
+2          TomerM          1         2     30    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 22:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          7         5     72    7     Fighter  
+2          TomerM          1         1     20    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 23:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          7         5     72    17    Fighter  
+2          TomerM          1         1     10    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 24:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         5     72    19    Fighter  
+2          TomerM          1         1     10    0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 25:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     72    21    Fighter  
+2          TomerM          1         0     0     0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 26:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     72    31    Fighter  
+2          TomerM          1         0     0     0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 27:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     72    31    Fighter  
+2          TomerM          1         0     0     0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 28:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     72    31    Fighter  
+2          TomerM          1         0     0     0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 29:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     72    31    Fighter  
+2          TomerM          1         0     0     0     Wizard  
+3          Omerz           2         6     0     12    Fighter  
+
+-------------------------------------------
+Start of round 30:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     72    33    Fighter  
+2          TomerM          1         0     0     0     Wizard  
+3          Omerz           2         6     0     12    Fighter  

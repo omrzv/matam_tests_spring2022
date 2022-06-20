@@ -1,0 +1,639 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         6     100   0     Wizard  
+2          Daniel          1         4     90    10    Rogue  
+3          Daniel          1         5     100   10    Wizard  
+4          Amirmann        2         5     100   14    Rogue  
+5          Efrat           2         5     100   12    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         6     90    0     Wizard  
+2          Daniel          1         4     90    10    Rogue  
+3          Daniel          1         5     90    10    Wizard  
+4          Amirmann        3         5     100   18    Rogue  
+5          Efrat           3         5     100   14    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     80    0     Wizard  
+2          Daniel          1         4     80    10    Rogue  
+3          Daniel          1         5     80    10    Wizard  
+4          Amirmann        3         4     90    18    Rogue  
+5          Efrat           3         5     90    14    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 14 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     80    2     Wizard  
+2          Daniel          1         4     80    30    Rogue  
+3          Daniel          1         5     80    20    Wizard  
+4          Amirmann        3         4     80    18    Rogue  
+5          Efrat           3         5     92    9     Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 18 coins
+You have entered an invalid input. Please try again.
+Amirmann has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 9 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         4     70    2     Wizard  
+2          Daniel          1         3     70    30    Rogue  
+3          Daniel          1         4     70    20    Wizard  
+4          Amirmann        3         5     80    8     Rogue  
+5          Efrat           3         5     94    4     Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+Nothing happened.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         3     60    2     Wizard  
+2          Daniel          1         3     70    30    Rogue  
+3          Daniel          1         4     60    20    Wizard  
+4          Amirmann        4         5     80    12    Rogue  
+5          Efrat           3         5     84    4     Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         3     50    2     Wizard  
+2          Daniel          1         3     60    30    Rogue  
+3          Daniel          1         4     50    20    Wizard  
+4          Amirmann        5         5     80    16    Rogue  
+5          Efrat           3         4     74    4     Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Daniel's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         3     40    2     Wizard  
+2          Daniel          1         3     60    30    Rogue  
+3          Daniel          1         3     40    20    Wizard  
+4          Amirmann        5         5     70    16    Rogue  
+5          Efrat           4         4     74    6     Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 16 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Amirmann has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         3     40    12    Wizard  
+2          Daniel          1         3     60    50    Rogue  
+3          Daniel          1         3     30    20    Wizard  
+4          Amirmann        5         5     71    11    Rogue  
+5          Efrat           4         3     64    6     Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 20 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 11 coins
+Amirmann has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         2     30    12    Wizard  
+2          Daniel          1         2     50    50    Rogue  
+3          Daniel          1         4     30    10    Wizard  
+4          Amirmann        5         6     71    1     Rogue  
+5          Efrat           4         2     54    6     Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Daniel's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         2     50    12    Wizard  
+2          Daniel          1         2     40    50    Rogue  
+3          Daniel          1         4     20    10    Wizard  
+4          Amirmann        5         6     61    1     Rogue  
+5          Efrat           4         2     44    6     Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         2     40    12    Wizard  
+2          Daniel          1         2     30    50    Rogue  
+3          Daniel          1         4     10    10    Wizard  
+4          Amirmann        6         6     61    5     Rogue  
+5          Efrat           5         2     44    8     Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         2     30    12    Wizard  
+2          Daniel          1         1     20    50    Rogue  
+3          Amirmann        7         6     61    9     Rogue  
+4          Efrat           5         2     44    18    Wizard  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 9 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Amirmann has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         2     30    22    Wizard  
+2          Daniel          1         1     10    50    Rogue  
+3          Amirmann        7         6     62    4     Rogue  
+4          Efrat           5         1     34    18    Wizard  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 4 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+Amirmann has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 18 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         1     20    22    Wizard  
+2          Amirmann        7         6     62    4     Rogue  
+3          Efrat           5         1     34    18    Wizard  
+4          Daniel          1         0     0     50    Rogue  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Vampire.
+Start of Amirmann's turn: 
+Nothing happened.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         0     10    22    Wizard  
+2          Amirmann        7         6     62    4     Rogue  
+3          Efrat           6         1     34    20    Wizard  
+4          Daniel          1         0     0     50    Rogue  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Goblin.
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        7         6     52    4     Rogue  
+2          Efrat           6         1     24    20    Wizard  
+3          Daniel          2         0     0     22    Wizard  
+4          Daniel          1         0     0     50    Rogue  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        7         6     42    4     Rogue  
+2          Efrat           7         1     24    22    Wizard  
+3          Daniel          2         0     0     22    Wizard  
+4          Daniel          1         0     0     50    Rogue  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        8         6     42    8     Rogue  
+2          Efrat           7         0     14    22    Wizard  
+3          Daniel          2         0     0     22    Wizard  
+4          Daniel          1         0     0     50    Rogue  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        9         6     42    12    Rogue  
+2          Efrat           7         0     4     22    Wizard  
+3          Daniel          2         0     0     22    Wizard  
+4          Daniel          1         0     0     50    Rogue  
+5          Daniel          1         4     0     10    Wizard  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+Start of Efrat's turn: 
+This is but a flesh wound. You've lost 10 health points
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     42    16    Rogue  
+2          Efrat           7         0     0     22    Wizard  
+3          Daniel          2         0     0     22    Wizard  
+4          Daniel          1         0     0     50    Rogue  
+5          Daniel          1         4     0     10    Wizard  

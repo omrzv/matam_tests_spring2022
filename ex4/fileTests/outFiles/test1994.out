@@ -1,0 +1,440 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     100   14    Rogue  
+2          TomerM          1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         5     100   18    Rogue  
+2          TomerM          1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 18 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         6     100   8     Rogue  
+2          TomerM          2         5     100   12    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         6     100   8     Rogue  
+2          TomerM          2         5     100   22    Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         6     100   8     Rogue  
+2          TomerM          2         5     100   22    Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         6     100   12    Rogue  
+2          TomerM          2         4     90    22    Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 12 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         6     100   7     Rogue  
+2          TomerM          3         4     90    24    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 24 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         6     100   7     Rogue  
+2          TomerM          3         4     90    24    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         6     100   11    Rogue  
+2          TomerM          3         4     80    24    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         6     100   11    Rogue  
+2          TomerM          3         4     80    34    Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 11 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         7     100   1     Rogue  
+2          TomerM          3         4     100   34    Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         7     100   5     Rogue  
+2          TomerM          3         3     90    34    Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of TomerM's turn: 
+Player TomerM has been defeated by a Dragon.
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         3     80    34    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         3     80    36    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         3     100   36    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         3     100   38    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         3     100   38    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 18:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 38 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         3     100   38    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 19:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         3     100   40    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 20:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         3     90    40    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 21:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         3     90    50    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 22:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         3     80    50    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 23:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         3     100   50    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 24:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         3     100   52    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 25:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         3     100   54    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 26:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 54 coins
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         4     100   44    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 27:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         4     100   46    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 28:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         4     90    46    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 29:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 46 coins
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         5     90    36    Wizard  
+2          TomerM          6         7     0     5     Rogue  
+
+-------------------------------------------
+Start of round 30:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          10        5     90    38    Wizard  
+2          TomerM          6         7     0     5     Rogue  

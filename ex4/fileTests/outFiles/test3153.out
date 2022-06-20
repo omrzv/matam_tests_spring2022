@@ -1,0 +1,581 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     100   12    Wizard  
+2          GalLalush       1         5     100   30    Rogue  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     100   14    Wizard  
+2          GalLalush       1         5     100   30    Rogue  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 14 coins
+Amirmann has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        3         5     100   9     Wizard  
+2          GalLalush       1         5     100   30    Rogue  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        4         5     100   11    Wizard  
+2          GalLalush       1         5     100   50    Rogue  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        5         5     100   13    Wizard  
+2          GalLalush       1         5     100   50    Rogue  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 13 coins
+Amirmann has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        5         5     100   8     Wizard  
+2          GalLalush       1         5     100   50    Rogue  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        6         5     100   10    Wizard  
+2          GalLalush       1         5     100   70    Rogue  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        7         5     100   12    Wizard  
+2          GalLalush       1         5     100   70    Rogue  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 12 coins
+Amirmann has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        7         6     100   2     Wizard  
+2          GalLalush       1         5     100   70    Rogue  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        8         6     100   4     Wizard  
+2          GalLalush       1         5     100   90    Rogue  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        9         6     100   6     Wizard  
+2          GalLalush       1         5     100   90    Rogue  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 6 coins
+You have entered an invalid input. Please try again.
+Amirmann has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        9         6     100   1     Wizard  
+2          GalLalush       1         5     100   90    Rogue  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       1         5     100   110   Rogue  
+
+-------------------------------------------
+Start of round 14:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       2         5     100   114   Rogue  
+
+-------------------------------------------
+Start of round 15:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       2         5     100   114   Rogue  
+
+-------------------------------------------
+Start of round 16:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 114 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       2         5     100   109   Rogue  
+
+-------------------------------------------
+Start of round 17:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       2         5     100   109   Rogue  
+
+-------------------------------------------
+Start of round 18:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       3         5     100   113   Rogue  
+
+-------------------------------------------
+Start of round 19:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       3         5     100   133   Rogue  
+
+-------------------------------------------
+Start of round 20:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       4         5     100   137   Rogue  
+
+-------------------------------------------
+Start of round 21:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       4         5     100   137   Rogue  
+
+-------------------------------------------
+Start of round 22:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 137 coins
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       4         5     100   132   Rogue  
+
+-------------------------------------------
+Start of round 23:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       4         5     100   132   Rogue  
+
+-------------------------------------------
+Start of round 24:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       5         5     100   136   Rogue  
+
+-------------------------------------------
+Start of round 25:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       5         5     100   156   Rogue  
+
+-------------------------------------------
+Start of round 26:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       6         5     100   160   Rogue  
+
+-------------------------------------------
+Start of round 27:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       6         5     100   160   Rogue  
+
+-------------------------------------------
+Start of round 28:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 160 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       6         6     100   150   Rogue  
+
+-------------------------------------------
+Start of round 29:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       6         6     100   150   Rogue  
+
+-------------------------------------------
+Start of round 30:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       7         6     100   154   Rogue  
+
+-------------------------------------------
+Start of round 31:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       7         6     100   174   Rogue  
+
+-------------------------------------------
+Start of round 32:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       8         6     100   178   Rogue  
+
+-------------------------------------------
+Start of round 33:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       8         6     100   178   Rogue  
+
+-------------------------------------------
+Start of round 34:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 178 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       8         6     100   173   Rogue  
+
+-------------------------------------------
+Start of round 35:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       8         6     100   173   Rogue  
+
+-------------------------------------------
+Start of round 36:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       9         6     100   177   Rogue  
+
+-------------------------------------------
+Start of round 37:
+
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       9         6     100   197   Rogue  
+
+-------------------------------------------
+Start of round 38:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        6     100   3     Wizard  
+2          GalLalush       10        6     100   201   Rogue  

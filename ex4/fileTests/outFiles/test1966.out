@@ -1,0 +1,330 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 10 coins
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       1         5     90    10    Wizard  
+2          GalLalush       1         6     100   0     Rogue  
+
+-------------------------------------------
+Start of round 2:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         5     90    12    Wizard  
+2          GalLalush       1         6     100   0     Rogue  
+
+-------------------------------------------
+Start of round 3:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 12 coins
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    2     Wizard  
+2          GalLalush       1         6     100   20    Rogue  
+
+-------------------------------------------
+Start of round 4:
+
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     80    2     Wizard  
+2          GalLalush       1         6     100   40    Rogue  
+
+-------------------------------------------
+Start of round 5:
+
+Start of GalLalush's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     100   2     Wizard  
+2          GalLalush       1         6     100   60    Rogue  
+
+-------------------------------------------
+Start of round 6:
+
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Vampire.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 60 coins
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         5     90    2     Wizard  
+2          GalLalush       1         7     100   50    Rogue  
+
+-------------------------------------------
+Start of round 7:
+
+Start of GalLalush's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         5     80    2     Wizard  
+2          GalLalush       1         7     100   50    Rogue  
+
+-------------------------------------------
+Start of round 8:
+
+Start of GalLalush's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         5     100   2     Wizard  
+2          GalLalush       1         7     100   50    Rogue  
+
+-------------------------------------------
+Start of round 9:
+
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         5     100   4     Wizard  
+2          GalLalush       1         7     100   50    Rogue  
+
+-------------------------------------------
+Start of round 10:
+
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 4 coins
+GalLalush has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         5     100   4     Wizard  
+2          GalLalush       1         7     100   50    Rogue  
+
+-------------------------------------------
+Start of round 11:
+
+Start of GalLalush's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 50 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         5     90    4     Wizard  
+2          GalLalush       1         7     100   45    Rogue  
+
+-------------------------------------------
+Start of round 12:
+
+Start of GalLalush's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       3         5     100   4     Wizard  
+2          GalLalush       2         7     100   49    Rogue  
+
+-------------------------------------------
+Start of round 13:
+
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Dragon.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 49 coins
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         7     100   44    Rogue  
+2          GalLalush       3         5     0     4     Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    44    Rogue  
+2          GalLalush       3         5     0     4     Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    44    Rogue  
+2          GalLalush       3         5     0     4     Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     90    44    Rogue  
+2          GalLalush       3         5     0     4     Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of GalLalush's turn: 
+Player GalLalush has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       2         6     0     44    Rogue  
+2          GalLalush       3         5     0     4     Wizard  

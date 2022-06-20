@@ -1,0 +1,399 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+Start of Omerz's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     100   12    Fighter  
+2          Omerz           1         5     100   20    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     100   22    Fighter  
+2          Omerz           2         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Omerz's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          2         5     100   32    Fighter  
+2          Omerz           2         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     100   34    Fighter  
+2          Omerz           2         5     90    22    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 22 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          3         5     100   34    Fighter  
+2          Omerz           2         6     90    12    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     100   36    Fighter  
+2          Omerz           3         6     90    14    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 36 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          4         5     100   31    Fighter  
+2          Omerz           3         6     80    14    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     100   33    Fighter  
+2          Omerz           3         6     80    24    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     100   33    Fighter  
+2          Omerz           3         6     80    34    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     90    33    Fighter  
+2          Omerz           4         6     80    36    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 36 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     80    33    Fighter  
+2          Omerz           4         7     80    26    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     70    33    Fighter  
+2          Omerz           5         7     80    28    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 28 coins
+Omerz has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          5         5     60    33    Fighter  
+2          Omerz           5         7     80    28    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Vampire and rose 1 Level!
+Start of Omerz's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         5     60    35    Fighter  
+2          Omerz           5         7     80    38    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Daniel's turn: 
+You fell into the trap, lose 10 health points.
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          6         5     50    35    Fighter  
+2          Omerz           5         7     70    38    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 38 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          7         5     50    37    Fighter  
+2          Omerz           5         7     70    38    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Daniel's turn: 
+You've won the scuffle without losing any health points.
+Start of Omerz's turn: 
+Player Omerz has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          7         5     50    37    Fighter  
+2          Omerz           5         7     0     38    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          8         5     50    39    Fighter  
+2          Omerz           5         7     0     38    Fighter  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     50    41    Fighter  
+2          Omerz           5         7     0     38    Fighter  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Daniel's turn: 
+Player Daniel has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          9         5     0     41    Fighter  
+2          Omerz           5         7     0     38    Fighter  

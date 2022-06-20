@@ -1,0 +1,1524 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     90    10    Rogue  
+2          GalLalush       2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     90    10    Rogue  
+2          GalLalush       2         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     90    10    Rogue  
+2          GalLalush       2         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 22 coins
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     90    30    Rogue  
+2          GalLalush       2         5     100   17    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 30 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     90    30    Rogue  
+2          GalLalush       2         5     100   17    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 17 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     90    34    Rogue  
+2          GalLalush       2         5     100   17    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     90    54    Rogue  
+2          GalLalush       2         5     90    17    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         5     90    54    Rogue  
+2          GalLalush       2         5     90    27    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 54 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 27 coins
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     90    44    Rogue  
+2          GalLalush       2         5     91    22    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     80    44    Rogue  
+2          GalLalush       3         5     91    24    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 44 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     80    44    Rogue  
+2          GalLalush       3         5     91    34    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     80    44    Rogue  
+2          GalLalush       3         5     91    34    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 34 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     80    64    Rogue  
+2          GalLalush       3         5     92    29    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 64 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          2         6     81    59    Rogue  
+2          GalLalush       3         5     92    29    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 29 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         6     81    63    Rogue  
+2          GalLalush       3         5     93    24    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         6     81    83    Rogue  
+2          GalLalush       3         5     83    24    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         6     81    83    Rogue  
+2          GalLalush       3         5     83    34    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 83 coins
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 34 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     81    73    Rogue  
+2          GalLalush       3         6     83    24    Fighter  
+
+-------------------------------------------
+Start of round 19:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     71    73    Rogue  
+2          GalLalush       4         6     83    26    Fighter  
+
+-------------------------------------------
+Start of round 20:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 73 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     72    68    Rogue  
+2          GalLalush       4         6     83    36    Fighter  
+
+-------------------------------------------
+Start of round 21:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     72    68    Rogue  
+2          GalLalush       4         6     83    36    Fighter  
+
+-------------------------------------------
+Start of round 22:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 36 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         7     72    88    Rogue  
+2          GalLalush       4         6     84    31    Fighter  
+
+-------------------------------------------
+Start of round 23:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 88 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          3         8     72    78    Rogue  
+2          GalLalush       4         6     84    31    Fighter  
+
+-------------------------------------------
+Start of round 24:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 31 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     72    82    Rogue  
+2          GalLalush       4         6     84    31    Fighter  
+
+-------------------------------------------
+Start of round 25:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     72    102   Rogue  
+2          GalLalush       4         6     74    31    Fighter  
+
+-------------------------------------------
+Start of round 26:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         8     72    102   Rogue  
+2          GalLalush       4         6     74    41    Fighter  
+
+-------------------------------------------
+Start of round 27:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 102 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 41 coins
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         9     72    92    Rogue  
+2          GalLalush       4         7     74    31    Fighter  
+
+-------------------------------------------
+Start of round 28:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         9     62    92    Rogue  
+2          GalLalush       5         7     74    33    Fighter  
+
+-------------------------------------------
+Start of round 29:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 92 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         9     62    92    Rogue  
+2          GalLalush       5         7     74    43    Fighter  
+
+-------------------------------------------
+Start of round 30:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         9     62    92    Rogue  
+2          GalLalush       5         7     74    43    Fighter  
+
+-------------------------------------------
+Start of round 31:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 43 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         9     62    112   Rogue  
+2          GalLalush       5         8     74    33    Fighter  
+
+-------------------------------------------
+Start of round 32:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 112 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          4         9     63    107   Rogue  
+2          GalLalush       5         8     74    33    Fighter  
+
+-------------------------------------------
+Start of round 33:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 33 coins
+GalLalush has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     63    111   Rogue  
+2          GalLalush       5         8     74    33    Fighter  
+
+-------------------------------------------
+Start of round 34:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     63    131   Rogue  
+2          GalLalush       5         8     64    33    Fighter  
+
+-------------------------------------------
+Start of round 35:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     63    131   Rogue  
+2          GalLalush       5         8     64    43    Fighter  
+
+-------------------------------------------
+Start of round 36:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 131 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 43 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     64    126   Rogue  
+2          GalLalush       5         9     64    33    Fighter  
+
+-------------------------------------------
+Start of round 37:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     54    126   Rogue  
+2          GalLalush       6         9     64    35    Fighter  
+
+-------------------------------------------
+Start of round 38:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 126 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     55    121   Rogue  
+2          GalLalush       6         9     64    45    Fighter  
+
+-------------------------------------------
+Start of round 39:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     55    121   Rogue  
+2          GalLalush       6         9     64    45    Fighter  
+
+-------------------------------------------
+Start of round 40:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 45 coins
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     55    141   Rogue  
+2          GalLalush       6         9     65    40    Fighter  
+
+-------------------------------------------
+Start of round 41:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 141 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          5         9     55    141   Rogue  
+2          GalLalush       6         9     65    40    Fighter  
+
+-------------------------------------------
+Start of round 42:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 40 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     55    145   Rogue  
+2          GalLalush       6         9     65    40    Fighter  
+
+-------------------------------------------
+Start of round 43:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     55    165   Rogue  
+2          GalLalush       6         9     55    40    Fighter  
+
+-------------------------------------------
+Start of round 44:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     55    165   Rogue  
+2          GalLalush       6         9     55    50    Fighter  
+
+-------------------------------------------
+Start of round 45:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 165 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 50 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     56    160   Rogue  
+2          GalLalush       6         10    55    40    Fighter  
+
+-------------------------------------------
+Start of round 46:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         9     46    160   Rogue  
+2          GalLalush       7         10    55    42    Fighter  
+
+-------------------------------------------
+Start of round 47:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 160 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         10    46    150   Rogue  
+2          GalLalush       7         10    55    52    Fighter  
+
+-------------------------------------------
+Start of round 48:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         10    46    150   Rogue  
+2          GalLalush       7         10    55    52    Fighter  
+
+-------------------------------------------
+Start of round 49:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 52 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         10    46    170   Rogue  
+2          GalLalush       7         10    56    47    Fighter  
+
+-------------------------------------------
+Start of round 50:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 170 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          6         10    46    170   Rogue  
+2          GalLalush       7         10    56    47    Fighter  
+
+-------------------------------------------
+Start of round 51:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 47 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    46    174   Rogue  
+2          GalLalush       7         11    56    37    Fighter  
+
+-------------------------------------------
+Start of round 52:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    46    194   Rogue  
+2          GalLalush       7         11    46    37    Fighter  
+
+-------------------------------------------
+Start of round 53:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    46    194   Rogue  
+2          GalLalush       7         11    46    47    Fighter  
+
+-------------------------------------------
+Start of round 54:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 194 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 47 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    47    189   Rogue  
+2          GalLalush       7         11    47    42    Fighter  
+
+-------------------------------------------
+Start of round 55:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    37    189   Rogue  
+2          GalLalush       8         11    47    44    Fighter  
+
+-------------------------------------------
+Start of round 56:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 189 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    38    184   Rogue  
+2          GalLalush       8         11    47    54    Fighter  
+
+-------------------------------------------
+Start of round 57:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    38    184   Rogue  
+2          GalLalush       8         11    47    54    Fighter  
+
+-------------------------------------------
+Start of round 58:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 54 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    38    204   Rogue  
+2          GalLalush       8         11    47    54    Fighter  
+
+-------------------------------------------
+Start of round 59:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 204 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          7         10    39    199   Rogue  
+2          GalLalush       8         11    47    54    Fighter  
+
+-------------------------------------------
+Start of round 60:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 54 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    39    203   Rogue  
+2          GalLalush       8         11    47    54    Fighter  
+
+-------------------------------------------
+Start of round 61:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    39    223   Rogue  
+2          GalLalush       8         11    37    54    Fighter  
+
+-------------------------------------------
+Start of round 62:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         10    39    223   Rogue  
+2          GalLalush       8         11    37    64    Fighter  
+
+-------------------------------------------
+Start of round 63:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 223 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 64 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         11    39    213   Rogue  
+2          GalLalush       8         12    37    54    Fighter  
+
+-------------------------------------------
+Start of round 64:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         11    29    213   Rogue  
+2          GalLalush       9         12    37    56    Fighter  
+
+-------------------------------------------
+Start of round 65:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 213 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         11    29    213   Rogue  
+2          GalLalush       9         12    37    66    Fighter  
+
+-------------------------------------------
+Start of round 66:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of GalLalush's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         11    29    213   Rogue  
+2          GalLalush       9         12    37    66    Fighter  
+
+-------------------------------------------
+Start of round 67:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 66 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+GalLalush has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         11    29    233   Rogue  
+2          GalLalush       9         12    37    66    Fighter  
+
+-------------------------------------------
+Start of round 68:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 233 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          8         11    29    233   Rogue  
+2          GalLalush       9         12    37    66    Fighter  
+
+-------------------------------------------
+Start of round 69:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 66 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         11    29    237   Rogue  
+2          GalLalush       9         12    38    61    Fighter  
+
+-------------------------------------------
+Start of round 70:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of GalLalush's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         11    29    257   Rogue  
+2          GalLalush       9         12    28    61    Fighter  
+
+-------------------------------------------
+Start of round 71:
+
+Start of TomerM's turn: 
+Nothing happened.
+Start of GalLalush's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         11    29    257   Rogue  
+2          GalLalush       9         12    28    71    Fighter  
+
+-------------------------------------------
+Start of round 72:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 257 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of GalLalush's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+GalLalush has 71 coins
+You have entered an invalid input. Please try again.
+GalLalush has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          9         11    29    257   Rogue  
+2          GalLalush       9         13    28    61    Fighter  
+
+-------------------------------------------
+Start of round 73:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of GalLalush's turn: 
+Player GalLalush has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    19    257   Rogue  
+
+-------------------------------------------
+Start of round 74:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 257 coins
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    20    252   Rogue  
+
+-------------------------------------------
+Start of round 75:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    20    272   Rogue  
+
+-------------------------------------------
+Start of round 76:
+
+Start of TomerM's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    20    272   Rogue  
+
+-------------------------------------------
+Start of round 77:
+
+Start of TomerM's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    20    272   Rogue  
+
+-------------------------------------------
+Start of round 78:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    20    292   Rogue  
+
+-------------------------------------------
+Start of round 79:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 292 coins
+TomerM has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    20    292   Rogue  
+
+-------------------------------------------
+Start of round 80:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 292 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    21    287   Rogue  
+
+-------------------------------------------
+Start of round 81:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          9         11    11    287   Rogue  
+
+-------------------------------------------
+Start of round 82:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          GalLalush       10        13    28    63    Fighter  
+2          TomerM          10        11    11    291   Rogue  

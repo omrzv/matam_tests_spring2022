@@ -1,0 +1,882 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         5     100   30    Rogue  
+2          Amirmann        1         5     100   20    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 30 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         6     100   20    Rogue  
+2          Amirmann        2         5     100   22    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 20 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     100   10    Rogue  
+2          Amirmann        2         5     100   22    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     90    10    Rogue  
+2          Amirmann        2         5     100   22    Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     90    30    Rogue  
+2          Amirmann        2         5     100   32    Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 30 coins
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     91    25    Rogue  
+2          Amirmann        3         5     100   34    Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 25 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     91    25    Rogue  
+2          Amirmann        3         5     100   34    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     81    25    Rogue  
+2          Amirmann        3         5     100   34    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     81    45    Rogue  
+2          Amirmann        3         5     100   44    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 45 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     82    40    Rogue  
+2          Amirmann        4         5     100   46    Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 40 coins
+Daniel has paid 0 coins 
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     82    40    Rogue  
+2          Amirmann        4         5     100   46    Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     72    40    Rogue  
+2          Amirmann        4         5     100   46    Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         7     72    60    Rogue  
+2          Amirmann        4         5     100   56    Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 60 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         8     72    50    Rogue  
+2          Amirmann        5         5     100   58    Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 50 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         8     72    50    Rogue  
+2          Amirmann        5         5     100   58    Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         8     62    50    Rogue  
+2          Amirmann        5         5     100   58    Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         8     62    70    Rogue  
+2          Amirmann        5         5     100   68    Wizard  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 70 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         9     62    60    Rogue  
+2          Amirmann        6         5     100   70    Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 60 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         10    62    50    Rogue  
+2          Amirmann        6         5     100   70    Wizard  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         10    52    50    Rogue  
+2          Amirmann        6         5     100   70    Wizard  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         10    52    70    Rogue  
+2          Amirmann        6         5     100   80    Wizard  
+
+-------------------------------------------
+Start of round 22:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 70 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         10    52    70    Rogue  
+2          Amirmann        7         5     100   82    Wizard  
+
+-------------------------------------------
+Start of round 23:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 70 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         10    52    70    Rogue  
+2          Amirmann        7         5     100   82    Wizard  
+
+-------------------------------------------
+Start of round 24:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         10    42    70    Rogue  
+2          Amirmann        7         5     100   82    Wizard  
+
+-------------------------------------------
+Start of round 25:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         10    42    90    Rogue  
+2          Amirmann        7         5     100   92    Wizard  
+
+-------------------------------------------
+Start of round 26:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 90 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    42    80    Rogue  
+2          Amirmann        8         5     100   94    Wizard  
+
+-------------------------------------------
+Start of round 27:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 80 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    43    75    Rogue  
+2          Amirmann        8         5     100   94    Wizard  
+
+-------------------------------------------
+Start of round 28:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    33    75    Rogue  
+2          Amirmann        8         5     100   94    Wizard  
+
+-------------------------------------------
+Start of round 29:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    33    95    Rogue  
+2          Amirmann        8         5     100   104   Wizard  
+
+-------------------------------------------
+Start of round 30:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 95 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    34    90    Rogue  
+2          Amirmann        9         5     100   106   Wizard  
+
+-------------------------------------------
+Start of round 31:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 90 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    34    90    Rogue  
+2          Amirmann        9         5     100   106   Wizard  
+
+-------------------------------------------
+Start of round 32:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    24    90    Rogue  
+2          Amirmann        9         5     100   106   Wizard  
+
+-------------------------------------------
+Start of round 33:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          1         11    24    110   Rogue  
+2          Amirmann        9         5     100   116   Wizard  
+
+-------------------------------------------
+Start of round 34:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 110 coins
+Daniel has paid 0 coins 
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         11    24    110   Rogue  
+
+-------------------------------------------
+Start of round 35:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 110 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         12    24    100   Rogue  
+
+-------------------------------------------
+Start of round 36:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         12    24    100   Rogue  
+
+-------------------------------------------
+Start of round 37:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         12    14    100   Rogue  
+
+-------------------------------------------
+Start of round 38:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         12    14    100   Rogue  
+
+-------------------------------------------
+Start of round 39:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         12    14    120   Rogue  
+
+-------------------------------------------
+Start of round 40:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         12    14    140   Rogue  
+
+-------------------------------------------
+Start of round 41:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 140 coins
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          1         13    14    130   Rogue  
+
+-------------------------------------------
+Start of round 42:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         13    14    134   Rogue  
+
+-------------------------------------------
+Start of round 43:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 134 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         14    14    124   Rogue  
+
+-------------------------------------------
+Start of round 44:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         14    14    124   Rogue  
+
+-------------------------------------------
+Start of round 45:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         14    4     124   Rogue  
+
+-------------------------------------------
+Start of round 46:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         14    4     124   Rogue  
+
+-------------------------------------------
+Start of round 47:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         14    4     144   Rogue  
+
+-------------------------------------------
+Start of round 48:
+
+Start of Daniel's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         14    4     164   Rogue  
+
+-------------------------------------------
+Start of round 49:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 164 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          2         14    4     164   Rogue  
+
+-------------------------------------------
+Start of round 50:
+
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          3         14    4     168   Rogue  
+
+-------------------------------------------
+Start of round 51:
+
+Start of Daniel's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Daniel has 168 coins
+You have entered an invalid input. Please try again.
+Daniel has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          3         14    4     168   Rogue  
+
+-------------------------------------------
+Start of round 52:
+
+Start of Daniel's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          3         14    4     168   Rogue  
+
+-------------------------------------------
+Start of round 53:
+
+Start of Daniel's turn: 
+This is but a flesh wound. You've lost 10 health points
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        10        5     100   118   Wizard  
+2          Daniel          3         14    0     168   Rogue  

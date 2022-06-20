@@ -1,0 +1,581 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          2         5     100   14    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         4     90    10    Wizard  
+4          FigtherA        2         5     100   12    Fighter  
+5          CopyCat         1         5     90    10    Fighter  
+6          CopyCat         2         5     100   12    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          3         5     100   18    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         3     80    10    Wizard  
+4          FigtherA        3         5     100   14    Fighter  
+5          CopyCat         1         5     80    10    Fighter  
+6          CopyCat         3         5     100   14    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          4         5     100   22    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         2     70    10    Wizard  
+4          FigtherA        4         5     100   16    Fighter  
+5          CopyCat         1         5     70    10    Fighter  
+6          CopyCat         4         5     100   16    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          5         5     100   26    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         1     60    10    Wizard  
+4          FigtherA        5         5     100   18    Fighter  
+5          CopyCat         1         5     60    10    Fighter  
+6          CopyCat         5         5     100   18    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          6         5     100   30    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         0     50    10    Wizard  
+4          FigtherA        6         5     100   20    Fighter  
+5          CopyCat         1         5     50    10    Fighter  
+6          CopyCat         6         5     100   20    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          7         5     100   34    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         0     40    10    Wizard  
+4          FigtherA        7         5     100   22    Fighter  
+5          CopyCat         1         5     40    10    Fighter  
+6          CopyCat         7         5     100   22    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          8         5     100   38    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         0     30    10    Wizard  
+4          FigtherA        8         5     100   24    Fighter  
+5          CopyCat         1         5     30    10    Fighter  
+6          CopyCat         8         5     100   24    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          9         5     100   42    Rogue  
+2          WizardA         1         5     100   10    Wizard  
+3          WizardB         1         0     20    10    Wizard  
+4          FigtherA        9         5     100   26    Fighter  
+5          CopyCat         1         5     20    10    Fighter  
+6          CopyCat         9         5     100   26    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of RougeA's turn: 
+Player RougeA has defeated Goblin and rose 1 Level!
+Start of WizardA's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+Start of FigtherA's turn: 
+Player FigtherA has defeated Goblin and rose 1 Level!
+Start of CopyCat's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         1         5     100   10    Wizard  
+5          WizardB         1         0     10    10    Wizard  
+6          CopyCat         1         5     10    10    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         2         5     100   12    Wizard  
+5          WizardB         1         0     30    10    Wizard  
+6          CopyCat         2         5     10    12    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         3         5     100   14    Wizard  
+5          WizardB         1         0     20    10    Wizard  
+6          CopyCat         3         5     10    14    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         4         5     100   16    Wizard  
+5          WizardB         1         0     40    10    Wizard  
+6          CopyCat         4         5     10    16    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         5         5     100   18    Wizard  
+5          WizardB         1         0     30    10    Wizard  
+6          CopyCat         5         5     10    18    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         6         5     100   20    Wizard  
+5          WizardB         1         0     50    10    Wizard  
+6          CopyCat         6         5     10    20    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         7         5     100   22    Wizard  
+5          WizardB         1         0     40    10    Wizard  
+6          CopyCat         7         5     10    22    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         8         5     100   24    Wizard  
+5          WizardB         1         0     60    10    Wizard  
+6          CopyCat         8         5     10    24    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         9         5     100   26    Wizard  
+5          WizardB         1         0     50    10    Wizard  
+6          CopyCat         9         5     10    26    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of WizardA's turn: 
+Player WizardA has defeated Goblin and rose 1 Level!
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of CopyCat's turn: 
+Player CopyCat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     70    10    Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     60    10    Wizard  
+
+-------------------------------------------
+Start of round 20:
+
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     50    10    Wizard  
+
+-------------------------------------------
+Start of round 21:
+
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     40    10    Wizard  
+
+-------------------------------------------
+Start of round 22:
+
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     30    10    Wizard  
+
+-------------------------------------------
+Start of round 23:
+
+Start of WizardB's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     50    10    Wizard  
+
+-------------------------------------------
+Start of round 24:
+
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     40    10    Wizard  
+
+-------------------------------------------
+Start of round 25:
+
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     30    10    Wizard  
+
+-------------------------------------------
+Start of round 26:
+
+Start of WizardB's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     20    10    Wizard  
+
+-------------------------------------------
+Start of round 27:
+
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     10    10    Wizard  
+
+-------------------------------------------
+Start of round 28:
+
+Start of WizardB's turn: 
+Player WizardB has been defeated by a Goblin.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          RougeA          10        5     100   46    Rogue  
+2          FigtherA        10        5     100   28    Fighter  
+3          CopyCat         10        5     100   28    Fighter  
+4          WizardA         10        5     100   28    Wizard  
+5          CopyCat         10        5     10    28    Fighter  
+6          WizardB         1         0     0     10    Wizard  

@@ -1,0 +1,875 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+TomerM has paid 0 coins 
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     100   10    Wizard  
+2          Daniel          2         5     100   14    Rogue  
+3          TomerM          1         5     90    10    Fighter  
+4          Amirmann        2         5     100   12    Wizard  
+5          Amirmann        1         5     100   20    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Nothing happened.
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Amirmann's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         5     90    10    Wizard  
+2          Daniel          3         5     100   18    Rogue  
+3          TomerM          1         5     90    10    Fighter  
+4          Amirmann        2         4     90    12    Wizard  
+5          Amirmann        1         5     100   20    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     90    0     Wizard  
+2          Daniel          4         5     100   22    Rogue  
+3          TomerM          1         5     80    10    Fighter  
+4          Amirmann        3         4     90    14    Wizard  
+5          Amirmann        1         5     100   30    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Nothing happened.
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Amirmann's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     80    0     Wizard  
+2          Daniel          5         5     100   26    Rogue  
+3          TomerM          1         5     80    10    Fighter  
+4          Amirmann        3         3     80    14    Wizard  
+5          Amirmann        1         5     100   30    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     80    0     Wizard  
+2          Daniel          6         5     100   30    Rogue  
+3          TomerM          1         5     70    10    Fighter  
+4          Amirmann        4         3     80    16    Wizard  
+5          Amirmann        1         5     100   40    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Nothing happened.
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Amirmann's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     70    0     Wizard  
+2          Daniel          7         5     100   34    Rogue  
+3          TomerM          1         5     70    10    Fighter  
+4          Amirmann        4         2     70    16    Wizard  
+5          Amirmann        1         5     100   40    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     70    0     Wizard  
+2          Daniel          8         5     100   38    Rogue  
+3          TomerM          1         5     60    10    Fighter  
+4          Amirmann        5         2     70    18    Wizard  
+5          Amirmann        1         5     100   50    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Nothing happened.
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Amirmann's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          TomerM          1         6     60    0     Wizard  
+2          Daniel          9         5     100   42    Rogue  
+3          TomerM          1         5     60    10    Fighter  
+4          Amirmann        5         1     60    18    Wizard  
+5          Amirmann        1         5     100   50    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 0 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You dont have enough coins for this purchase. Please try again.
+TomerM has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Daniel's turn: 
+Player Daniel has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          1         6     60    0     Wizard  
+3          TomerM          1         5     50    10    Fighter  
+4          Amirmann        6         1     60    20    Wizard  
+5          Amirmann        1         5     100   60    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          1         6     50    0     Wizard  
+3          TomerM          2         5     50    12    Fighter  
+4          Amirmann        6         1     80    20    Wizard  
+5          Amirmann        2         5     100   62    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 12 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          1         6     40    0     Wizard  
+3          TomerM          2         6     50    2     Fighter  
+4          Amirmann        7         1     80    22    Wizard  
+5          Amirmann        2         5     90    62    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          2         6     40    2     Wizard  
+3          TomerM          2         6     50    12    Fighter  
+4          Amirmann        7         1     70    22    Wizard  
+5          Amirmann        3         5     90    64    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 64 coins
+You have entered an invalid input. Please try again.
+Amirmann has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          2         6     60    2     Wizard  
+3          TomerM          3         6     50    14    Fighter  
+4          Amirmann        7         1     60    22    Wizard  
+5          Amirmann        3         5     90    64    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          3         6     60    4     Wizard  
+3          TomerM          3         6     40    14    Fighter  
+4          Amirmann        8         1     60    24    Wizard  
+5          Amirmann        3         5     90    74    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          3         6     50    4     Wizard  
+3          TomerM          4         6     40    16    Fighter  
+4          Amirmann        8         1     80    24    Wizard  
+5          Amirmann        4         5     90    76    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 16 coins
+You have entered an invalid input. Please try again.
+TomerM has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          3         6     40    4     Wizard  
+3          TomerM          4         6     41    11    Fighter  
+4          Amirmann        9         1     80    26    Wizard  
+5          Amirmann        4         5     80    76    Fighter  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          4         6     40    6     Wizard  
+3          TomerM          4         6     41    21    Fighter  
+4          Amirmann        9         1     70    26    Wizard  
+5          Amirmann        5         5     80    78    Fighter  
+
+-------------------------------------------
+Start of round 18:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 78 coins
+Amirmann has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          TomerM          4         6     60    6     Wizard  
+3          TomerM          5         6     41    23    Fighter  
+4          Amirmann        9         1     60    26    Wizard  
+5          Amirmann        5         5     80    78    Fighter  
+
+-------------------------------------------
+Start of round 19:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          5         6     60    8     Wizard  
+4          TomerM          5         6     31    23    Fighter  
+5          Amirmann        5         5     80    88    Fighter  
+
+-------------------------------------------
+Start of round 20:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          5         6     50    8     Wizard  
+4          TomerM          6         6     31    25    Fighter  
+5          Amirmann        5         5     80    88    Fighter  
+
+-------------------------------------------
+Start of round 21:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+Start of TomerM's turn: 
+You've won the scuffle without losing any health points.
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 88 coins
+Amirmann has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          6         6     50    10    Wizard  
+4          TomerM          6         6     31    25    Fighter  
+5          Amirmann        5         5     80    88    Fighter  
+
+-------------------------------------------
+Start of round 22:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          7         6     50    12    Wizard  
+4          TomerM          6         6     21    25    Fighter  
+5          Amirmann        6         5     80    90    Fighter  
+
+-------------------------------------------
+Start of round 23:
+
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          7         6     50    22    Wizard  
+4          TomerM          6         6     11    25    Fighter  
+5          Amirmann        7         5     80    92    Fighter  
+
+-------------------------------------------
+Start of round 24:
+
+Start of TomerM's turn: 
+Fairies like wizards, you've gained 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+Start of Amirmann's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          7         6     70    22    Wizard  
+4          TomerM          7         6     11    27    Fighter  
+5          Amirmann        7         5     80    92    Fighter  
+
+-------------------------------------------
+Start of round 25:
+
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 22 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+TomerM has paid 0 coins 
+Safe travels!
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          7         6     70    22    Wizard  
+4          TomerM          8         6     11    29    Fighter  
+5          Amirmann        7         5     70    92    Fighter  
+
+-------------------------------------------
+Start of round 26:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Amirmann's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          8         6     70    24    Wizard  
+4          TomerM          8         6     11    39    Fighter  
+5          Amirmann        7         5     60    92    Fighter  
+
+-------------------------------------------
+Start of round 27:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of TomerM's turn: 
+Nothing happened.
+Start of Amirmann's turn: 
+Player Amirmann has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          9         6     70    26    Wizard  
+4          TomerM          8         6     11    39    Fighter  
+5          Amirmann        8         5     60    94    Fighter  
+
+-------------------------------------------
+Start of round 28:
+
+Start of TomerM's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of TomerM's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+TomerM has 39 coins
+TomerM has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          9         6     60    26    Wizard  
+4          TomerM          8         7     11    29    Fighter  
+5          Amirmann        9         5     60    96    Fighter  
+
+-------------------------------------------
+Start of round 29:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          9         6     50    26    Wizard  
+4          TomerM          9         7     11    31    Fighter  
+5          Amirmann        9         5     60    106   Fighter  
+
+-------------------------------------------
+Start of round 30:
+
+Start of TomerM's turn: 
+You fell into the trap, lose 10 health points.
+Start of TomerM's turn: 
+Player TomerM has defeated Goblin and rose 1 Level!
+Start of Amirmann's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          10        7     11    33    Fighter  
+4          TomerM          9         6     40    26    Wizard  
+5          Amirmann        9         5     60    106   Fighter  
+
+-------------------------------------------
+Start of round 31:
+
+Start of TomerM's turn: 
+Player TomerM has defeated Vampire and rose 1 Level!
+Start of Amirmann's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          10        7     11    33    Fighter  
+4          TomerM          10        6     40    28    Wizard  
+5          Amirmann        9         5     60    106   Fighter  
+
+-------------------------------------------
+Start of round 32:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 106 coins
+You have entered an invalid input. Please try again.
+Amirmann has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          10        7     11    33    Fighter  
+4          TomerM          10        6     40    28    Wizard  
+5          Amirmann        9         5     60    106   Fighter  
+
+-------------------------------------------
+Start of round 33:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Daniel          10        5     100   46    Rogue  
+2          Amirmann        10        1     60    28    Wizard  
+3          TomerM          10        7     11    33    Fighter  
+4          TomerM          10        6     40    28    Wizard  
+5          Amirmann        10        5     60    108   Fighter  

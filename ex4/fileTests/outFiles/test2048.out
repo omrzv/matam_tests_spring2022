@@ -1,0 +1,358 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Invalid team size! Please enter a different size.
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+Start of Efrat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           2         5     100   12    Fighter  
+2          Efrat           1         5     90    10    Fighter  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           3         5     100   14    Fighter  
+2          Efrat           2         5     90    12    Fighter  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           4         5     100   16    Fighter  
+2          Efrat           3         5     90    14    Fighter  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           5         5     100   18    Fighter  
+2          Efrat           4         5     90    16    Fighter  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+Start of Efrat's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           6         5     100   20    Fighter  
+2          Efrat           4         5     90    16    Fighter  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Omerz's turn: 
+You've won the scuffle without losing any health points.
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           6         5     100   20    Fighter  
+2          Efrat           5         5     90    18    Fighter  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 20 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Efrat's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           6         5     100   15    Fighter  
+2          Efrat           5         5     90    18    Fighter  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Omerz's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Omerz has 15 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Omerz has paid 0 coins 
+Safe travels!
+Start of Efrat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           6         5     100   15    Fighter  
+2          Efrat           5         5     80    18    Fighter  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Omerz's turn: 
+Nothing happened.
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           6         5     100   15    Fighter  
+2          Efrat           6         5     80    20    Fighter  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Omerz's turn: 
+You fell into the trap, lose 10 health points.
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           6         5     90    15    Fighter  
+2          Efrat           7         5     80    22    Fighter  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           7         5     90    17    Fighter  
+2          Efrat           8         5     80    24    Fighter  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Omerz           8         5     90    19    Fighter  
+2          Efrat           9         5     80    26    Fighter  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           10        5     80    28    Fighter  
+2          Omerz           9         5     90    21    Fighter  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Omerz's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           10        5     80    28    Fighter  
+2          Omerz           9         5     90    21    Fighter  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Omerz's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           10        5     80    28    Fighter  
+2          Omerz           9         5     90    21    Fighter  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Omerz's turn: 
+Player Omerz has defeated Vampire and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           10        5     80    28    Fighter  
+2          Omerz           10        5     90    23    Fighter  

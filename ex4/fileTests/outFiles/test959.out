@@ -1,0 +1,547 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Efrat's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        1         5     100   30    Rogue  
+2          Efrat           1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 10 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        1         5     90    30    Rogue  
+2          Efrat           1         5     100   10    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Amirmann's turn: 
+Player Amirmann has defeated Goblin and rose 1 Level!
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         5     90    34    Rogue  
+2          Efrat           1         5     100   20    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         4     80    34    Rogue  
+2          Efrat           2         5     100   22    Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 34 coins
+Amirmann has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         4     81    29    Rogue  
+2          Efrat           2         5     100   32    Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 32 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     71    29    Rogue  
+2          Efrat           2         5     100   27    Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Amirmann's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 27 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     71    29    Rogue  
+2          Efrat           2         5     100   27    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Goblin.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     61    29    Rogue  
+2          Efrat           3         5     100   29    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Efrat's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     61    49    Rogue  
+2          Efrat           3         5     100   29    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 29 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     51    49    Rogue  
+2          Efrat           3         5     100   24    Wizard  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Goblin.
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     41    49    Rogue  
+2          Efrat           3         5     100   34    Wizard  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     31    49    Rogue  
+2          Efrat           4         5     100   36    Wizard  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Amirmann's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Amirmann has 49 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Amirmann has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         3     31    39    Rogue  
+2          Efrat           4         5     100   46    Wizard  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Vampire.
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 46 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Efrat has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     21    39    Rogue  
+2          Efrat           4         6     100   36    Wizard  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Amirmann's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 36 coins
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     21    39    Rogue  
+2          Efrat           4         6     100   31    Wizard  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Goblin.
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     11    39    Rogue  
+2          Efrat           5         6     100   33    Wizard  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Amirmann's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Efrat's turn: 
+Fairies like wizards, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     11    59    Rogue  
+2          Efrat           5         6     100   33    Wizard  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Amirmann's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 33 coins
+Efrat has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Amirmann        2         2     1     59    Rogue  
+2          Efrat           5         6     100   28    Wizard  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Amirmann's turn: 
+Player Amirmann has been defeated by a Goblin.
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           5         6     100   38    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           6         6     100   40    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           7         6     100   42    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 22:
+
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 42 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           7         6     100   42    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 23:
+
+Start of Efrat's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           7         6     100   52    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 24:
+
+Start of Efrat's turn: 
+Player Efrat has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           8         6     100   54    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 25:
+
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 54 coins
+You have entered an invalid input. Please try again.
+Efrat has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           8         7     100   44    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 26:
+
+Start of Efrat's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           8         7     90    44    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 27:
+
+Start of Efrat's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Efrat has 44 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Efrat has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           8         8     90    34    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 28:
+
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           9         8     90    36    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
+
+-------------------------------------------
+Start of round 29:
+
+Start of Efrat's turn: 
+Player Efrat has defeated Goblin and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Efrat           10        8     90    38    Wizard  
+2          Amirmann        2         2     0     59    Rogue  
