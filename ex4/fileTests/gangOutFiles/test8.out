@@ -1,0 +1,273 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Goblin and rose 1 Level!
+Start of TimotheeChala's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    2         5     100   12    Fighter  
+2          TimotheeChala   1         5     100   10    Rogue  
+
+-------------------------------------------
+Start of round 2:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Vampire and rose 1 Level!
+Start of TimotheeChala's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    3         5     100   14    Fighter  
+2          TimotheeChala   1         5     100   10    Rogue  
+
+-------------------------------------------
+Start of round 3:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Gang and rose 1 Level!
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    4         5     100   14    Fighter  
+2          TimotheeChala   2         5     100   14    Rogue  
+
+-------------------------------------------
+Start of round 4:
+
+Start of SaoirseRonan's turn: 
+Nothing happened.
+Start of TimotheeChala's turn: 
+Player TimotheeChala has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    4         5     100   14    Fighter  
+2          TimotheeChala   2         4     90    14    Rogue  
+
+-------------------------------------------
+Start of round 5:
+
+Start of SaoirseRonan's turn: 
+You fell into the trap, lose 10 health points.
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Gang and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    4         5     90    14    Fighter  
+2          TimotheeChala   3         4     90    14    Rogue  
+
+-------------------------------------------
+Start of round 6:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Goblin and rose 1 Level!
+Start of TimotheeChala's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    5         5     90    16    Fighter  
+2          TimotheeChala   3         4     90    14    Rogue  
+
+-------------------------------------------
+Start of round 7:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Vampire and rose 1 Level!
+Start of TimotheeChala's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    6         5     90    18    Fighter  
+2          TimotheeChala   3         4     90    14    Rogue  
+
+-------------------------------------------
+Start of round 8:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Gang and rose 1 Level!
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    7         5     90    18    Fighter  
+2          TimotheeChala   4         4     90    18    Rogue  
+
+-------------------------------------------
+Start of round 9:
+
+Start of SaoirseRonan's turn: 
+Nothing happened.
+Start of TimotheeChala's turn: 
+Player TimotheeChala has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    7         5     90    18    Fighter  
+2          TimotheeChala   4         3     80    18    Rogue  
+
+-------------------------------------------
+Start of round 10:
+
+Start of SaoirseRonan's turn: 
+You fell into the trap, lose 10 health points.
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Gang and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    7         5     80    18    Fighter  
+2          TimotheeChala   5         3     80    18    Rogue  
+
+-------------------------------------------
+Start of round 11:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Goblin and rose 1 Level!
+Start of TimotheeChala's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    8         5     80    20    Fighter  
+2          TimotheeChala   5         3     80    18    Rogue  
+
+-------------------------------------------
+Start of round 12:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Vampire and rose 1 Level!
+Start of TimotheeChala's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    9         5     80    22    Fighter  
+2          TimotheeChala   5         3     80    18    Rogue  
+
+-------------------------------------------
+Start of round 13:
+
+Start of SaoirseRonan's turn: 
+Player SaoirseRonan has defeated Gang and rose 1 Level!
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   6         3     80    22    Rogue  
+
+-------------------------------------------
+Start of round 14:
+
+Start of TimotheeChala's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   6         3     80    22    Rogue  
+
+-------------------------------------------
+Start of round 15:
+
+Start of TimotheeChala's turn: 
+Player TimotheeChala has been defeated by a Vampire.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   6         2     70    22    Rogue  
+
+-------------------------------------------
+Start of round 16:
+
+Start of TimotheeChala's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   6         2     70    22    Rogue  
+
+-------------------------------------------
+Start of round 17:
+
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Gang and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   7         2     70    22    Rogue  
+
+-------------------------------------------
+Start of round 18:
+
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   8         2     70    26    Rogue  
+
+-------------------------------------------
+Start of round 19:
+
+Start of TimotheeChala's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   8         2     70    26    Rogue  
+
+-------------------------------------------
+Start of round 20:
+
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   9         2     70    30    Rogue  
+
+-------------------------------------------
+Start of round 21:
+
+Start of TimotheeChala's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   9         2     70    30    Rogue  
+
+-------------------------------------------
+Start of round 22:
+
+Start of TimotheeChala's turn: 
+Player TimotheeChala has defeated Gang and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          SaoirseRonan    10        5     80    22    Fighter  
+2          TimotheeChala   10        2     70    30    Rogue  

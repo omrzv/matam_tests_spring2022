@@ -1,0 +1,139 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of wIchIta's turn: 
+Player wIchIta has been defeated by a Dragon.
+Player wIchIta has been defeated by a Goblin.
+Start of gEnEva's turn: 
+Nothing happened.
+Start of nIlheIm's turn: 
+Player nIlheIm has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          gEnEva          1         5     100   10    Rogue  
+2          nIlheIm         2         5     100   12    Fighter  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 2:
+
+Start of gEnEva's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of nIlheIm's turn: 
+Player nIlheIm has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          gEnEva          1         5     100   10    Rogue  
+2          nIlheIm         3         5     100   14    Fighter  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 3:
+
+Start of gEnEva's turn: 
+Player gEnEva has been defeated by a Vampire.
+Start of nIlheIm's turn: 
+Player nIlheIm has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          gEnEva          1         4     90    10    Rogue  
+2          nIlheIm         4         5     100   16    Fighter  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 4:
+
+Start of gEnEva's turn: 
+Player gEnEva has been defeated by a Dragon.
+Player gEnEva has been defeated by a Goblin.
+Start of nIlheIm's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          nIlheIm         4         5     100   16    Fighter  
+2          gEnEva          1         4     0     10    Rogue  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 5:
+
+Start of nIlheIm's turn: 
+Player nIlheIm has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          nIlheIm         5         5     100   18    Fighter  
+2          gEnEva          1         4     0     10    Rogue  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 6:
+
+Start of nIlheIm's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          nIlheIm         5         5     90    18    Fighter  
+2          gEnEva          1         4     0     10    Rogue  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 7:
+
+Start of nIlheIm's turn: 
+Player nIlheIm has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          nIlheIm         6         5     90    20    Fighter  
+2          gEnEva          1         4     0     10    Rogue  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 8:
+
+Start of nIlheIm's turn: 
+Player nIlheIm has defeated Vampire and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          nIlheIm         7         5     90    22    Fighter  
+2          gEnEva          1         4     0     10    Rogue  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 9:
+
+Start of nIlheIm's turn: 
+Player nIlheIm has defeated Goblin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          nIlheIm         8         5     90    24    Fighter  
+2          gEnEva          1         4     0     10    Rogue  
+3          wIchIta         1         5     0     10    Wizard  
+
+-------------------------------------------
+Start of round 10:
+
+Start of nIlheIm's turn: 
+Player nIlheIm has been defeated by a Dragon.
+Player nIlheIm has been defeated by a Goblin.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          nIlheIm         8         5     0     24    Fighter  
+2          gEnEva          1         4     0     10    Rogue  
+3          wIchIta         1         5     0     10    Wizard  
