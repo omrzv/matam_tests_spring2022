@@ -1,0 +1,6 @@
+{
+	"234247" : { "course_name" : "Introduction to Algorithms", "lecturers" : ["Morad"]},
+	"234292" : { "course_name" : "Logic for Computer Science", "lecturers" : ["Asmhan"]}
+}
+
+

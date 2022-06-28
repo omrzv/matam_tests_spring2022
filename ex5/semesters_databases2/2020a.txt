@@ -1,0 +1,5 @@
+{
+	"234247" : { "course_name" : "How to win on factors", "lecturers" : ["EvilCanevil"]},
+}
+
+

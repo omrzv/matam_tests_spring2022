@@ -1,0 +1,6 @@
+{
+	"101" : { "course_name" : "Testing 101", "lecturers" : ["Omer Ziv", "Amir Mann"]},
+	"102" : { "course_name" : "The Empty Course", "lecturers" : []}
+}
+
+

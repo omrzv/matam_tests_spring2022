@@ -1,0 +1,10 @@
+{
+	"234124" : { "course_name" : "Introduction to Systems Programming", "lecturers" : ["Liav Adi","Gal Lalouche"]},
+	"234247" : { "course_name" : "Introduction to Algorithms", "lecturers" : ["Hadas Shachnai","Roy Schwartz"]},
+	"234292" : { "course_name" : "Logic for Computer Science", "lecturers" : ["Keren Censor-Hillel","Liav Adi"]}
+}
+
+
+
+
+

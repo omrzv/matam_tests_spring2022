@@ -1,0 +1,17 @@
+{
+	
+	"318467833" : { "student_name" : "Mohamed Gramne", "registered_courses" : ["Introduction to Systems Programming",
+	"Data Structures 1","Introduction to Algorithms"]},
+	
+	"318422301" : { "student_name" : "Mhameed", "registered_courses" : ["Introduction to Systems Programming","Data Structures 1"]},
+	
+	"319856388" : { "student_name" : "Efrat Levkovizh", "registered_courses" : ["Introduction to Systems Programming"]},
+	
+	"318464432" : { "student_name" : "Yazeed Falah", "registered_courses" : ["Introduction to Systems Programming",
+	"Data Structures 1","Introduction to Algorithms"]},
+	
+	"318423455" : { "student_name" : "Zoabi", "registered_courses" : ["Introduction to Algorithms"]}
+	
+}
+
+

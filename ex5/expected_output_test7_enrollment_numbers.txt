@@ -1,0 +1,4 @@
+"A course" 1
+"B course" 1
+"C course" 1
+"D course" 1
